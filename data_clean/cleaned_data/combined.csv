@@ -1,0 +1,1340 @@
+species,country,region,farm,aroma,cupper_points,sweetness,clean_cup,uniformity,balance,body,acidity,aftertaste,flavor
+Arabica,Ethiopia,guji-hambela,metad plc,8.67,8.75,10.0,10.0,10.0,8.42,8.5,8.75,8.67,8.83
+Arabica,Ethiopia,guji-hambela,metad plc,8.75,8.58,10.0,10.0,10.0,8.42,8.42,8.58,8.5,8.67
+Arabica,Guatemala,,"san marcos barrancas ""san cristobal cuch",8.42,9.25,10.0,10.0,10.0,8.42,8.33,8.42,8.42,8.5
+Arabica,Ethiopia,oromia,yidnekachew dabessa coffee plantation,8.17,8.67,10.0,10.0,10.0,8.25,8.5,8.42,8.42,8.58
+Arabica,Ethiopia,guji-hambela,metad plc,8.25,8.58,10.0,10.0,10.0,8.33,8.42,8.5,8.25,8.5
+Arabica,Brazil,,,8.58,8.33,10.0,10.0,10.0,8.33,8.25,8.5,8.42,8.42
+Arabica,Peru,,,8.42,8.5,10.0,10.0,10.0,8.25,8.25,8.5,8.33,8.5
+Arabica,Ethiopia,oromia,aolme,8.25,9.0,9.33,10.0,10.0,8.5,8.33,8.42,8.5,8.33
+Arabica,Ethiopia,oromiya,aolme,8.67,8.67,9.33,10.0,9.33,8.42,8.33,8.42,8.58,8.67
+Arabica,Ethiopia,"snnp/kaffa zone,gimbowereda",tulla coffee farm,8.08,8.5,10.0,10.0,10.0,8.42,7.67,8.5,8.5,8.58
+Arabica,Ethiopia,oromia,fahem coffee plantation,8.17,8.58,10.0,10.0,10.0,8.17,7.75,8.5,8.25,8.67
+Arabica,United States,antioquia,el filo,8.25,8.5,10.0,10.0,10.0,8.17,8.08,8.33,8.17,8.42
+Arabica,United States,antioquia,los cedros,8.08,8.33,10.0,10.0,10.0,8.08,8.0,8.42,8.33,8.67
+Arabica,United States (Hawaii),kona,arianna farms,8.33,8.58,10.0,10.0,10.0,8.0,8.25,8.25,8.08,8.42
+Arabica,Ethiopia,oromiya,aolme,8.25,8.5,9.33,10.0,9.33,8.75,8.58,8.25,8.5,8.33
+Arabica,United States,antioquia,el águila,8.0,8.17,10.0,10.0,10.0,8.0,8.17,8.17,8.58,8.5
+Arabica,Indonesia,sulawesi,toarco jaya,8.33,8.33,10.0,10.0,10.0,8.42,8.5,7.75,7.83,8.25
+Arabica,Ethiopia,yirgacheffe,,8.17,8.83,9.33,10.0,9.33,8.33,8.42,8.33,8.25,8.33
+Arabica,China,yunnan,echo coffee,8.42,8.42,10.0,10.0,10.0,8.0,7.92,8.17,8.08,8.25
+Arabica,Ethiopia,gedio,drima zede,8.17,8.33,10.0,10.0,10.0,8.33,8.08,8.17,8.0,8.17
+Arabica,United States,antioquia,el rodeo,8.0,8.17,10.0,10.0,10.0,8.0,8.25,8.5,8.08,8.25
+Arabica,Costa Rica,san ramon,several,8.08,8.33,10.0,10.0,10.0,8.33,8.0,8.17,8.0,8.25
+Arabica,Mexico,xalapa,la herradura,8.17,8.58,10.0,10.0,10.0,8.17,7.83,8.0,8.17,8.25
+Arabica,United States,antioquia,la curva,8.25,8.17,10.0,10.0,10.0,8.17,7.83,8.17,8.17,8.33
+Arabica,Ethiopia,sidamo,,8.42,8.08,10.0,10.0,10.0,8.0,8.33,8.17,7.92,8.17
+Arabica,Brazil,south of minas,fazenda kaquend,8.5,7.92,10.0,10.0,10.0,8.0,8.0,8.0,8.0,8.5
+Arabica,Ethiopia,sidamo,,7.83,8.25,10.0,10.0,10.0,8.17,8.17,8.17,8.08,8.25
+Arabica,Uganda,kapchorwa eastern,chebonet (23) women coffee,8.42,8.17,10.0,10.0,10.0,7.92,7.83,8.17,8.17,8.17
+Arabica,Honduras,comayagua,los hicaques,8.17,8.25,10.0,10.0,10.0,8.0,8.08,8.0,8.08,8.08
+Arabica,Taiwan,"leye, alishan township, chiayi county",tsoustructive garden 鄒築園,8.0,8.17,10.0,10.0,10.0,8.17,8.0,8.25,8.0,8.0
+Arabica,Nicaragua,,,7.92,8.0,10.0,10.0,10.0,8.08,8.0,8.33,8.0,8.25
+Arabica,"Tanzania, United Republic Of",,,8.42,8.17,10.0,10.0,10.0,8.0,7.58,8.0,8.17,8.17
+Arabica,Brazil,vale da grama,fazenda recreio,8.5,8.0,10.0,10.0,10.0,8.0,8.0,7.75,8.0,8.17
+Arabica,Costa Rica,west and central valley,exclusive coffees s.a.,8.17,8.42,10.0,10.0,10.0,8.0,7.83,8.08,8.0,7.83
+Arabica,Ethiopia,oromia,haider abamecha coffee plantation,8.0,8.08,10.0,10.0,10.0,8.08,8.08,8.0,7.92,8.08
+Arabica,Kenya,muranga,kangunu,8.08,8.08,10.0,10.0,10.0,7.92,7.92,8.25,8.0,8.0
+Arabica,United States (Hawaii),kona,,8.08,8.33,10.0,10.0,10.0,7.83,7.92,7.92,8.0,8.17
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,8.25,8.25,10.0,10.0,10.0,7.83,7.67,7.75,8.08,8.42
+Arabica,Ethiopia,yirgacheffe,"phone number | 0911-51-08-01, email | at",7.92,8.17,10.0,10.0,10.0,8.17,8.08,8.08,8.08,7.75
+Arabica,United States,antioquia,la primavera,7.67,8.08,10.0,10.0,10.0,8.08,8.17,8.0,8.0,8.17
+Arabica,Thailand,chiang rai,co-op #12,7.83,8.42,10.0,10.0,10.0,7.92,7.58,8.25,7.83,8.33
+Arabica,Brazil,sul de minas - carmo de minas,pereira estate coffee,8.17,8.08,10.0,10.0,10.0,8.0,8.33,7.75,7.92,7.92
+Arabica,Brazil,sul de minas - carmo de minas,pereira estate coffee,8.42,8.17,10.0,10.0,10.0,8.0,7.92,7.75,8.0,7.92
+Arabica,Taiwan,natou county,sunshine valley estate 向陽高山咖啡,8.08,8.42,10.0,10.0,10.0,7.83,7.75,8.08,7.75,8.17
+Arabica,Kenya,nyeri,jungle estate,8.08,8.0,10.0,10.0,10.0,8.08,7.83,8.0,8.0,8.08
+Arabica,Brazil,south of minas,fazenda kaquend,8.33,8.0,10.0,10.0,10.0,8.0,7.75,8.0,8.0,8.0
+Arabica,Uganda,eastern uganda,kaasayi,8.08,8.08,10.0,10.0,10.0,7.92,8.08,7.92,7.83,8.08
+Arabica,Colombia,tolima,ecobio colombia,7.75,8.17,10.0,10.0,10.0,8.17,8.08,8.08,7.83,7.92
+Arabica,Kenya,kiambu,kianjavi,7.92,8.17,10.0,10.0,10.0,7.92,7.5,8.5,7.83,8.17
+Arabica,Uganda,"sipi, mt elgon",,8.25,7.92,10.0,10.0,10.0,7.92,8.0,8.08,7.83,8.0
+Arabica,Ethiopia,sidamo,contact | sidacoop@ethionet.net,7.75,7.92,10.0,10.0,10.0,8.0,8.0,8.25,8.0,8.08
+Arabica,United States (Hawaii),kona,hula daddy kona coffee,8.33,8.17,10.0,10.0,10.0,7.83,7.75,8.0,7.75,8.17
+Arabica,Guatemala,nuevo oriente,la esperanza y anexos,7.92,8.0,10.0,10.0,10.0,7.83,8.08,8.08,7.92,8.08
+Arabica,Uganda,eastern,sipi organic coffee project,8.17,8.0,10.0,10.0,10.0,7.75,7.83,8.08,7.92,8.17
+Arabica,Colombia,huila,,8.0,7.92,10.0,10.0,10.0,8.0,7.83,8.17,8.0,8.0
+Arabica,Panama,boquete,la berlina estate,8.0,8.0,10.0,10.0,10.0,8.0,7.83,8.08,7.92,8.0
+Arabica,Ethiopia,oromia,,7.83,8.0,10.0,10.0,10.0,7.92,8.0,8.08,7.92,8.08
+Arabica,Guatemala,acatenango,valparaiso,7.83,8.0,10.0,10.0,10.0,8.0,7.83,8.17,8.0,8.0
+Arabica,Guatemala,nuevo oriente,finca el limon,8.0,8.0,10.0,10.0,10.0,7.83,7.83,8.33,7.83,8.0
+Arabica,Ethiopia,addis ababa,seid damtew coffee planation,7.83,8.0,10.0,10.0,10.0,8.0,7.92,8.17,7.83,8.0
+Arabica,Peru,cajamarca,,8.0,8.0,10.0,10.0,10.0,7.75,7.92,8.08,8.0,8.0
+Arabica,Papua New Guinea,eastern highlands province,tairora cherry – bonta,8.33,7.92,10.0,9.33,9.33,8.25,8.0,8.33,7.83,8.42
+Arabica,El Salvador,apaneca,el majahual,7.92,8.0,10.0,10.0,10.0,7.83,7.75,7.92,8.0,8.17
+Arabica,El Salvador,"ataco, apaneca - ilamatepec mountain range",finca la esmeralda,7.83,7.92,10.0,10.0,10.0,8.17,7.92,7.75,8.0,8.0
+Arabica,United States (Hawaii),kona,,7.83,8.0,10.0,10.0,10.0,8.0,8.08,7.75,7.92,8.0
+Arabica,Panama,boquete,elida estate,8.0,7.83,10.0,10.0,10.0,8.58,7.67,7.83,7.83,7.75
+Arabica,Kenya,kirinyaga,inoi,7.92,8.0,10.0,10.0,10.0,7.92,7.83,8.08,7.83,7.92
+Arabica,Ethiopia,oromia,,7.83,8.0,10.0,10.0,10.0,8.08,7.83,7.92,7.83,8.0
+Arabica,Uganda,bulambuli eastern region,buginyanya,8.33,8.08,10.0,10.0,10.0,7.92,7.67,7.92,7.67,7.92
+Arabica,Guatemala,huehuetenango,asoperc,8.0,7.83,10.0,10.0,10.0,8.0,7.83,8.33,7.67,7.83
+Arabica,Ethiopia,oromia,,7.75,8.08,10.0,10.0,10.0,7.83,7.92,8.17,7.83,7.83
+Arabica,Uganda,kapchorwa,chesiyo farmer group,8.08,8.0,10.0,10.0,10.0,7.83,8.0,7.67,7.83,8.0
+Arabica,United States (Hawaii),kona,,7.92,8.25,10.0,10.0,10.0,7.92,7.75,7.92,7.75,7.92
+Arabica,Brazil,south of minas,fazenda serra de três barras,8.0,8.0,10.0,10.0,10.0,8.0,7.75,7.67,8.0,8.0
+Arabica,El Salvador,apaneca,sierra nevada,8.08,7.92,10.0,10.0,10.0,7.83,7.83,8.08,7.83,7.83
+Arabica,China,yunnan,pu'er city longke coffee co.ltd,8.0,7.92,10.0,10.0,10.0,7.75,7.83,7.83,8.0,8.0
+Arabica,Guatemala,huehuetenango,el injerto s.a.,7.83,7.83,10.0,10.0,10.0,8.58,7.83,7.67,7.83,7.75
+Arabica,Costa Rica,west valley,several,7.92,8.0,9.33,10.0,10.0,8.08,8.0,7.92,8.0,8.08
+Arabica,Costa Rica,san ramon,several,8.0,7.92,10.0,10.0,10.0,8.5,8.08,7.67,7.58,7.58
+Arabica,Kenya,central kenya,,7.83,7.92,10.0,10.0,10.0,7.75,7.92,8.08,7.75,8.08
+Arabica,Kenya,central kenya,,8.0,7.83,10.0,10.0,10.0,7.75,7.83,8.08,7.92,7.92
+Arabica,Ethiopia,yirgacheffe,phone number | 0911-513824 email: gmt.ft,7.83,8.08,10.0,10.0,10.0,7.83,7.75,8.08,7.92,7.83
+Arabica,Ethiopia,yirgacheffe,,7.92,8.0,10.0,10.0,10.0,7.75,7.75,8.33,7.75,7.83
+Arabica,Guatemala,oriente,la esperanza y anexos,8.0,7.83,10.0,10.0,10.0,7.83,7.92,8.0,7.75,7.92
+Arabica,Colombia,santander,various,8.17,7.92,10.0,10.0,10.0,7.83,7.58,8.0,7.83,7.92
+Arabica,Colombia,santander,,7.58,7.92,10.0,10.0,10.0,7.92,8.0,7.83,7.92,8.08
+Arabica,Indonesia,lintong,,7.75,8.0,10.0,10.0,10.0,7.83,8.08,8.0,7.67,7.83
+Arabica,Guatemala,huehuetenango,coop. hoja blanca - fedecocagua,8.25,7.92,10.0,10.0,10.0,7.67,7.75,7.92,7.67,8.0
+Arabica,Ethiopia,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.",seid damtew coffee planation,7.75,7.83,10.0,10.0,10.0,7.92,8.0,8.0,7.58,8.0
+Arabica,Colombia,pasto,,8.17,7.67,10.0,10.0,10.0,7.75,8.0,8.08,7.58,7.83
+Arabica,Ethiopia,aricha,aricha coop,8.42,8.08,10.0,10.0,9.33,7.92,7.92,8.0,7.42,8.0
+Arabica,United States (Hawaii),kona,,7.58,7.92,10.0,10.0,10.0,8.17,7.83,7.92,7.83,7.83
+Arabica,Colombia,cundinamarca,,7.83,8.08,10.0,10.0,10.0,7.83,7.83,7.75,7.75,8.0
+Arabica,United States (Hawaii),kona,,8.08,8.17,10.0,9.33,9.33,8.0,8.08,8.0,7.92,8.17
+Arabica,Ethiopia,sidamo,,7.67,7.83,10.0,10.0,10.0,7.83,7.92,8.0,7.83,8.0
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,7.5,7.92,10.0,10.0,10.0,7.75,7.92,7.83,8.25,7.92
+Arabica,Uganda,eastern uganda,mount elgon area,8.17,8.0,10.0,10.0,10.0,7.75,7.67,7.75,7.75,7.92
+Arabica,Colombia,huila,,8.0,7.83,10.0,10.0,10.0,7.83,7.75,7.92,7.75,7.92
+Arabica,Costa Rica,tarrazu,estate la patricia,7.83,7.92,10.0,10.0,10.0,7.83,7.92,7.92,7.58,8.0
+Arabica,Mexico,veracruz,various,7.83,8.08,10.0,10.0,10.0,7.83,7.67,7.75,7.83,8.0
+Arabica,Kenya,,,8.17,7.83,10.0,10.0,10.0,7.83,7.67,7.75,7.92,7.83
+Arabica,Kenya,central kenya,machure estate,7.75,7.83,10.0,10.0,10.0,7.75,8.0,8.08,7.75,7.83
+Arabica,Brazil,grama valley,sitío são geraldo,8.0,8.0,10.0,10.0,10.0,7.67,7.67,7.83,7.83,8.0
+Arabica,Mexico,mexico,kassandra,7.92,7.83,10.0,10.0,10.0,7.83,7.42,8.08,7.75,8.17
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,7.75,7.83,10.0,10.0,10.0,8.0,8.0,7.75,7.75,7.92
+Arabica,Guatemala,"chuva, san marcos",la igualdad,7.83,8.0,10.0,10.0,10.0,7.67,7.75,8.0,7.67,8.08
+Arabica,Colombia,huila,,7.92,7.83,10.0,10.0,10.0,7.83,7.92,7.83,7.67,7.92
+Arabica,Colombia,huila,,7.92,7.83,10.0,10.0,10.0,8.0,7.75,7.83,7.75,7.83
+Arabica,Taiwan,natou county,baishengcun coffee 百勝村咖啡莊園,7.67,7.92,10.0,10.0,10.0,7.92,8.0,7.58,8.0,7.83
+Arabica,"Tanzania, United Republic Of",mbeya,hasambo amcos,8.0,7.83,10.0,10.0,10.0,7.75,7.75,7.92,7.83,7.83
+Arabica,Colombia,huila,,7.75,7.92,10.0,10.0,10.0,8.0,7.75,7.75,7.83,7.92
+Arabica,Mexico,coatepec,el suspiro,7.75,8.17,10.0,10.0,10.0,7.92,7.5,7.83,7.75,8.0
+Arabica,Brazil,south of minas,fazenda grota funda,8.0,7.75,10.0,10.0,10.0,7.75,8.0,7.75,7.75,7.92
+Arabica,Brazil,south of minas,sitio claro,8.0,7.92,10.0,10.0,10.0,7.75,7.5,8.0,7.75,8.0
+Arabica,Kenya,,,8.0,7.58,10.0,10.0,10.0,7.75,7.92,8.17,7.83,7.67
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",shi fang yuan 十方源,7.92,8.0,10.0,10.0,10.0,7.83,7.83,7.83,7.83,7.58
+Arabica,Uganda,eastern,mt.elgon bugisu shamba 2,7.75,7.83,10.0,10.0,10.0,7.75,8.25,7.67,7.67,7.92
+Arabica,United States (Hawaii),kona,,7.67,8.08,10.0,10.0,10.0,8.0,7.83,7.75,7.75,7.75
+Arabica,Ethiopia,sidamo,contact | sidacoop@ethionet.net,7.75,8.0,10.0,10.0,10.0,7.67,7.75,7.92,7.83,7.92
+Arabica,Ethiopia,sidamo,contact | sidacoop@ethionet.net,7.42,7.92,10.0,10.0,10.0,7.83,7.83,8.0,7.92,7.92
+Arabica,Thailand,thailand,matsuzawa coffee,7.75,8.0,10.0,10.0,10.0,7.75,8.0,7.75,7.75,7.75
+Arabica,Kenya,nyeri,karatina,7.92,7.92,10.0,10.0,10.0,7.83,7.75,7.92,7.58,7.83
+Arabica,Honduras,marcala,cerro bueno,7.83,8.17,10.0,10.0,10.0,7.67,7.67,7.67,8.0,7.75
+Arabica,El Salvador,santa ana,several,7.75,7.75,9.33,10.0,10.0,7.92,7.67,8.33,8.0,8.0
+Arabica,Nicaragua,jinotega,santa martha,7.83,8.5,10.0,10.0,10.0,7.67,7.75,7.83,7.58,7.58
+Arabica,El Salvador,apaneca,monterrey,7.83,8.0,10.0,10.0,10.0,7.67,7.83,8.0,7.5,7.83
+Arabica,Indonesia,"temanggung, indonesia",sran temanggung plantation,7.92,7.92,10.0,10.0,10.0,7.75,7.75,7.75,7.75,7.83
+Arabica,Japan,ada okinawa japan,ada farm,7.75,8.08,10.0,10.0,10.0,7.83,8.08,7.42,7.75,7.75
+Arabica,Costa Rica,tarrazu,rio jorco,8.08,7.92,10.0,10.0,10.0,7.92,7.5,7.83,7.67,7.75
+Arabica,Guatemala,acatenango,san diego buena vista,7.75,7.83,10.0,10.0,10.0,7.75,7.92,8.0,7.58,7.83
+Arabica,Costa Rica,tarrazu,coopetarrazú,8.17,7.92,10.0,10.0,10.0,7.75,7.83,7.17,7.83,8.0
+Arabica,Ethiopia,yirgacheffe,moplaco,8.08,7.92,10.0,10.0,10.0,7.67,7.58,7.83,7.75,7.83
+Arabica,Costa Rica,costa rica,finca salaca las brisas,7.67,7.67,10.0,10.0,10.0,8.58,7.67,7.75,7.75,7.58
+Arabica,Costa Rica,west valley,various,8.0,8.0,10.0,10.0,10.0,7.75,7.75,7.75,7.83,7.58
+Arabica,Costa Rica,,,8.08,7.92,9.33,10.0,10.0,8.0,7.92,7.83,7.75,7.83
+Arabica,Taiwan,taichung xinshe 台中市新社區,dragon 龍咖啡,8.0,7.75,10.0,10.0,10.0,7.75,7.75,7.75,7.75,7.92
+Arabica,Colombia,santander,,7.75,7.92,10.0,10.0,10.0,7.83,7.75,7.83,7.75,7.83
+Arabica,Kenya,nyeri,,7.75,7.83,10.0,10.0,10.0,7.75,7.58,8.0,7.83,7.92
+Arabica,Guatemala,oriente,agropecuaria quiagral,8.0,7.67,10.0,10.0,10.0,8.0,7.67,7.83,7.67,7.83
+Arabica,Guatemala,acatenango,valparaiso,7.67,8.0,10.0,10.0,10.0,7.83,7.67,8.0,7.67,7.83
+Arabica,Mexico,el remudadero,"el nogal, la higuera, los laureles",7.83,7.92,10.0,10.0,10.0,7.83,7.92,7.92,7.67,7.58
+Arabica,Uganda,mbale,,7.92,7.83,10.0,10.0,10.0,7.75,7.67,7.92,7.75,7.83
+Arabica,Peru,"penachi, cecanor",,7.67,7.92,10.0,10.0,10.0,7.83,7.92,7.75,7.75,7.83
+Arabica,Ethiopia,sidamo,contact | sidacoop@ethionet.net,7.42,7.83,10.0,10.0,10.0,7.92,8.0,8.0,7.75,7.75
+Arabica,Kenya,nyeri,jungle estate,7.92,7.83,10.0,10.0,10.0,7.92,7.58,7.75,7.83,7.75
+Arabica,Colombia,santander,,7.83,8.08,10.0,10.0,10.0,7.83,7.67,7.92,7.58,7.67
+Arabica,Colombia,huila,,7.92,7.75,10.0,10.0,10.0,7.67,7.83,8.0,7.58,7.83
+Arabica,Kenya,nyeri,blend,7.83,7.92,10.0,10.0,10.0,7.83,7.58,7.75,7.83,7.83
+Arabica,Guatemala,jalapa,el morito,7.75,7.83,10.0,10.0,10.0,7.83,7.75,7.92,7.67,7.83
+Arabica,Guatemala,oriente,el papaturro,8.0,8.17,10.0,10.0,10.0,7.67,7.58,7.58,7.67,7.92
+Arabica,Colombia,santander,,7.67,7.83,10.0,10.0,10.0,8.5,7.58,7.75,7.58,7.67
+Arabica,Colombia,huila,,7.75,7.92,10.0,10.0,10.0,8.0,7.58,7.75,7.83,7.75
+Arabica,Kenya,,,7.75,7.75,10.0,10.0,10.0,7.75,7.75,8.08,7.75,7.75
+Arabica,Colombia,huila,,7.67,7.75,10.0,10.0,10.0,7.92,7.58,8.0,7.83,7.83
+Arabica,Costa Rica,tres rios,la chaparral,7.75,7.75,10.0,10.0,10.0,7.67,7.83,8.0,7.75,7.83
+Arabica,Colombia,huila,various,7.42,8.08,10.0,10.0,10.0,7.83,8.08,7.75,7.75,7.67
+Arabica,Brazil,vale da grama,fazenda recreio,8.0,7.75,10.0,10.0,10.0,7.75,7.58,7.75,7.75,8.0
+Arabica,Brazil,mountains of minas gerais,fazenda vista alegre,8.5,7.5,10.0,10.0,10.0,7.83,7.5,7.75,7.5,8.0
+Arabica,Costa Rica,valle central,,7.92,8.0,10.0,10.0,10.0,7.58,7.67,7.75,7.92,7.67
+Arabica,Uganda,eastern uganda,kawacom sipi project,7.92,7.83,10.0,10.0,10.0,7.75,7.83,7.75,7.67,7.75
+Arabica,China,yunnan,menglian ban’an coffee processing factory,7.75,7.92,10.0,10.0,10.0,7.67,7.75,7.83,7.67,7.92
+Arabica,Costa Rica,tarrazu,coopetarrazú,7.92,7.92,10.0,10.0,10.0,7.58,7.58,7.83,7.83,7.83
+Arabica,Colombia,cauca,,8.08,7.75,10.0,10.0,10.0,7.67,7.67,7.83,7.83,7.67
+Arabica,China,yunnan,"puer jiangcheng fuwang coffee biotechnology co., ltd",7.67,7.92,10.0,10.0,10.0,7.58,7.75,7.83,7.75,8.0
+Arabica,Guatemala,oriente,el sacramento,8.17,7.5,10.0,10.0,10.0,7.83,7.67,7.83,7.67,7.83
+Arabica,Kenya,nyeri,rumukia farmers,7.92,7.67,10.0,10.0,10.0,7.75,7.67,8.0,7.67,7.83
+Arabica,Mexico,hustusco,la barranca,8.0,7.92,10.0,10.0,10.0,7.67,7.5,8.08,7.42,7.92
+Arabica,Mexico,jaltenango,finca el retiro,7.92,7.67,10.0,10.0,10.0,7.83,7.75,7.75,7.75,7.83
+Arabica,Guatemala,"el tumbador, san marcos",nueva granada,7.67,7.83,10.0,10.0,10.0,7.83,7.5,8.0,7.67,8.0
+Arabica,Brazil,mmm,,7.81,8.13,10.0,10.0,9.5,8.25,7.38,7.75,7.88,7.81
+Arabica,Brazil,test,,8.17,7.75,10.0,10.0,10.0,7.75,7.67,7.75,7.75,7.67
+Arabica,Costa Rica,tarrazu,several farmers,7.58,7.92,10.0,10.0,10.0,7.58,7.67,8.0,7.83,7.83
+Arabica,Indonesia,sumatra brastagi,darmawi,7.67,8.0,10.0,10.0,10.0,7.83,7.83,7.58,7.83,7.67
+Arabica,Colombia,pitalito,,7.92,7.67,10.0,10.0,10.0,7.67,7.92,7.67,7.75,7.83
+Arabica,Colombia,huila,,7.92,7.75,10.0,10.0,10.0,7.75,7.67,7.92,7.67,7.75
+Arabica,Taiwan,"mountain ali, taiwan",tropica galliard,7.83,7.75,10.0,10.0,10.0,7.75,7.5,8.0,7.75,7.83
+Arabica,United States (Hawaii),kona,,7.92,7.83,10.0,10.0,10.0,7.92,7.5,7.83,7.5,7.92
+Arabica,Mexico,tapachula,finca la chiripa,7.75,7.83,10.0,10.0,10.0,7.67,7.83,7.67,7.75,7.92
+Arabica,Ethiopia,limu,phone number | 0911-513824 email: gmt.ft,7.5,7.75,10.0,10.0,10.0,7.75,7.92,7.92,7.83,7.75
+Arabica,Kenya,nyeri,kigwandi,7.33,8.17,10.0,10.0,10.0,7.92,7.75,7.75,7.83,7.58
+Arabica,Honduras,comayagua,las cuchillas,7.92,7.58,10.0,10.0,10.0,7.75,7.67,7.67,7.75,8.0
+Arabica,Colombia,huila,,7.58,7.5,10.0,10.0,10.0,8.5,7.67,7.83,7.5,7.75
+Arabica,Honduras,central region,los hicaques,7.58,7.83,10.0,10.0,10.0,7.75,7.92,7.75,7.58,7.92
+Arabica,Colombia,la plata,,7.67,7.83,10.0,10.0,10.0,7.83,7.75,7.83,7.75,7.67
+Arabica,Colombia,huila,,7.75,7.33,10.0,10.0,10.0,7.83,8.08,7.67,8.0,7.67
+Arabica,Colombia,huila,,7.75,8.17,10.0,10.0,10.0,8.08,7.58,7.83,7.33,7.58
+Arabica,Mexico,tuxtla gutierrez,la distancia,8.0,7.83,10.0,10.0,10.0,7.67,7.5,7.83,7.75,7.75
+Arabica,Brazil,vale da grama,santa alina,8.17,7.75,10.0,10.0,10.0,7.67,7.5,7.75,7.5,8.0
+Arabica,Brazil,south of minas,fazenda baipendi,8.0,7.92,10.0,10.0,10.0,7.75,7.67,7.5,7.5,8.0
+Arabica,Ethiopia,limu,,7.75,7.75,10.0,10.0,10.0,7.92,7.5,7.75,7.92,7.75
+Arabica,Guatemala,nuevo oriente,las minas,7.5,7.92,10.0,10.0,10.0,7.92,7.92,7.67,7.75,7.67
+Arabica,Taiwan,國姓鄉 guoshing township,馨晴咖啡 good mood coffee,7.92,7.67,10.0,10.0,10.0,7.83,7.67,7.67,7.75,7.75
+Arabica,Thailand,chiang rai thailand,matsuzawa coffee,7.83,8.0,10.0,10.0,10.0,7.67,7.83,7.42,7.75,7.75
+Arabica,Colombia,nariño,,7.83,7.83,10.0,10.0,10.0,8.0,7.67,7.58,7.75,7.58
+Arabica,Guatemala,antigua,finca medina,7.75,7.75,10.0,10.0,10.0,7.75,7.75,7.92,7.58,7.75
+Arabica,Guatemala,huehuetenango,finca san vicente,7.75,7.75,10.0,10.0,10.0,7.67,7.58,8.08,7.5,7.92
+Arabica,China,yunnan,menglian county nayun town mangzhang coffee farm,7.83,7.75,10.0,10.0,10.0,7.75,7.75,7.75,7.58,7.83
+Arabica,Colombia,huila,,7.67,7.83,10.0,10.0,10.0,7.92,7.67,7.75,7.75,7.67
+Arabica,Colombia,huila,,7.83,7.75,10.0,10.0,10.0,7.75,7.92,7.58,7.75,7.67
+Arabica,Colombia,cauca,,7.83,7.83,10.0,10.0,10.0,7.75,7.67,7.58,7.83,7.75
+Arabica,Colombia,huila,,7.42,7.83,10.0,10.0,10.0,7.83,7.92,7.75,7.83,7.67
+Arabica,"Tanzania, United Republic Of",shizingo village,jacksom mwasenga,7.83,7.83,10.0,10.0,10.0,7.67,7.67,7.83,7.75,7.67
+Arabica,"Tanzania, United Republic Of",mbeya,suma jkt itende,7.83,7.75,10.0,10.0,10.0,7.75,7.67,7.75,7.75,7.75
+Arabica,Guatemala,oriente,el papaturro,7.83,7.83,10.0,10.0,10.0,7.75,7.58,7.92,7.5,7.83
+Arabica,Colombia,cauca,,7.58,7.83,10.0,10.0,10.0,7.83,7.92,7.83,7.75,7.5
+Arabica,United States (Hawaii),kona,,7.33,7.83,9.33,10.0,10.0,8.08,7.92,7.92,7.92,7.92
+Arabica,Mexico,san pedro cotzilnam,pante carajillo,7.83,7.75,10.0,10.0,10.0,7.75,7.5,7.83,7.67,7.92
+Arabica,Mexico,veracruz,finca los barreales,7.83,7.75,10.0,10.0,10.0,7.58,7.83,7.67,7.75,7.83
+Arabica,Mexico,"la concordia, chiapas",finca santa teresa,7.83,7.83,10.0,10.0,10.0,7.75,7.5,7.75,7.67,7.92
+Arabica,Uganda,kasese,,8.17,7.67,10.0,10.0,10.0,7.58,7.83,7.67,7.58,7.75
+Arabica,Guatemala,san marcos,piamonte,7.75,7.75,10.0,10.0,10.0,7.75,7.67,7.83,7.58,7.83
+Arabica,Colombia,huila,,7.83,7.75,10.0,10.0,10.0,7.83,7.75,7.67,7.58,7.75
+Arabica,Costa Rica,tarrazu,los girasoles,7.92,8.0,10.0,10.0,10.0,7.67,7.5,7.67,7.67,7.75
+Arabica,Guatemala,huehuetenango,finca la joya,7.75,7.58,10.0,10.0,10.0,7.83,7.67,8.0,7.58,7.75
+Arabica,Guatemala,solola,santo tomas pachuj,7.75,7.67,10.0,10.0,10.0,7.67,7.67,7.92,7.58,7.92
+Arabica,Guatemala,norte,chapultepec,7.58,7.83,10.0,10.0,10.0,7.67,7.83,7.83,7.58,7.83
+Arabica,Colombia,huila,,8.0,7.67,10.0,10.0,10.0,7.83,8.0,7.67,7.5,7.5
+Arabica,Nicaragua,jinotega,las nubes,7.67,7.83,10.0,10.0,10.0,7.83,7.67,7.5,7.83,7.83
+Arabica,Brazil,cerrado,pantano,7.67,7.75,10.0,10.0,10.0,7.75,7.83,7.67,7.75,7.75
+Arabica,Costa Rica,tarrazu,gamboa,7.67,7.83,10.0,10.0,10.0,8.0,7.5,7.75,7.67,7.75
+Arabica,Ethiopia,snnprg; kafa; telo woreda; shada kebele,asefa dukamo coffee plantation,7.5,7.75,10.0,10.0,10.0,7.83,7.75,7.83,7.58,7.92
+Arabica,"Tanzania, United Republic Of",arusha,selian coffee estate,7.92,7.67,10.0,10.0,10.0,7.58,7.75,7.75,7.75,7.75
+Arabica,Colombia,huila,,7.67,7.5,10.0,10.0,10.0,8.58,7.83,7.42,7.67,7.5
+Arabica,Guatemala,,,7.67,7.83,10.0,10.0,10.0,7.75,7.75,7.75,7.67,7.75
+Arabica,Kenya,kenya,,7.58,7.75,10.0,10.0,10.0,7.83,7.75,7.75,7.75,7.75
+Arabica,Brazil,"minas gerais, br",café do paraíso,7.58,7.67,10.0,10.0,10.0,8.0,7.67,7.67,7.75,7.83
+Arabica,Guatemala,oriente,la union monte verde,7.92,7.42,10.0,10.0,10.0,7.92,7.83,7.67,7.67,7.75
+Arabica,El Salvador,apaneca,el majahual,8.42,7.92,10.0,10.0,9.33,8.17,7.58,7.17,7.5,8.08
+Arabica,Colombia,huila,,7.75,7.58,10.0,10.0,10.0,7.75,7.83,7.75,7.75,7.75
+Arabica,Guatemala,guatemala,el limon,7.83,7.67,10.0,10.0,10.0,7.83,7.83,8.0,7.5,7.5
+Arabica,Uganda,mt. rwenzori,,7.83,7.67,10.0,10.0,10.0,7.75,7.83,7.83,7.5,7.75
+Arabica,Indonesia,aceh tengah,"mus, eman",7.81,7.75,10.0,10.0,10.0,7.75,7.63,7.75,7.56,7.88
+Arabica,Colombia,huila,,7.83,7.5,10.0,10.0,10.0,8.5,7.83,7.5,7.42,7.5
+Arabica,Taiwan,"nanxi dist., tainan city 臺南市楠西區",chang yu liang 張玉良,7.58,7.92,10.0,10.0,10.0,7.83,7.75,7.67,7.67,7.67
+Arabica,Guatemala,oriente,la esperanza y anexos,8.0,7.67,10.0,10.0,10.0,7.67,7.92,7.58,7.5,7.75
+Arabica,Colombia,huila,,7.92,7.67,10.0,10.0,10.0,7.67,7.67,7.75,7.67,7.75
+Arabica,Guatemala,"aldea xeucalvitz, ixil region, quiche department",aprocafi,7.58,7.67,10.0,10.0,10.0,7.67,7.75,8.0,7.67,7.75
+Arabica,United States (Hawaii),kona,,7.83,8.0,10.0,10.0,9.33,8.08,7.42,7.83,7.83,7.75
+Arabica,Mexico,santo domingo cacalotepec,la lagunilla,7.67,7.83,10.0,10.0,10.0,7.75,7.67,7.75,7.67,7.75
+Arabica,Ethiopia,"ethiopia, sidamo",,7.92,7.92,8.67,10.0,10.0,7.92,7.92,8.0,7.83,7.92
+Arabica,Costa Rica,,,7.58,7.67,10.0,10.0,10.0,7.75,7.83,7.75,7.67,7.75
+Arabica,Ethiopia,sidamo,kerchanshe,7.83,7.92,10.0,10.0,10.0,7.75,7.33,7.75,7.67,7.75
+Arabica,Honduras,comayagua,las cuchillas,7.42,7.75,10.0,10.0,10.0,7.58,7.75,7.92,7.75,7.83
+Arabica,Guatemala,huehuetenango,finca los cerros y anexos,7.67,7.58,10.0,10.0,10.0,7.67,7.75,7.92,7.58,7.83
+Arabica,Colombia,huila,,7.67,7.83,10.0,10.0,10.0,7.83,7.58,7.58,7.83,7.67
+Arabica,Guatemala,oriente,el papaturro,7.92,7.5,10.0,10.0,10.0,7.83,7.75,7.92,7.42,7.67
+Arabica,Guatemala,oriente,el papaturro,7.75,7.83,10.0,10.0,10.0,7.67,7.58,7.83,7.5,7.83
+Arabica,Colombia,huila,,7.67,7.83,10.0,10.0,10.0,7.75,7.67,7.67,7.67,7.75
+Arabica,Colombia,santander,,7.58,7.67,10.0,10.0,10.0,7.92,7.75,7.92,7.75,7.42
+Arabica,Colombia,huila,,7.67,8.33,10.0,10.0,10.0,7.67,7.67,7.5,7.5,7.67
+Arabica,Ethiopia,sidamo,,7.75,7.83,10.0,10.0,10.0,7.92,7.67,7.58,7.5,7.75
+Arabica,Brazil,south of minas,fazenda rio verde,7.58,7.92,10.0,10.0,10.0,7.75,8.0,7.25,7.67,7.83
+Arabica,Colombia,cauca,,7.67,7.67,10.0,10.0,10.0,7.75,7.67,7.75,7.67,7.83
+Arabica,Kenya,blend,,7.67,7.67,10.0,10.0,10.0,7.67,7.92,7.75,7.5,7.83
+Arabica,Thailand,thailand,doi tung development project,7.92,8.42,9.33,8.67,8.67,8.17,8.08,8.42,8.17,8.17
+Arabica,Kenya,central kenya,-,7.67,7.67,10.0,10.0,10.0,7.67,7.83,7.75,7.67,7.75
+Arabica,Uganda,kasese,,7.92,7.58,10.0,10.0,10.0,7.83,7.67,7.67,7.58,7.75
+Arabica,Thailand,,doi tung development project,7.58,8.0,10.0,10.0,10.0,7.75,7.58,7.75,7.58,7.75
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.5,8.5,10.0,10.0,10.0,7.5,7.58,7.5,7.58,7.75
+Arabica,Mexico,veracruz,cafetal,7.83,7.83,10.0,10.0,10.0,7.5,7.42,7.92,7.58,7.83
+Arabica,Thailand,chiangrai,saveg coffee farm,7.67,7.83,10.0,10.0,10.0,7.83,7.67,7.67,7.5,7.75
+Arabica,Brazil,south of minas,capoeirinha,7.58,7.83,10.0,10.0,10.0,7.83,7.58,7.75,7.67,7.67
+Arabica,Taiwan,"leye, alishan township, chiayi county 嘉義阿里山樂野村",tsoustructive garden 鄒築園,7.83,7.83,10.0,10.0,9.33,7.75,7.83,7.75,7.83,7.75
+Arabica,Colombia,huila,,7.75,7.67,10.0,10.0,10.0,7.75,7.83,7.75,7.5,7.67
+Arabica,Colombia,la plata,,7.75,7.58,10.0,10.0,10.0,7.92,7.75,7.83,7.5,7.58
+Arabica,Taiwan,台灣,very famous intl.名門義理國際股份有限公司,7.75,7.67,10.0,10.0,10.0,7.67,7.75,7.75,7.58,7.75
+Arabica,Colombia,huila,,7.92,7.75,10.0,10.0,10.0,7.67,7.58,7.83,7.5,7.67
+Arabica,Colombia,huila,,7.83,7.67,10.0,10.0,10.0,7.75,7.75,7.58,7.58,7.75
+Arabica,Colombia,huila,,7.75,7.58,10.0,10.0,10.0,7.67,7.83,7.83,7.67,7.58
+Arabica,Taiwan,台中和平區,神谷山莊園,8.0,7.17,10.0,10.0,10.0,7.33,7.67,7.92,7.92,7.92
+Arabica,Colombia,santander,,7.67,7.5,10.0,10.0,10.0,7.83,7.67,7.75,7.67,7.83
+Arabica,Mexico,xicotepec de juarez,finca cuetzalingo,7.67,7.67,10.0,10.0,10.0,7.83,7.75,7.67,7.58,7.75
+Arabica,Mexico,la concordia,finca sant rosa,7.5,7.83,10.0,10.0,10.0,7.75,7.75,7.83,7.58,7.67
+Arabica,Mexico,la yerbabuena,comunidad la yerbabuena,7.75,7.75,10.0,10.0,9.33,7.67,7.75,7.92,7.83,7.92
+Arabica,Colombia,nariño,,7.92,7.75,10.0,10.0,10.0,7.67,7.58,7.83,7.5,7.58
+Arabica,Colombia,huila,,7.83,7.58,10.0,10.0,10.0,7.75,7.75,7.75,7.5,7.67
+Arabica,Costa Rica,tarrazu,gamboa,7.67,7.83,10.0,10.0,10.0,7.75,7.5,7.67,7.75,7.67
+Arabica,Guatemala,antigua,finca medina,7.75,7.67,10.0,10.0,10.0,7.58,7.83,7.75,7.5,7.75
+Arabica,Taiwan,台灣,優遊吧斯股份有限公司yuyupas international corp.,7.75,7.75,10.0,10.0,10.0,7.67,7.75,7.75,7.5,7.67
+Arabica,Brazil,south of minas,rio verde,7.25,8.0,10.0,10.0,10.0,7.83,7.75,8.0,7.42,7.58
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",鄉舍咖啡 hometown coffee,7.67,7.83,10.0,10.0,10.0,7.75,7.42,7.75,7.67,7.75
+Arabica,Ethiopia,oromia,,7.75,7.75,10.0,10.0,10.0,7.67,7.58,7.67,7.67,7.75
+Arabica,Brazil,south of minas,rio verde,7.67,8.08,9.33,10.0,10.0,8.17,7.83,7.5,7.58,7.67
+Arabica,Costa Rica,central valley,various,7.83,7.67,10.0,10.0,10.0,7.83,7.75,7.83,7.5,7.42
+Arabica,Guatemala,oriente,el papaturro,7.58,7.75,10.0,10.0,10.0,7.75,7.58,8.0,7.33,7.83
+Arabica,Brazil,south of minas,fazenda rio verde,7.92,7.75,10.0,10.0,10.0,7.5,8.17,7.67,7.33,7.5
+Arabica,Ecuador,"province of manabi, ecuador",finca el trueno,7.5,7.67,10.0,10.0,10.0,7.83,7.83,7.75,7.58,7.67
+Arabica,Colombia,huila,,7.67,7.92,10.0,10.0,10.0,7.67,7.58,7.83,7.58,7.58
+Arabica,Guatemala,oriente,finca el morito,7.5,7.67,10.0,10.0,10.0,7.67,7.83,7.83,7.5,7.83
+Arabica,Mexico,petatlan,predio cañada del encino,7.67,7.92,10.0,10.0,10.0,7.5,7.67,7.42,7.67,8.0
+Arabica,Mexico,"la concordia, chiapas",finca santa teresa,7.67,7.83,10.0,10.0,10.0,7.75,7.75,7.75,7.5,7.58
+Arabica,Brazil,carmo de minas,fazenda do sertao,7.83,7.83,10.0,10.0,10.0,7.58,7.5,7.67,7.58,7.83
+Arabica,Thailand,"doi chaang village, chiang rai, thialand","doi chaang coffee original co.,ltd",7.75,7.5,10.0,10.0,10.0,7.58,7.67,8.0,7.58,7.75
+Arabica,Thailand,,doi tung development project,7.5,7.75,10.0,10.0,10.0,7.83,7.75,7.58,7.58,7.83
+Arabica,Ethiopia,sidamo,"phone number | 0911-51-08-01, email | at",7.58,7.5,10.0,10.0,10.0,7.5,7.83,8.0,7.58,7.83
+Arabica,Kenya,nyeri,,7.75,7.83,10.0,10.0,10.0,7.75,7.75,7.58,7.5,7.58
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.67,7.75,10.0,10.0,10.0,7.67,7.67,7.75,7.58,7.67
+Arabica,Colombia,huila,,7.83,7.75,10.0,10.0,10.0,7.58,7.58,7.58,7.58,7.83
+Arabica,Taiwan,"台南市東山區 (dongshan dist., tainan city)",崁頭山咖啡館 (kan tou mountain coffee),7.67,7.75,10.0,10.0,10.0,7.83,7.67,7.58,7.58,7.67
+Arabica,Colombia,huila,,7.92,7.67,10.0,10.0,10.0,7.5,7.75,7.67,7.5,7.75
+Arabica,China,yunnan,pu’er specialty coffee cupping center,7.83,7.75,10.0,10.0,10.0,7.67,7.58,7.5,7.67,7.75
+Arabica,Colombia,huila,,7.75,7.75,10.0,10.0,10.0,7.83,7.58,7.67,7.5,7.67
+Arabica,Uganda,west nile,erussi farmers group,8.0,7.67,10.0,10.0,10.0,7.5,7.33,7.75,7.58,7.92
+Arabica,United States (Puerto Rico),yauco region,hacienda caracolillo,7.83,7.75,10.0,9.33,9.33,8.17,8.0,7.67,7.83,7.83
+Arabica,Colombia,huila,,7.67,7.67,10.0,10.0,10.0,7.67,7.5,7.92,7.67,7.67
+Arabica,Colombia,huila,,7.67,7.5,10.0,10.0,10.0,8.33,8.0,7.42,7.42,7.42
+Arabica,Colombia,huila,,7.58,7.75,10.0,10.0,10.0,7.67,7.67,7.67,7.75,7.67
+Arabica,Colombia,huila,,7.75,7.58,10.0,10.0,10.0,8.0,7.42,7.58,7.75,7.67
+Arabica,United States (Hawaii),kona,,7.25,7.75,10.0,10.0,10.0,8.25,7.83,7.58,7.67,7.42
+Arabica,Mexico,"huazalingo, hidalgo",naranjal,7.83,7.83,10.0,10.0,10.0,7.67,7.75,7.5,7.58,7.58
+Arabica,Guatemala,quetzaltenango,several farms,7.67,7.75,10.0,10.0,10.0,7.75,7.75,7.67,7.58,7.58
+Arabica,Colombia,cauca,,7.83,8.08,10.0,10.0,10.0,7.67,7.42,7.33,7.58,7.83
+Arabica,Colombia,cundinamarca,,7.75,7.75,10.0,10.0,10.0,8.5,7.58,7.25,7.25,7.67
+Arabica,United States (Hawaii),kona,,7.83,7.75,10.0,10.0,10.0,7.5,7.58,7.67,7.75,7.67
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.67,7.83,10.0,10.0,10.0,7.5,7.67,7.67,7.5,7.83
+Arabica,Kenya,meru county,,8.08,7.75,10.0,10.0,10.0,7.67,7.25,7.58,7.67,7.67
+Arabica,Honduras,comayagua,los hicaques,7.5,7.33,10.0,10.0,10.0,8.0,8.0,7.67,7.67,7.5
+Arabica,Nicaragua,jinotega,santa matilde,7.67,7.5,10.0,10.0,10.0,7.58,7.83,7.67,7.67,7.75
+Arabica,Brazil,south of minas,capoeirinha,7.58,7.83,10.0,10.0,10.0,7.58,7.58,7.75,7.58,7.75
+Arabica,Taiwan,"leye, alishan township, chiayi county",tsoustructive garden 鄒築園,7.5,7.75,10.0,10.0,10.0,7.67,7.83,7.92,7.33,7.67
+Arabica,Costa Rica,west valley,,7.33,8.33,10.0,10.0,10.0,7.5,7.67,7.5,7.67,7.67
+Arabica,Thailand,thailand,,7.5,7.75,10.0,10.0,10.0,7.58,7.67,7.83,7.58,7.75
+Arabica,Colombia,huila,,7.5,7.83,10.0,10.0,10.0,7.67,7.67,7.75,7.5,7.75
+Arabica,Guatemala,huehuetenango,finca las cuevitas,8.0,7.5,10.0,10.0,9.33,8.0,8.0,8.0,7.33,7.5
+Arabica,Colombia,huila supremo,various,7.83,7.58,10.0,10.0,10.0,7.67,7.58,7.58,7.67,7.75
+Arabica,Colombia,huila,,7.67,7.92,10.0,10.0,10.0,7.75,7.33,7.67,7.67,7.67
+Arabica,Guatemala,oriente,la union monte verde,7.67,7.5,10.0,10.0,10.0,7.75,8.0,7.67,7.42,7.67
+Arabica,Guatemala,oriente,el sacramento,7.83,7.67,10.0,10.0,10.0,7.83,7.67,7.67,7.33,7.67
+Arabica,Colombia,huila,,7.75,7.83,10.0,10.0,10.0,7.75,7.17,7.83,7.58,7.75
+Arabica,Guatemala,oriente,finca quequesquez,8.17,8.0,9.33,9.33,9.33,7.75,8.08,7.67,7.83,8.17
+Arabica,Guatemala,oriente,agropecuaria quiagral,7.67,7.5,10.0,10.0,10.0,7.83,7.58,7.42,7.5,8.17
+Arabica,Mexico,xicotepec de juarez,finca apoxtla,7.67,7.58,10.0,10.0,10.0,8.25,7.83,7.33,7.5,7.5
+Arabica,Indonesia,east java,"ijen highland, east java",8.17,7.58,10.0,10.0,10.0,7.67,7.42,7.58,7.58,7.67
+Arabica,Guatemala,"sacatepequez, guatemala",finca medina,7.67,7.83,10.0,10.0,10.0,7.67,7.67,8.0,7.33,7.5
+Arabica,United States (Hawaii),,,7.75,8.17,9.33,9.33,9.33,8.0,7.75,8.08,7.92,8.0
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.58,7.92,10.0,10.0,10.0,7.58,7.67,7.58,7.58,7.67
+Arabica,Guatemala,huehuetenango,finca santa clara,7.75,7.58,10.0,10.0,10.0,7.58,7.58,7.83,7.5,7.75
+Arabica,Colombia,huila,,7.75,7.67,10.0,10.0,10.0,7.58,7.67,7.58,7.58,7.75
+Arabica,China,yunnan,menglian mang pan professional cooperative,7.67,7.75,10.0,10.0,10.0,7.75,7.67,7.58,7.58,7.58
+Arabica,Colombia,huila,,7.67,7.58,10.0,10.0,10.0,7.58,7.75,7.67,7.58,7.75
+Arabica,Mexico,"chiapas, jaltenango",exportadora café california,7.75,7.75,10.0,10.0,10.0,7.67,7.5,7.58,7.58,7.75
+Arabica,Ethiopia,yirgacheffe,lomi tasha,7.75,7.75,10.0,10.0,10.0,7.67,7.5,7.67,7.58,7.67
+Arabica,Uganda,eastern,bulamburi coffee farmers,7.67,7.67,10.0,10.0,10.0,7.67,7.75,7.75,7.42,7.67
+Arabica,Colombia,cundinamarca,,7.67,7.67,10.0,10.0,10.0,7.67,7.67,7.67,7.67,7.58
+Arabica,Colombia,santander,,7.67,7.67,10.0,10.0,10.0,7.75,7.67,7.58,7.67,7.58
+Arabica,Colombia,santander,,7.75,7.58,10.0,10.0,10.0,7.83,7.75,7.58,7.5,7.58
+Arabica,Taiwan,taichung xinshe 台中市新社區,dragon coffee 龍咖啡,7.75,7.5,10.0,10.0,10.0,7.58,7.5,7.75,7.75,7.75
+Arabica,Colombia,huila,,7.67,7.67,10.0,10.0,10.0,7.58,7.75,7.67,7.58,7.67
+Arabica,Mexico,xalapa,ojo de agua,7.83,7.67,10.0,10.0,10.0,7.58,7.67,7.58,7.58,7.67
+Arabica,Colombia,cundinamarca,,7.67,7.75,10.0,10.0,10.0,7.75,7.67,7.58,7.58,7.58
+Arabica,Brazil,south of minas,fazenda jericó,7.83,7.67,10.0,10.0,10.0,7.58,7.5,7.75,7.5,7.75
+Arabica,Colombia,cundinamarca,,7.75,7.58,10.0,10.0,10.0,7.5,7.75,7.75,7.58,7.58
+Arabica,Taiwan,,南投縣魚池鄉水社村中正路63-1號,7.58,10.0,10.0,10.0,10.0,7.0,7.0,7.17,7.17,7.58
+Arabica,Costa Rica,tarrazu,,7.92,7.83,10.0,10.0,10.0,7.67,7.5,7.67,7.5,7.42
+Arabica,Colombia,pitalito,,7.75,7.58,10.0,10.0,10.0,7.75,7.75,7.5,7.58,7.58
+Arabica,Guatemala,oriente,la esperanza,7.67,7.58,10.0,10.0,10.0,7.58,7.58,7.83,7.5,7.75
+Arabica,Colombia,huila,,7.58,7.75,10.0,10.0,10.0,7.67,7.75,7.58,7.58,7.58
+Arabica,"Tanzania, United Republic Of",nkure- meru,ano family,7.75,7.58,10.0,10.0,10.0,7.58,7.67,7.67,7.58,7.67
+Arabica,Indonesia,bener meriah,yusrin,7.25,7.67,10.0,10.0,10.0,7.58,7.83,7.92,7.58,7.67
+Arabica,Ethiopia,oromia,,7.67,7.58,10.0,10.0,10.0,7.67,7.75,7.58,7.5,7.75
+Arabica,Colombia,huila,,7.67,7.67,10.0,10.0,10.0,7.67,7.58,7.83,7.67,7.42
+Arabica,Colombia,huila,,8.0,7.58,10.0,10.0,10.0,7.58,7.92,7.58,7.25,7.58
+Arabica,Guatemala,atitlan,several,7.58,7.75,10.0,10.0,10.0,7.67,7.42,7.83,7.5,7.75
+Arabica,Colombia,cundinamarca,,7.75,7.67,10.0,10.0,10.0,7.83,7.83,7.5,7.33,7.58
+Arabica,Honduras,comayagua,los hicaques,7.67,7.83,10.0,10.0,10.0,7.67,7.67,7.5,7.67,7.5
+Arabica,Colombia,huila,,7.58,7.67,10.0,10.0,10.0,7.67,7.75,7.67,7.42,7.75
+Arabica,Colombia,huila,,7.58,7.58,10.0,10.0,10.0,7.75,7.58,7.75,7.58,7.67
+Arabica,Mexico,xalapa,finca los barreales 1112lban,7.83,8.42,10.0,10.0,10.0,7.42,7.5,7.5,7.25,7.58
+Arabica,Mexico,chilón,,7.67,7.58,10.0,10.0,10.0,7.5,7.58,7.75,7.67,7.75
+Arabica,Mexico,totutla,la corralera,7.75,7.83,10.0,10.0,10.0,7.5,7.33,7.75,7.67,7.67
+Arabica,Guatemala,atitlan,santo tomas pachuj,7.83,7.5,10.0,10.0,10.0,7.5,7.67,8.0,7.5,7.5
+Arabica,Colombia,huila,,7.67,7.67,10.0,10.0,10.0,7.67,7.67,7.67,7.58,7.58
+Arabica,Guatemala,oriente,conquista / morito,7.5,7.58,10.0,10.0,10.0,7.67,8.0,7.5,7.75,7.5
+Arabica,United States (Hawaii),,,7.5,7.58,10.0,10.0,10.0,7.67,7.58,7.92,7.58,7.67
+Arabica,Indonesia,bondowoso,pancoer angkrek,7.83,7.58,10.0,10.0,10.0,7.58,7.75,7.58,7.58,7.58
+Arabica,Colombia,huila,,7.5,7.67,10.0,10.0,10.0,7.83,7.75,7.5,7.58,7.58
+Arabica,Guatemala,san marcos,piamonte,7.67,7.67,10.0,10.0,10.0,7.67,7.58,7.58,7.5,7.75
+Arabica,Colombia,huila,,7.67,7.67,10.0,10.0,10.0,7.58,7.67,7.67,7.5,7.67
+Arabica,Costa Rica,tarrazu,gamboa,7.58,7.83,10.0,10.0,10.0,7.67,7.5,7.92,7.42,7.5
+Arabica,Taiwan,,日月潭文武莊園,7.67,10.0,10.0,10.0,10.0,7.0,7.0,7.08,7.0,7.67
+Arabica,Uganda,eastern,bulago & buginyanya,7.58,7.75,10.0,10.0,10.0,7.58,7.67,7.75,7.33,7.75
+Arabica,Thailand,thailand,matsuzawa coffee,7.5,7.67,10.0,10.0,10.0,7.67,7.75,7.5,7.75,7.58
+Arabica,El Salvador,apaneca,la joya,7.58,7.58,10.0,10.0,10.0,7.67,7.75,7.58,7.75,7.5
+Arabica,Colombia,huila,,7.58,7.67,10.0,10.0,10.0,7.67,7.58,7.67,7.58,7.67
+Arabica,Brazil,vale da grama,cachoeira da grama farm,7.33,7.75,10.0,10.0,10.0,7.83,7.42,7.5,7.75,7.83
+Arabica,"Tanzania, United Republic Of",karatu northern,ngila estate,7.75,7.58,10.0,10.0,10.0,7.58,7.58,7.67,7.58,7.67
+Arabica,Colombia,huila,,7.58,7.58,10.0,10.0,9.33,8.58,7.75,7.75,7.25,7.58
+Arabica,Guatemala,oriente,el papaturro,7.75,7.5,10.0,10.0,10.0,7.67,7.5,7.83,7.33,7.83
+Arabica,Guatemala,antigua,finca medina,7.67,7.58,10.0,10.0,10.0,7.5,7.58,7.83,7.5,7.75
+Arabica,Guatemala,oriente,el morito,7.67,7.58,10.0,10.0,10.0,7.75,7.75,7.42,7.75,7.5
+Arabica,United States (Hawaii),kona,,7.42,7.67,10.0,10.0,10.0,7.67,7.67,7.58,7.67,7.75
+Arabica,Colombia,cundinamarca,various,7.5,7.67,10.0,10.0,10.0,7.75,7.67,7.5,7.58,7.75
+Arabica,Colombia,huila,,7.58,7.58,10.0,10.0,10.0,7.67,7.75,7.67,7.58,7.58
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,7.5,7.5,10.0,10.0,10.0,7.58,7.83,7.67,7.42,7.92
+Arabica,Thailand,,doi tung development project,7.58,7.83,10.0,10.0,10.0,7.42,7.92,7.92,7.5,7.25
+Arabica,Mexico,nayarit,,7.25,8.0,10.0,10.0,9.0,8.75,7.5,7.63,7.38,7.88
+Arabica,Colombia,huila,various,7.75,7.58,10.0,10.0,10.0,7.58,7.58,7.58,7.75,7.5
+Arabica,Colombia,guayata,,7.67,7.67,10.0,10.0,10.0,7.75,7.67,7.42,7.58,7.58
+Arabica,Colombia,huila,,7.83,7.67,10.0,10.0,10.0,7.58,7.5,7.58,7.58,7.58
+Arabica,Brazil,south of minas,rio verde,7.5,7.58,10.0,10.0,10.0,7.92,7.58,7.58,7.33,7.83
+Arabica,Mexico,chiapas,ecc,7.75,7.58,10.0,10.0,10.0,7.58,7.5,7.67,7.5,7.75
+Arabica,Colombia,santander,various,7.67,7.42,10.0,10.0,10.0,7.42,7.83,7.83,7.42,7.75
+Arabica,"Tanzania, United Republic Of",arusha,mondul coffee estate,7.75,7.58,10.0,10.0,10.0,7.58,7.58,7.58,7.67,7.58
+Arabica,Mexico,veracruz,el pino,7.67,7.67,10.0,10.0,10.0,7.58,7.5,7.67,7.58,7.67
+Arabica,Costa Rica,san ramon,several,7.67,7.58,10.0,10.0,10.0,7.67,7.67,7.67,7.42,7.67
+Arabica,United States (Hawaii),kona,,7.83,7.83,9.33,10.0,9.33,8.0,7.92,7.67,7.83,7.58
+Arabica,Costa Rica,central valley,several,7.5,8.0,10.0,10.0,10.0,7.17,7.83,7.5,7.67,7.67
+Arabica,Peru,,,7.83,7.5,10.0,10.0,9.33,7.58,7.92,7.83,7.58,7.75
+Arabica,Haiti,"thiotte, haiti",marre blanche,7.58,7.83,10.0,10.0,10.0,7.42,7.83,7.5,7.67,7.5
+Arabica,Colombia,pitalito,,7.67,7.5,10.0,10.0,10.0,7.42,7.92,7.67,7.5,7.67
+Arabica,Guatemala,oriente,el sacramento,7.83,7.67,10.0,10.0,10.0,7.67,7.67,7.67,7.17,7.67
+Arabica,United States (Hawaii),kona,,7.92,7.83,10.0,10.0,9.33,7.67,7.67,7.83,7.58,7.5
+Arabica,Burundi,kayanza,sogestal kayanza,7.75,7.83,10.0,10.0,10.0,7.75,7.5,7.5,7.33,7.67
+Arabica,Colombia,huila,,7.5,7.67,10.0,10.0,10.0,7.58,7.67,7.58,7.67,7.67
+Arabica,United States (Hawaii),kona,,8.08,7.92,9.33,10.0,9.33,7.58,7.67,7.75,7.83,7.83
+Arabica,United States (Hawaii),,,7.58,7.5,10.0,10.0,10.0,7.67,7.83,7.5,7.58,7.67
+Arabica,Mexico,sierra madre occidental,corta pico,7.67,7.67,10.0,10.0,10.0,7.5,7.33,7.83,7.42,7.83
+Arabica,Costa Rica,tarrazu,estate la patricia,7.5,7.58,10.0,10.0,10.0,7.67,7.67,7.5,7.83,7.5
+Arabica,Costa Rica,tarrazu,coopellanobonito,7.83,7.67,10.0,10.0,10.0,7.67,7.5,7.67,7.42,7.5
+Arabica,Guatemala,nuevo oriente,linda vista,7.5,7.67,10.0,10.0,10.0,7.58,7.67,7.83,7.42,7.58
+Arabica,Uganda,"sipi, mt elgon",kawacom uganda ltd sipi farmers group,7.5,7.67,10.0,10.0,10.0,7.67,7.67,7.42,7.67,7.67
+Arabica,Brazil,campos altos - cerrado,,7.58,8.0,10.0,10.0,10.0,7.42,7.67,7.5,7.42,7.67
+Arabica,Colombia,huila,,7.58,7.58,10.0,10.0,10.0,7.83,7.75,7.17,7.67,7.67
+Arabica,Mexico,cuarenteño,los charcos,7.83,7.42,10.0,10.0,10.0,7.58,7.58,7.58,7.5,7.75
+Arabica,Taiwan,natou county,sunshine valley estate 向陽高山咖啡,7.67,7.58,10.0,10.0,10.0,7.83,7.67,7.5,7.5,7.5
+Arabica,Taiwan,南投國姓,以勒咖啡,7.92,7.33,10.0,10.0,10.0,7.33,7.5,7.58,7.75,7.83
+Arabica,Colombia,eje cafetero,,7.58,7.67,10.0,10.0,10.0,7.75,7.58,7.58,7.5,7.58
+Arabica,Guatemala,antigua,finca medina,7.5,7.67,10.0,10.0,10.0,7.5,7.67,7.67,7.58,7.67
+Arabica,Colombia,huila,,7.83,7.58,10.0,10.0,10.0,7.67,7.67,7.33,7.67,7.5
+Arabica,Mexico,chiapas,various,7.58,7.75,10.0,10.0,10.0,7.58,7.58,7.5,7.5,7.75
+Arabica,United States (Hawaii),kona,,7.58,7.67,9.33,10.0,9.33,7.67,8.08,8.0,7.83,7.75
+Arabica,Mexico,veracruz,finca teocelo,7.75,7.67,10.0,10.0,10.0,7.58,7.5,7.58,7.58,7.58
+Arabica,Mexico,fortín de las flores,mata larga,7.75,7.58,10.0,10.0,10.0,7.5,7.33,7.92,7.42,7.75
+Arabica,Guatemala,oriente,agropecuaria quiagral,7.83,7.42,10.0,10.0,10.0,8.08,7.42,7.83,7.08,7.58
+Arabica,Brazil,grama valley,água limpa,7.75,7.58,10.0,10.0,10.0,7.58,7.58,7.58,7.5,7.67
+Arabica,Colombia,huila,,7.67,7.58,10.0,10.0,10.0,7.58,7.83,7.42,7.58,7.58
+Arabica,Colombia,la plata,,7.67,7.67,10.0,10.0,10.0,7.67,7.58,7.5,7.5,7.67
+Arabica,Colombia,huila,,7.92,7.5,10.0,10.0,10.0,7.58,7.83,7.42,7.25,7.75
+Arabica,Colombia,cauca,,8.0,7.5,10.0,10.0,10.0,7.5,7.67,7.25,7.67,7.67
+Arabica,Colombia,cundinamarca,,7.92,7.58,10.0,10.0,10.0,7.67,7.42,7.42,7.5,7.75
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.67,7.75,10.0,10.0,10.0,7.58,7.67,7.58,7.5,7.42
+Arabica,Guatemala,oriente,beneficio el torreon,7.58,7.67,10.0,10.0,10.0,7.58,7.75,7.67,7.33,7.58
+Arabica,"Tanzania, United Republic Of",moshi,mamsera,7.67,7.58,10.0,10.0,10.0,7.58,7.67,7.67,7.42,7.58
+Arabica,Peru,,,7.92,7.5,10.0,10.0,10.0,7.5,7.67,7.58,7.5,7.5
+Arabica,Vietnam,dala,apollo estate,7.58,7.58,10.0,10.0,10.0,8.58,7.58,7.33,7.08,7.42
+Arabica,Guatemala,antigua,finca medina,7.67,7.5,10.0,10.0,10.0,7.5,7.58,7.75,7.42,7.75
+Arabica,Honduras,marcala,bethel,7.67,7.5,10.0,10.0,10.0,7.67,7.5,7.67,7.5,7.67
+Arabica,China,yunnan,chen lin,7.5,7.67,10.0,10.0,10.0,7.67,7.67,7.67,7.33,7.67
+Arabica,China,dehong prefecture,yunnan success trade co.ltd,7.67,7.67,10.0,10.0,10.0,7.58,7.42,7.67,7.5,7.67
+Arabica,El Salvador,apaneca,agua caliente,7.5,7.5,10.0,10.0,10.0,7.67,8.0,7.67,7.33,7.5
+Arabica,Guatemala,antigua,finca medina,7.5,7.5,10.0,10.0,10.0,7.5,7.58,7.83,7.5,7.75
+Arabica,Guatemala,oriente,"la esperanza, margarita nuyes",7.92,7.42,10.0,10.0,10.0,7.5,7.5,7.75,7.42,7.67
+Arabica,Kenya,kenya,,7.83,7.83,9.33,9.33,9.33,8.5,7.83,7.75,7.67,7.75
+Arabica,Thailand,thailand,,7.67,7.5,10.0,10.0,10.0,7.67,7.42,7.75,7.58,7.58
+Arabica,"Tanzania, United Republic Of",mbinga,myanganyanga,7.58,7.67,10.0,10.0,10.0,7.58,7.42,7.58,7.67,7.67
+Arabica,Colombia,huila,,7.58,7.75,10.0,10.0,10.0,7.67,7.5,7.67,7.5,7.5
+Arabica,Uganda,eastern,kaptanya,8.0,7.67,10.0,10.0,10.0,7.58,7.33,7.42,7.5,7.67
+Arabica,Colombia,,unkown,7.58,7.58,10.0,10.0,10.0,7.58,7.58,7.58,7.5,7.75
+Arabica,Honduras,san marcos,el cerron,7.5,7.67,10.0,10.0,10.0,7.67,7.67,7.67,7.5,7.5
+Arabica,Honduras,comayagua,los hicaques,7.67,7.5,10.0,10.0,10.0,7.67,7.5,7.67,7.5,7.67
+Arabica,Guatemala,san marcos,nueva granada,7.33,7.67,10.0,10.0,10.0,7.67,7.33,8.17,7.17,7.83
+Arabica,United States (Hawaii),kona,,7.5,7.58,10.0,10.0,10.0,7.67,7.92,7.42,7.58,7.5
+Arabica,"Tanzania, United Republic Of",kilimanjaro,,7.58,7.58,10.0,10.0,10.0,7.58,7.58,7.75,7.58,7.5
+Arabica,Guatemala,oriente,finca el morito,7.67,7.5,10.0,10.0,10.0,7.67,7.5,7.67,7.33,7.83
+Arabica,Mexico,chiapas,santa cecilia,7.75,7.75,10.0,10.0,10.0,7.42,7.5,7.58,7.58,7.58
+Arabica,Mexico,"tlanchinol, hidalgo",tlapacoya,7.75,7.67,10.0,10.0,10.0,7.58,7.42,7.5,7.58,7.67
+Arabica,Mexico,san bartolo tutotepec,la loma,7.58,7.67,10.0,10.0,10.0,7.58,7.5,7.67,7.42,7.75
+Arabica,Colombia,huila,,7.67,7.25,10.0,10.0,10.0,8.17,7.58,7.5,7.5,7.5
+Arabica,Mexico,san isidro,el mirador,7.75,7.58,10.0,10.0,10.0,7.58,7.58,7.75,7.42,7.5
+Arabica,Colombia,huila,,7.58,7.5,10.0,10.0,10.0,7.67,7.67,7.58,7.5,7.67
+Arabica,Mexico,la concordia,finca nueva linda,7.5,7.58,10.0,10.0,10.0,7.5,7.67,7.58,7.58,7.75
+Arabica,Brazil,south of minas,campo das flores,7.75,7.5,10.0,10.0,10.0,7.58,7.58,7.5,7.58,7.67
+Arabica,Brazil,mogiana,são francisco da serra,7.92,7.67,10.0,10.0,10.0,7.5,7.42,7.58,7.5,7.58
+Arabica,Guatemala,oriente,conquista / morito,7.75,7.5,9.33,10.0,10.0,8.0,7.92,7.5,7.67,7.5
+Arabica,Brazil,south of minas,fazenda do lobo,7.75,7.58,10.0,10.0,10.0,7.5,7.75,7.5,7.58,7.5
+Arabica,Brazil,south of minas,olhos d'agua,7.58,7.42,10.0,10.0,10.0,7.58,7.67,7.5,7.67,7.75
+Arabica,El Salvador,santa ana,several,7.42,7.58,10.0,9.33,10.0,7.58,7.17,8.08,8.17,7.83
+Arabica,Ethiopia,limu,tega and tula special coffee farm,7.75,7.92,9.33,9.33,9.33,7.92,7.83,8.08,7.67,8.0
+Arabica,Colombia,cundinamarca,,7.58,7.5,10.0,10.0,10.0,7.58,7.75,7.67,7.33,7.67
+Arabica,Colombia,huila,,7.75,7.17,10.0,10.0,10.0,7.75,8.0,7.42,7.5,7.5
+Arabica,Brazil,south of minas,capoeirinha,7.58,7.58,10.0,10.0,10.0,7.58,7.67,7.5,7.58,7.58
+Arabica,Brazil,south of minas,rio verde,7.33,7.92,10.0,10.0,10.0,7.42,7.75,7.33,7.67,7.67
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",kan tou mountain coffee 崁頭山咖啡館,7.83,7.75,10.0,10.0,9.33,7.25,7.67,7.83,7.5,7.92
+Arabica,Brazil,chapadão de ferro (cerrado mineiro),,7.42,7.5,10.0,10.0,10.0,7.67,7.75,7.5,7.58,7.67
+Arabica,Brazil,south of minas,rio verde,7.58,7.67,10.0,10.0,10.0,7.5,7.42,7.42,7.67,7.83
+Arabica,Costa Rica,central valley,various,7.83,7.5,10.0,10.0,10.0,7.67,7.58,7.67,7.5,7.33
+Arabica,United States (Hawaii),kona,,7.33,7.58,10.0,10.0,10.0,7.67,7.83,7.33,7.58,7.75
+Arabica,Taiwan,chiayi alishan 嘉義縣阿里山鄉,alishan zou zhu yuan 阿里山鄒築園,7.75,7.58,10.0,10.0,10.0,7.5,7.5,7.5,7.5,7.75
+Arabica,United States (Hawaii),kona,,7.83,7.5,10.0,10.0,10.0,7.67,7.75,7.17,7.33,7.83
+Arabica,Mexico,santa catarina juquila,santa maria,7.75,7.5,10.0,10.0,10.0,7.5,7.5,7.75,7.42,7.67
+Arabica,United States (Hawaii),kona,,7.67,8.08,10.0,9.33,9.33,8.0,7.92,7.67,7.5,7.58
+Arabica,United States (Hawaii),kona,,7.33,7.42,10.0,10.0,10.0,7.58,7.67,7.92,7.58,7.58
+Arabica,Colombia,huila,,7.33,8.17,10.0,10.0,10.0,8.08,7.25,7.58,7.33,7.33
+Arabica,Colombia,cauca,,7.83,7.58,10.0,10.0,10.0,7.92,7.42,7.25,7.33,7.75
+Arabica,Indonesia,dolok sanggul,lintong nihuta,7.67,7.5,10.0,10.0,10.0,7.58,7.67,7.58,7.5,7.58
+Arabica,Guatemala,,,7.92,7.75,10.0,10.0,9.33,7.67,7.83,7.25,7.67,7.67
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.58,7.5,10.0,10.0,10.0,7.5,7.67,7.75,7.5,7.5
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.5,7.58,10.0,10.0,10.0,7.5,7.58,7.67,7.58,7.58
+Arabica,Brazil,south of minas,capoeirinha,7.5,7.58,10.0,10.0,10.0,7.42,7.58,7.67,7.58,7.67
+Arabica,Uganda,"kasese, mt. rwenzori",isule farmers group,7.67,7.58,10.0,10.0,10.0,7.5,7.83,7.42,7.42,7.58
+Arabica,Uganda,"kasese, mt. rwenzori",ibanda farmers group,7.67,7.67,10.0,10.0,10.0,7.5,7.42,7.58,7.5,7.67
+Arabica,Colombia,huila,,7.67,7.58,10.0,10.0,10.0,7.58,7.5,7.67,7.33,7.67
+Arabica,Vietnam,vietnam cau dat,apollo estate,7.75,8.0,10.0,10.0,9.33,7.67,7.42,7.58,7.58,7.67
+Arabica,Guatemala,nuevo oriente,el chile,7.67,7.42,10.0,10.0,10.0,7.5,7.42,7.92,7.33,7.75
+Arabica,Guatemala,"el tumbador, san marcos",nueva granada,7.75,7.58,10.0,10.0,10.0,7.42,7.5,7.75,7.33,7.67
+Arabica,Guatemala,antigua,finca medina,7.83,7.33,10.0,10.0,10.0,7.5,7.75,7.67,7.25,7.67
+Arabica,Brazil,high mogiana,fazenda santo antonio,7.67,7.58,10.0,10.0,10.0,7.5,7.42,7.5,7.67,7.67
+Arabica,Taiwan,嘉義阿里山,雅慕伊,7.92,7.17,10.0,10.0,10.0,7.25,7.33,7.58,7.83,7.92
+Arabica,Uganda,kapchorwa,kabeywa county,7.83,7.5,10.0,10.0,10.0,7.5,7.58,7.5,7.5,7.58
+Arabica,United States (Puerto Rico),yauco region,hacienda caracolillo,7.67,7.42,9.33,10.0,10.0,7.83,7.75,7.83,7.67,7.5
+Arabica,Guatemala,antigua,grupo medina (pequeños productores),7.67,7.42,10.0,10.0,10.0,7.5,7.5,7.83,7.42,7.67
+Arabica,Costa Rica,central valley,several,7.67,7.67,10.0,10.0,10.0,7.5,7.5,7.58,7.5,7.58
+Arabica,Brazil,sul de minas,sertao farm,7.75,7.5,10.0,10.0,10.0,7.67,7.42,7.67,7.42,7.58
+Arabica,Colombia,huila,,7.75,8.25,10.0,10.0,10.0,7.17,7.58,7.5,7.33,7.42
+Arabica,Colombia,huila,,7.83,7.58,10.0,10.0,10.0,7.67,7.5,7.33,7.58,7.5
+Arabica,Colombia,pitalito,,7.33,7.5,10.0,10.0,10.0,7.58,7.75,7.42,7.75,7.67
+Arabica,Colombia,pitalito,,7.58,7.58,10.0,10.0,10.0,7.42,7.58,7.67,7.42,7.75
+Arabica,Colombia,huila,,7.5,7.67,10.0,10.0,10.0,7.58,7.75,7.58,7.42,7.5
+Arabica,Mexico,coatepec,vegas,7.67,7.58,10.0,10.0,10.0,7.58,7.67,7.5,7.42,7.58
+Arabica,Mexico,atoyac de alvarez,finca la estancia,7.67,7.83,10.0,10.0,9.33,7.67,7.58,7.58,7.5,7.83
+Arabica,Mexico,coatepec,las lomas,7.5,7.67,10.0,10.0,10.0,7.58,7.58,7.5,7.5,7.67
+Arabica,Colombia,,,7.67,7.5,10.0,10.0,10.0,7.5,7.75,7.5,7.5,7.58
+Arabica,Colombia,huila,various,7.75,7.58,10.0,10.0,9.33,7.75,7.83,7.67,7.5,7.58
+Arabica,Colombia,huila,,7.67,7.5,10.0,10.0,10.0,7.42,7.67,7.58,7.58,7.58
+Arabica,Guatemala,"la reforma, san marcos",la igualdad,7.5,7.33,10.0,10.0,10.0,7.83,7.5,7.67,7.5,7.67
+Arabica,Colombia,la plata,,7.67,7.5,10.0,10.0,10.0,7.42,7.67,7.5,7.58,7.67
+Arabica,Thailand,,doi tung development project,7.33,7.5,10.0,10.0,10.0,7.67,7.75,7.5,7.58,7.67
+Arabica,Colombia,cauca,,7.33,7.58,10.0,10.0,10.0,7.92,7.58,7.33,7.58,7.67
+Arabica,United States (Hawaii),,,7.83,8.08,9.33,9.33,9.33,7.83,7.92,7.83,7.67,7.83
+Arabica,United States (Hawaii),,,7.5,7.67,10.0,10.0,10.0,7.67,7.58,7.58,7.42,7.58
+Arabica,Colombia,huila,,7.5,7.42,10.0,10.0,10.0,7.58,7.58,7.67,7.67,7.58
+Arabica,Nicaragua,matagalpa,santa rosa,7.58,7.92,9.33,9.33,9.33,8.08,7.92,7.92,7.75,7.83
+Arabica,Thailand,,doi tung development project,7.5,7.42,10.0,10.0,10.0,7.5,8.17,7.75,7.42,7.25
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.67,7.5,10.0,10.0,10.0,7.5,7.58,7.58,7.5,7.58
+Arabica,El Salvador,apaneca,santa josefita,7.5,7.5,9.33,10.0,10.0,7.83,7.92,7.58,7.75,7.5
+Arabica,Colombia,guayata,,7.58,7.58,10.0,10.0,10.0,7.58,7.67,7.33,7.5,7.67
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",shi fang yuan 十方源,7.17,7.75,10.0,10.0,10.0,7.58,7.67,7.67,7.25,7.83
+Arabica,Ethiopia,"blida,kercha,guji,oromia",-,7.58,7.58,10.0,10.0,10.0,7.58,7.58,7.5,7.5,7.58
+Arabica,Taiwan,台東太麻里,佐佑品咖啡莊園,7.5,7.58,10.0,10.0,10.0,7.75,7.5,7.33,7.67,7.58
+Arabica,Philippines,"bukidnon, mindanao, philppines",kalugmanan agri development corp.,7.58,7.5,10.0,10.0,10.0,7.5,7.5,7.58,7.67,7.58
+Arabica,Philippines,asia pacific,"several, bukidnon, mindanao, philippines",8.08,7.42,10.0,10.0,10.0,7.5,7.33,7.42,7.67,7.5
+Arabica,Mexico,cuarenteño,pinzoneno,7.83,7.58,10.0,10.0,10.0,7.5,7.5,7.58,7.25,7.67
+Arabica,Mexico,chiapas,fiech (mixed producers),7.75,7.42,10.0,10.0,10.0,7.5,7.75,7.42,7.42,7.67
+Arabica,Brazil,cerrado,fazenda pantano,7.08,7.58,10.0,10.0,10.0,7.67,7.75,7.83,7.5,7.5
+Arabica,Uganda,eastern,sipi organic coffee project,8.0,7.58,10.0,10.0,10.0,7.42,7.33,7.58,7.5,7.5
+Arabica,Uganda,west nile,nyapea coffee farmers,7.75,7.5,10.0,10.0,10.0,7.5,7.5,7.5,7.58,7.58
+Arabica,Guatemala,antigua,finca medina,7.75,7.5,10.0,10.0,10.0,7.5,7.67,7.58,7.42,7.5
+Arabica,Guatemala,antigua,finca medina,7.67,7.67,10.0,10.0,10.0,7.5,7.33,7.5,7.42,7.83
+Arabica,Guatemala,,,7.58,7.75,10.0,10.0,10.0,7.58,7.58,7.58,7.25,7.58
+Arabica,Colombia,huila,,7.58,7.58,10.0,10.0,10.0,7.58,7.58,7.33,7.75,7.5
+Arabica,Colombia,huila,,7.75,7.67,10.0,10.0,10.0,7.5,7.75,7.5,7.25,7.5
+Arabica,Guatemala,huehuetenango,finca los cerros y anexos,7.83,7.5,10.0,10.0,10.0,7.17,7.5,7.92,7.25,7.75
+Arabica,Colombia,antioquia,,7.83,7.5,10.0,10.0,10.0,7.58,7.5,7.42,7.42,7.67
+Arabica,Mexico,petatlan,el regalito,7.58,7.83,10.0,10.0,10.0,7.75,7.58,7.25,7.33,7.58
+Arabica,Vietnam,don duong,"apollo co., ltd.",7.67,7.67,10.0,10.0,10.0,7.42,8.08,7.58,7.17,7.33
+Arabica,Mexico,la cumbre,el jabali,8.0,7.75,10.0,10.0,9.33,7.42,7.67,7.17,7.67,7.92
+Arabica,United States (Hawaii),kona,,7.5,7.5,10.0,10.0,10.0,7.83,7.67,7.42,7.5,7.5
+Arabica,Colombia,cauca,,7.5,7.67,10.0,10.0,10.0,7.83,7.08,7.75,7.33,7.75
+Arabica,Thailand,,doi tung development project,7.42,7.75,10.0,10.0,10.0,8.0,7.5,7.17,7.5,7.58
+Arabica,Kenya,nyeri,jungle estate,7.75,7.5,10.0,10.0,10.0,7.5,7.5,7.58,7.42,7.58
+Arabica,Guatemala,san marcos,piamonte,7.5,7.58,10.0,10.0,10.0,7.58,7.58,7.67,7.33,7.58
+Arabica,Brazil,south of minas,capoeirinha,7.67,7.58,10.0,10.0,10.0,7.42,7.5,7.5,7.58,7.58
+Arabica,El Salvador,"el balsamo, quezaltepec",el barbaro,7.33,7.33,10.0,10.0,10.0,7.67,7.33,7.83,7.67,7.67
+Arabica,Rwanda,gicumbi,gicumbi,7.83,8.0,9.33,9.33,9.33,7.75,7.75,7.83,7.75,7.92
+Arabica,Vietnam,vietnam tutra,apollo estate,7.25,7.92,10.0,10.0,10.0,7.42,7.75,7.42,7.5,7.58
+Arabica,Guatemala,oriente,el papaturro,7.58,7.5,10.0,10.0,10.0,7.5,7.67,7.67,7.33,7.58
+Arabica,Brazil,cerrado,santa fé 2,7.58,7.67,10.0,10.0,10.0,7.33,7.42,7.67,7.33,7.83
+Arabica,Colombia,huila,,7.83,7.08,10.0,10.0,10.0,7.67,7.5,7.58,7.5,7.67
+Arabica,United States,berastagi,"kampung keling, jumaraj, gurusinga, gongsol",7.42,7.58,10.0,10.0,10.0,7.75,7.75,7.5,7.25,7.58
+Arabica,Guatemala,antigua,finca medina,7.67,7.5,10.0,10.0,10.0,7.17,7.42,7.67,7.75,7.67
+Arabica,Colombia,santander,,7.5,7.67,10.0,10.0,10.0,7.58,7.58,7.5,7.58,7.42
+Arabica,Colombia,huila,,7.83,7.58,10.0,10.0,10.0,7.5,7.5,7.42,7.5,7.5
+Arabica,"Tanzania, United Republic Of",arusha,burka coffee estate,7.67,7.75,10.0,10.0,10.0,7.75,7.58,7.25,7.33,7.5
+Arabica,Mexico,la concordia,,7.58,7.5,10.0,10.0,10.0,7.5,7.5,7.58,7.5,7.67
+Arabica,Mexico,veracruz,santa rosa,7.67,7.58,10.0,10.0,10.0,7.42,7.42,7.75,7.42,7.58
+Arabica,Guatemala,oriente,agropecuaria quiagral,7.67,7.42,10.0,10.0,10.0,7.92,7.33,7.5,7.33,7.67
+Arabica,Mexico,la concordia,finca nueva linda,7.58,7.5,10.0,10.0,10.0,7.58,7.67,7.42,7.5,7.58
+Arabica,El Salvador,santa ana,several farms,7.75,7.25,10.0,10.0,10.0,7.5,7.25,7.75,7.75,7.58
+Arabica,Guatemala,santa rosa,providencia,7.5,7.5,10.0,10.0,10.0,7.5,7.58,7.67,7.42,7.58
+Arabica,Guatemala,santa rosa,linda vista,7.58,7.5,10.0,10.0,10.0,7.42,7.5,7.58,7.5,7.67
+Arabica,Guatemala,san marcos,las merceditas,7.5,7.5,10.0,10.0,10.0,7.58,7.67,7.67,7.17,7.67
+Arabica,Guatemala,santa rosa,las delicias,7.5,7.58,10.0,10.0,10.0,7.5,7.67,7.58,7.42,7.5
+Arabica,Guatemala,oriente,la esmeralda,7.42,7.67,10.0,10.0,10.0,7.5,7.5,7.67,7.42,7.58
+Arabica,Indonesia,sapan toraja,various,7.5,7.58,10.0,10.0,10.0,7.5,7.58,7.58,7.42,7.58
+Arabica,Guatemala,el progreso,la esmeralda,7.58,7.67,10.0,10.0,10.0,7.67,7.33,7.58,7.33,7.58
+Arabica,Taiwan,"台南市東山區( dongshan dist., tainan city)",大鋤花間 (hoe vs. flower coffee farm),7.83,7.67,10.0,10.0,9.33,7.67,7.58,7.67,7.33,7.67
+Arabica,El Salvador,cacahuatique,la montaña,7.67,7.67,10.0,10.0,10.0,7.67,7.58,7.33,7.17,7.67
+Arabica,Costa Rica,tarrazu,gamboa,7.58,7.67,10.0,10.0,10.0,7.5,7.42,7.67,7.42,7.5
+Arabica,Honduras,comayagua,los hicaques,7.58,7.67,10.0,10.0,10.0,7.5,7.5,7.58,7.42,7.5
+Arabica,Brazil,south of minas,capoeirinha,7.5,7.5,10.0,10.0,10.0,7.58,7.58,7.5,7.58,7.5
+Arabica,China,yunnan,man ganna estate,7.67,7.58,10.0,10.0,10.0,7.67,7.67,7.33,7.33,7.5
+Arabica,China,menglian,pu'er lingdu yunlin coffee co.ltd,7.5,7.5,10.0,10.0,10.0,7.5,7.5,7.67,7.42,7.67
+Arabica,Colombia,huila,,7.5,7.5,10.0,10.0,10.0,7.5,7.33,7.75,7.58,7.58
+Arabica,Malawi,mzuzu,msese,7.75,7.67,10.0,10.0,10.0,7.5,7.33,7.5,7.42,7.58
+Arabica,Guatemala,jalapa,el morito,7.75,7.42,10.0,10.0,10.0,7.67,7.5,7.75,7.25,7.42
+Arabica,Colombia,huila,,7.67,7.67,10.0,10.0,10.0,7.67,7.33,7.58,7.42,7.42
+Arabica,United States (Hawaii),kona,,7.67,7.42,10.0,10.0,10.0,7.5,7.33,7.83,7.42,7.58
+Arabica,United States (Hawaii),kona,,7.58,7.75,10.0,9.33,9.33,8.0,7.42,7.75,7.75,7.83
+Arabica,Colombia,antioquia,several,7.58,7.5,10.0,10.0,10.0,8.58,7.25,7.33,7.17,7.33
+Arabica,Mexico,chiapas,san lorenzo,7.58,7.58,10.0,10.0,10.0,7.5,7.5,7.5,7.5,7.58
+Arabica,Mexico,veracruz,tlamatoca,7.58,7.67,10.0,10.0,10.0,7.58,7.25,7.75,7.33,7.58
+Arabica,Mexico,atoyac de alvarez,,8.08,8.08,10.0,10.0,6.67,7.92,7.83,8.0,8.0,8.17
+Arabica,Colombia,south huila,supply chain ecom cca s.a.,7.5,7.5,10.0,10.0,10.0,7.58,7.5,7.67,7.42,7.58
+Arabica,Colombia,huila,,7.67,7.42,10.0,10.0,10.0,7.42,7.5,7.58,7.58,7.58
+Arabica,United States (Hawaii),kona,,7.25,7.75,10.0,10.0,9.33,7.67,7.67,7.83,7.5,7.75
+Arabica,Panama,boquete,hacienda la esmeralda,7.42,7.58,10.0,10.0,10.0,7.75,7.5,7.58,7.5,7.42
+Arabica,United States (Hawaii),kona,,7.75,7.42,10.0,10.0,10.0,7.42,7.17,7.83,7.5,7.67
+Arabica,Brazil,south of minas,capoeirinha,7.5,7.5,10.0,10.0,10.0,7.5,7.58,7.75,7.25,7.58
+Arabica,Brazil,south of minas,capoeirinha,7.5,7.5,10.0,10.0,10.0,7.42,7.5,7.67,7.5,7.58
+Arabica,Laos,"paksong,laos",savan coffee bean,7.67,7.58,10.0,10.0,10.0,7.5,7.42,7.42,7.42,7.67
+Arabica,El Salvador,"el balsamo, quezaltepec",el barbaro,7.67,7.5,9.33,10.0,10.0,7.67,7.5,7.67,7.67,7.67
+Arabica,Mexico,veracruz,gabriel bernard rivas ross,7.5,7.75,10.0,10.0,10.0,7.17,7.42,7.75,7.42,7.67
+Arabica,Colombia,huila,,7.75,7.42,10.0,10.0,10.0,7.75,7.33,7.58,7.33,7.5
+Arabica,Brazil,south of minas,rio verde,7.58,7.5,10.0,10.0,10.0,7.5,7.5,7.67,7.42,7.5
+Arabica,Brazil,monte carmelo,santa maria,7.33,7.5,10.0,10.0,10.0,7.5,7.67,7.58,7.58,7.5
+Arabica,"Tanzania, United Republic Of",karatu arusha,nitin,7.5,7.58,10.0,10.0,10.0,7.58,7.5,7.5,7.5,7.5
+Arabica,"Tanzania, United Republic Of",mbinga,ampcg,7.58,7.58,10.0,10.0,10.0,7.58,7.33,7.58,7.5,7.5
+Arabica,Taiwan,嘉義阿里山,伊娜咖啡莊園,8.0,7.08,10.0,10.0,10.0,7.25,7.25,7.42,7.83,7.83
+Arabica,Mexico,la yerba,los llanitos,7.67,7.58,10.0,10.0,10.0,7.5,7.42,7.5,7.42,7.58
+Arabica,Uganda,mt elgon,bugisu shamba,7.67,7.5,10.0,10.0,10.0,7.5,7.5,7.67,7.33,7.5
+Arabica,Taiwan,chiayi alishan 嘉義縣阿里山鄉,zhuo wu shan coffee 卓武山咖啡農場,7.67,7.5,10.0,10.0,10.0,7.5,7.5,7.5,7.5,7.5
+Arabica,Thailand,phahi,m10,7.42,7.5,10.0,10.0,10.0,7.5,7.58,7.67,7.5,7.5
+Arabica,Colombia,huila,,7.75,7.42,10.0,10.0,10.0,7.42,7.58,7.25,7.67,7.58
+Arabica,El Salvador,,,7.92,7.67,9.33,10.0,10.0,7.58,7.92,6.75,7.5,8.0
+Arabica,Guatemala,antigua,finca medina,7.67,7.5,10.0,10.0,10.0,7.5,7.5,7.67,7.17,7.67
+Arabica,Thailand,thailand,doi tung development project,7.83,7.58,9.33,10.0,10.0,7.83,7.58,7.33,7.83,7.33
+Arabica,Mexico,,finca monte grande,7.58,7.58,10.0,10.0,10.0,7.5,7.42,7.58,7.42,7.58
+Arabica,Mexico,mahuixtlan,finca castillos,7.5,7.58,10.0,10.0,10.0,7.42,7.42,7.58,7.58,7.58
+Arabica,Colombia,52 narino (exact location: mattituy; municipal region: florida code 381,la canada,7.33,7.58,10.0,10.0,10.0,7.67,7.67,7.42,7.42,7.58
+Arabica,United States (Hawaii),kona,,7.83,7.58,9.33,10.0,10.0,7.58,7.5,7.67,7.5,7.67
+Arabica,Mexico,mexico,kassandra,7.75,7.08,10.0,10.0,10.0,7.58,7.67,7.75,7.25,7.58
+Arabica,Colombia,huila,,8.08,7.42,10.0,10.0,10.0,7.17,7.33,7.33,7.67,7.67
+Arabica,Colombia,,,7.5,7.58,10.0,10.0,10.0,7.83,7.67,7.33,7.33,7.42
+Arabica,Guatemala,oriente,la esmeralda,7.5,7.5,10.0,10.0,10.0,7.5,7.5,7.75,7.42,7.42
+Arabica,Taiwan,國姓鄉 guoshing township,林園咖啡 lin yuan coffee,7.67,7.5,10.0,10.0,10.0,7.5,7.58,7.42,7.5,7.42
+Arabica,Brazil,south of minas,,7.5,7.5,10.0,10.0,10.0,7.33,7.75,7.5,7.42,7.58
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,台中市新社區崑山里,7.25,10.0,10.0,10.0,10.0,7.0,7.0,7.08,7.0,7.25
+Arabica,Brazil,campos altos - cerrado,,7.42,8.0,10.0,10.0,10.0,7.67,7.25,7.33,7.5,7.42
+Arabica,Indonesia,aceh,small holders farmer,7.83,7.5,10.0,10.0,10.0,7.5,7.42,7.33,7.42,7.58
+Arabica,Thailand,thailand,,7.75,7.5,10.0,10.0,10.0,7.5,7.42,7.67,7.42,7.33
+Arabica,Thailand,chiangrai,,7.42,7.5,10.0,10.0,10.0,7.5,7.58,7.42,7.58,7.58
+Arabica,"Tanzania, United Republic Of",ikand village,lubanda amcos,7.75,7.5,10.0,10.0,10.0,7.5,7.58,7.5,7.33,7.42
+Arabica,Uganda,eastern,mt.elgon sipi falls cheema,7.83,7.42,10.0,10.0,10.0,7.42,7.42,7.58,7.42,7.5
+Arabica,Costa Rica,central valley,various,7.67,7.58,10.0,10.0,10.0,7.75,7.0,7.67,7.5,7.42
+Arabica,Mexico,veracruz,,7.58,7.58,10.0,10.0,9.33,7.67,7.67,7.75,7.42,7.58
+Arabica,Guatemala,,,7.5,7.5,10.0,10.0,10.0,7.58,7.42,7.58,7.42,7.58
+Arabica,Colombia,huila,various,7.75,7.5,10.0,10.0,10.0,7.83,7.5,7.42,7.33,7.25
+Arabica,Colombia,huila,various,7.75,7.42,10.0,10.0,10.0,7.58,7.33,7.25,7.75,7.5
+Arabica,Colombia,huila,,7.58,7.42,10.0,10.0,10.0,7.42,7.67,7.58,7.42,7.5
+Arabica,Mexico,oaxaca,jamaica,7.5,7.58,10.0,10.0,10.0,7.5,7.42,7.5,7.5,7.58
+Arabica,Mexico,colima,la timbuchera; el ocotito y la hortaliza,7.67,7.5,10.0,10.0,10.0,6.83,7.67,7.75,7.58,7.58
+Arabica,Colombia,huila,,7.33,7.67,10.0,10.0,10.0,7.5,7.67,7.42,7.58,7.42
+Arabica,Brazil,south of minas,fazenda chamusca,7.58,7.42,10.0,10.0,10.0,7.5,7.5,7.75,7.33,7.5
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.5,7.42,10.0,10.0,10.0,7.5,7.58,7.5,7.5,7.5
+Arabica,Indonesia,bali,various,7.83,7.42,10.0,10.0,10.0,7.33,7.42,7.5,7.25,7.75
+Arabica,Honduras,comayagua,las cuchillas,7.58,7.5,10.0,10.0,10.0,7.5,7.5,7.5,7.33,7.58
+Arabica,Guatemala,oriente,la esperanza,7.5,7.5,10.0,10.0,10.0,7.5,7.67,7.5,7.33,7.5
+Arabica,Thailand,thailand,,7.5,7.83,10.0,10.0,9.33,7.42,7.33,7.75,7.5,7.83
+Arabica,Thailand,chiangrai,,7.33,7.5,10.0,10.0,10.0,7.5,7.67,7.5,7.5,7.5
+Arabica,"Tanzania, United Republic Of",karatu arusha,shah plantation,7.67,7.5,10.0,10.0,10.0,7.5,7.5,7.58,7.33,7.42
+Arabica,"Tanzania, United Republic Of",moshi,amkeni,7.75,7.58,10.0,10.0,10.0,7.58,7.58,7.58,7.42,7.0
+Arabica,Mexico,chiapas,finca san el retiro,7.42,7.58,10.0,10.0,10.0,7.5,7.25,7.67,7.5,7.58
+Arabica,Brazil,south of minas,fazenda rio verde,7.42,7.5,10.0,10.0,10.0,7.67,7.42,7.33,7.67,7.5
+Arabica,Guatemala,oriente,la union monte verde,7.83,7.33,10.0,10.0,10.0,7.5,7.42,7.67,7.33,7.42
+Arabica,Colombia,huila,,7.5,7.5,10.0,10.0,10.0,7.58,7.58,7.42,7.42,7.5
+Arabica,Guatemala,oriente,la esperanza y anexos,7.83,7.33,10.0,10.0,10.0,7.67,7.5,7.33,7.17,7.67
+Arabica,Mexico,san bartolo tutotepec,la pagua,7.5,7.58,10.0,10.0,10.0,7.42,7.42,7.5,7.5,7.58
+Arabica,Mexico,zapotitlan de mendez,caltuchoco,7.67,7.5,10.0,10.0,10.0,7.33,7.5,7.67,7.33,7.5
+Arabica,Mexico,la concordia,santa cruz - pante don manuel,7.92,7.5,10.0,10.0,10.0,7.42,7.25,7.58,7.33,7.5
+Arabica,Guatemala,oriente,various,7.67,7.5,10.0,10.0,10.0,7.83,7.5,7.33,7.33,7.33
+Arabica,Brazil,carmo de minas,fazenda do sertao,7.67,7.42,10.0,10.0,10.0,7.5,7.5,7.67,7.33,7.42
+Arabica,Colombia,huila,,7.67,7.58,10.0,10.0,10.0,7.67,7.25,7.5,7.33,7.5
+Arabica,United States (Hawaii),kona,,7.33,7.58,10.0,10.0,10.0,7.67,7.42,7.75,7.33,7.42
+Arabica,Guatemala,huehuetenango,,7.75,7.33,10.0,10.0,9.33,7.58,7.58,7.67,7.67,7.58
+Arabica,Honduras,"comayagua, honduras",carrillo cooperativa,7.42,7.5,10.0,10.0,10.0,7.5,7.58,7.58,7.17,7.67
+Arabica,Guatemala,san marcos,piamonte,7.58,7.42,10.0,10.0,10.0,7.5,7.33,7.75,7.33,7.5
+Arabica,Guatemala,san marcos,las merceditas,7.67,7.5,10.0,10.0,10.0,7.33,7.42,7.67,7.25,7.58
+Arabica,Guatemala,el progreso,la esmeralda,7.58,7.42,10.0,10.0,10.0,7.5,7.5,7.67,7.25,7.5
+Arabica,Guatemala,santa rosa,providencia,7.5,7.5,10.0,10.0,10.0,7.5,7.67,7.75,7.08,7.42
+Arabica,Colombia,guayata,,5.08,8.08,10.0,10.0,10.0,8.08,7.83,7.75,7.83,7.75
+Arabica,China,yunnan,menglian gao sanlin coffee factory,7.67,7.58,10.0,10.0,10.0,7.42,7.42,7.5,7.42,7.42
+Arabica,Brazil,campos altos - cerrado,,7.42,8.0,10.0,10.0,10.0,7.42,7.25,7.5,7.33,7.5
+Arabica,"Tanzania, United Republic Of",arusha meru,nguruma,7.67,7.58,10.0,10.0,10.0,7.42,7.67,7.42,7.42,7.25
+Arabica,Brazil,south of minas,rio verde,7.17,7.42,10.0,10.0,10.0,7.42,7.75,7.5,7.33,7.83
+Arabica,Guatemala,atitlan,several,7.5,7.33,10.0,10.0,10.0,7.5,7.42,7.67,7.5,7.5
+Arabica,Mexico,la yerba,los llanitos,7.42,7.58,10.0,10.0,10.0,7.5,7.42,7.58,7.42,7.5
+Arabica,Brazil,south of minas,fazenda serra negra,7.58,7.42,10.0,10.0,10.0,7.42,7.5,7.5,7.33,7.67
+Arabica,Peru,peru,,7.58,7.5,10.0,10.0,9.33,7.58,7.5,7.75,7.58,7.58
+Arabica,Brazil,south of minas,fazenda rio verde,7.25,8.17,10.0,10.0,10.0,7.5,7.42,7.5,7.25,7.33
+Arabica,Mexico,veracruz,finca los barreales,7.5,7.5,10.0,10.0,9.33,7.67,7.42,7.92,7.5,7.58
+Arabica,Honduras,,,7.25,7.67,10.0,10.0,10.0,7.5,7.75,7.17,7.42,7.67
+Arabica,Colombia,huila,,7.67,7.42,10.0,10.0,10.0,7.5,7.58,7.5,7.33,7.42
+Arabica,Mexico,chiapas,cipresal,7.5,7.42,10.0,10.0,10.0,7.58,7.42,7.67,7.42,7.42
+Arabica,Mexico,san pedro cotzilnam,pante san pedro,7.42,7.42,10.0,10.0,10.0,7.5,7.58,7.42,7.5,7.58
+Arabica,Mexico,coatepec,"cafetal el equimite, rancho agroecológico",7.42,7.5,10.0,10.0,10.0,7.5,7.5,7.58,7.33,7.58
+Arabica,Mexico,xalapa,los barreales 1112lbcat_s110312,7.75,7.58,10.0,10.0,10.0,7.33,7.58,7.58,7.25,7.33
+Arabica,Mexico,zihuatanejo de azueta,corral del diablo lote 1,7.5,7.5,10.0,10.0,10.0,7.5,7.5,7.5,7.33,7.58
+Arabica,Mexico,veracruz,cañada fria,7.58,7.58,10.0,10.0,10.0,7.5,7.5,7.5,7.17,7.58
+Arabica,Mexico,xicotepec de juarez,finca nextlalpa,7.58,7.58,10.0,10.0,10.0,7.5,7.5,7.58,7.33,7.33
+Arabica,Mexico,progreso santa rosa teocelo,santa rosa,7.67,7.5,10.0,10.0,10.0,7.33,7.58,7.42,7.33,7.58
+Arabica,Mexico,fln mirador,fln mirador,7.83,7.5,10.0,10.0,10.0,7.33,7.17,7.67,7.42,7.5
+Arabica,Colombia,huila,,7.67,7.58,10.0,10.0,10.0,7.67,7.5,7.42,7.25,7.33
+Arabica,Brazil,south of minas,santa mariana,7.75,7.42,10.0,10.0,10.0,7.42,7.5,7.42,7.42,7.5
+Arabica,Colombia,huila,,7.33,7.75,10.0,10.0,10.0,7.58,7.42,7.58,7.17,7.58
+Arabica,Colombia,huila,,7.58,7.5,10.0,10.0,10.0,7.83,7.58,7.25,7.42,7.25
+Arabica,Honduras,comayagua,los hicaques,7.5,7.58,10.0,10.0,10.0,7.42,7.42,7.5,7.33,7.58
+Arabica,Brazil,cerrado,fazenda são pedro,7.33,7.67,10.0,10.0,10.0,7.5,7.5,7.33,7.5,7.5
+Arabica,Brazil,cerrado,,7.42,7.5,10.0,10.0,10.0,7.58,7.5,7.5,7.42,7.42
+Arabica,Brazil,south of minas,capoeirinha,7.5,7.5,10.0,10.0,10.0,7.5,7.42,7.5,7.42,7.5
+Arabica,Costa Rica,tarrazu,gamboa,7.75,7.5,10.0,10.0,10.0,7.67,7.42,7.25,7.25,7.5
+Arabica,Costa Rica,tarrazu,rio jorco,7.75,7.33,10.0,10.0,10.0,7.58,7.33,7.5,7.5,7.33
+Arabica,China,xishuangbanna prefecture,yun lan coffee co. ltd,7.5,7.5,10.0,10.0,10.0,7.42,7.42,7.5,7.42,7.58
+Arabica,Brazil,south of minas,rio verde,8.25,7.75,10.0,6.67,10.0,8.08,8.17,8.33,7.25,7.83
+Arabica,Brazil,chapadão de ferro (cerrado mineiro),,7.42,7.42,10.0,10.0,10.0,7.58,7.5,7.42,7.5,7.5
+Arabica,Guatemala,huehuetenango,finca loma linda y anexo,7.5,7.42,10.0,10.0,10.0,7.5,7.5,7.83,7.17,7.42
+Arabica,Malawi,mzuzu,utchisi mountain,7.33,7.58,10.0,10.0,10.0,7.5,7.33,7.58,7.42,7.58
+Arabica,Brazil,south of minas,rio verde,7.75,8.0,6.67,10.0,10.0,8.0,8.08,8.08,7.67,8.08
+Arabica,Guatemala,jalapa,el morito,7.58,7.42,10.0,10.0,9.33,7.5,7.75,7.58,7.5,7.67
+Arabica,Mexico,veracruz,,7.33,7.5,10.0,10.0,10.0,7.5,7.5,7.5,7.42,7.58
+Arabica,Colombia,antioquia,several,7.42,7.5,10.0,10.0,10.0,8.33,7.08,7.17,7.5,7.33
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,guo cun nong yuan 國村農園,7.5,7.33,10.0,10.0,10.0,7.5,7.5,7.5,7.5,7.5
+Arabica,Taiwan,taichung xinshe 台中市新社區,yu jin gui 玉金櫃咖啡,7.5,7.33,10.0,10.0,10.0,7.5,7.5,7.5,7.5,7.5
+Arabica,Guatemala,oriente,el morito,7.5,7.25,10.0,10.0,10.0,7.58,7.5,7.5,7.58,7.42
+Arabica,Colombia,huila,,7.5,7.33,10.0,10.0,10.0,7.58,7.5,7.5,7.5,7.42
+Arabica,Mexico,"la concordia, chiapas",santa teresa,7.67,7.42,10.0,10.0,10.0,7.42,7.42,7.5,7.42,7.5
+Arabica,Costa Rica,central valley,,7.92,7.67,10.0,9.33,9.33,7.58,7.92,7.75,7.25,7.58
+Arabica,Guatemala,jalapa,finca el morito,7.67,7.33,10.0,10.0,10.0,7.33,7.5,7.67,7.33,7.5
+Arabica,Mexico,"jaltocan, hidalgo",tepemalacax,7.58,7.58,10.0,10.0,10.0,7.58,7.0,7.33,7.58,7.67
+Arabica,Mexico,veracruz,finca los barreales 1112lbga7250412,7.67,7.0,10.0,10.0,10.0,7.5,7.5,7.58,7.5,7.58
+Arabica,Guatemala,oriente,agropecuaria quiagral,7.5,7.5,10.0,10.0,10.0,7.5,7.33,7.5,7.33,7.67
+Arabica,Brazil,grama valley,sitío santa luzia,7.58,7.42,10.0,10.0,10.0,7.42,7.5,7.5,7.42,7.5
+Arabica,Mexico,santa catarina juquila,cafetal santa maria,8.0,7.83,10.0,10.0,9.33,7.67,7.08,7.33,7.33,7.75
+Arabica,Brazil,south of minas,café citrus,7.58,7.42,10.0,10.0,10.0,7.5,7.42,7.58,7.25,7.58
+Arabica,Colombia,huila,,7.83,7.33,10.0,10.0,10.0,7.42,7.58,7.25,7.33,7.58
+Arabica,Brazil,brazil matas de minas,fazendas klem ltda,7.58,7.5,10.0,10.0,10.0,7.33,7.67,7.42,7.25,7.5
+Arabica,Taiwan,,眉泉莊園        ,7.0,10.0,10.0,10.0,10.0,7.0,7.0,7.17,7.0,7.08
+Arabica,Guatemala,nuevo oriente,linda vista,7.67,7.33,10.0,10.0,10.0,7.42,7.42,7.67,7.25,7.5
+Arabica,Brazil,south of minas,rio verde,7.42,7.67,10.0,10.0,10.0,7.42,7.5,7.08,7.5,7.67
+Arabica,El Salvador,apaneca,zapato de mico,7.58,7.58,9.33,9.33,9.33,8.42,7.83,7.67,7.5,7.67
+Arabica,Honduras,marcala,bethel,7.58,7.33,10.0,10.0,10.0,7.42,7.42,7.58,7.42,7.5
+Arabica,Malawi,mzuzu,kachere,7.58,7.42,10.0,10.0,10.0,7.5,7.58,7.42,7.33,7.42
+Arabica,Brazil,south of minas,rio verde,7.75,7.42,10.0,10.0,10.0,7.33,7.33,7.42,7.42,7.58
+Arabica,Taiwan,nantou,guo xing ka fei wang 國姓咖啡王咖啡莊園,7.5,7.25,10.0,10.0,10.0,7.5,7.5,7.5,7.5,7.5
+Arabica,Mexico,veracruz,finca huehuetecpan,7.58,7.42,10.0,10.0,10.0,7.42,7.42,7.42,7.42,7.58
+Arabica,United States (Hawaii),kona,,7.33,7.42,10.0,10.0,10.0,7.42,7.5,7.67,7.5,7.42
+Arabica,Mexico,"calnali, hidalgo",omicuatla,7.58,7.58,10.0,10.0,10.0,7.42,7.42,7.17,7.5,7.58
+Arabica,Guatemala,antigua,finca medina,7.5,7.33,10.0,10.0,10.0,7.33,7.67,7.58,7.33,7.5
+Arabica,Mexico,veracruz,los barreales 1112lbgr7230412,7.5,7.33,10.0,10.0,10.0,7.42,7.33,7.67,7.42,7.58
+Arabica,Mexico,juquila,jamaica,7.67,7.33,10.0,10.0,10.0,7.42,7.42,7.5,7.33,7.58
+Arabica,El Salvador,,,7.75,7.33,10.0,10.0,10.0,7.5,7.5,7.5,7.33,7.33
+Arabica,Mexico,veracruz,chilcuatla,7.33,7.42,10.0,10.0,10.0,7.5,7.33,7.67,7.42,7.58
+Arabica,Mexico,canoas,comunidad de canoas,7.42,7.42,10.0,10.0,10.0,7.5,7.42,7.58,7.42,7.5
+Arabica,Colombia,huila,,7.5,7.42,10.0,10.0,10.0,7.33,7.58,7.33,7.67,7.42
+Arabica,Colombia,huila,,7.67,7.58,10.0,10.0,10.0,7.5,7.5,7.33,7.33,7.33
+Arabica,Brazil,,caxambu,7.67,7.5,10.0,10.0,10.0,7.58,7.5,7.0,7.42,7.58
+Arabica,Colombia,cauca,,7.17,7.75,10.0,10.0,10.0,7.67,7.58,7.25,7.58,7.25
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.42,7.5,10.0,10.0,10.0,7.5,7.42,7.42,7.5,7.42
+Arabica,Honduras,comayagua,las cuchillas,7.5,7.58,10.0,10.0,10.0,7.5,7.5,7.42,7.17,7.5
+Arabica,Nicaragua,jinotega,el brigadum - la coronela,7.5,7.5,10.0,10.0,10.0,7.42,7.5,7.42,7.33,7.5
+Arabica,"Tanzania, United Republic Of",ruvuma,langiro farm group,7.58,7.5,10.0,10.0,10.0,7.42,7.5,7.33,7.42,7.42
+Arabica,"Tanzania, United Republic Of",northern,,7.42,7.58,10.0,10.0,10.0,7.33,7.5,7.5,7.42,7.42
+Arabica,Brazil,south of minas,rio verde,6.92,7.58,10.0,10.0,10.0,7.5,7.83,7.33,7.42,7.58
+Arabica,Thailand,thailand,,7.42,7.5,10.0,10.0,10.0,7.67,7.25,7.75,7.17,7.42
+Arabica,Honduras,marcala,bethel,7.67,7.33,10.0,10.0,10.0,7.42,7.58,7.42,7.25,7.5
+Arabica,Guatemala,atitlan,blue lake,7.42,7.42,10.0,10.0,10.0,7.5,7.42,7.5,7.5,7.42
+Arabica,Brazil,cerrado,,7.58,7.5,10.0,10.0,10.0,7.42,7.5,7.25,7.42,7.5
+Arabica,"Tanzania, United Republic Of","ilomba vilage, mbozi",ilomba 2,7.75,7.25,10.0,10.0,10.0,7.42,7.33,7.58,7.42,7.42
+Arabica,Mexico,veracruz,el pino,7.42,7.33,10.0,10.0,10.0,8.17,7.33,7.42,7.17,7.33
+Arabica,Mexico,"la concordia, chiapas",,7.5,7.5,10.0,10.0,10.0,7.42,7.5,7.42,7.33,7.5
+Arabica,Taiwan,yunlin 雲林縣石壁,song yue coffee 嵩岳咖啡,7.5,7.17,10.0,10.0,10.0,7.5,7.5,7.5,7.5,7.5
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",kan tou mountain coffee 崁頭山咖啡館,7.67,7.58,10.0,10.0,10.0,7.58,7.17,7.17,7.5,7.5
+Arabica,Colombia,huila,,7.33,7.5,10.0,10.0,10.0,7.5,7.75,7.58,7.25,7.25
+Arabica,Mexico,san bartolo tutotepec,el nanchi,7.5,7.67,10.0,10.0,10.0,7.5,7.33,7.5,7.0,7.67
+Arabica,Guatemala,oriente,,7.25,7.17,9.33,10.0,10.0,7.75,8.17,7.75,7.0,7.75
+Arabica,Mexico,altotonga,las truchas,7.5,7.5,10.0,10.0,10.0,7.33,7.5,7.5,7.25,7.58
+Arabica,Mexico,colima,"la calera, barranca de la leona, el nogal",7.0,7.58,10.0,10.0,10.0,7.5,7.42,7.5,7.5,7.67
+Arabica,Colombia,huila,,7.58,7.42,10.0,10.0,10.0,7.75,7.17,7.17,7.42,7.67
+Arabica,Indonesia,aceh gayo,various,7.5,7.33,10.0,10.0,10.0,7.42,7.5,7.42,7.42,7.5
+Arabica,Colombia,huila,,7.75,7.58,10.0,9.33,9.33,7.58,7.83,7.67,7.42,7.58
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.42,7.5,10.0,10.0,10.0,7.25,7.42,7.5,7.42,7.58
+Arabica,Brazil,south of minas,rio verde,7.25,7.25,10.0,10.0,10.0,7.92,7.25,7.58,7.58,7.25
+Arabica,Costa Rica,tres rios,el patalillo,7.75,7.67,10.0,10.0,10.0,7.42,7.17,7.25,7.42,7.42
+Arabica,"Tanzania, United Republic Of",kilimanjaro,ampcg,7.42,7.42,10.0,10.0,10.0,7.58,7.5,7.42,7.42,7.33
+Arabica,"Tanzania, United Republic Of",ngorogoro,ngorogoro convenant estate,7.42,7.5,10.0,10.0,10.0,7.5,7.33,7.33,7.5,7.5
+Arabica,Colombia,,,7.5,7.25,10.0,10.0,10.0,7.42,7.67,7.42,7.42,7.42
+Arabica,Costa Rica,turrialba,cafetalera aquiares,7.58,7.33,10.0,10.0,10.0,7.67,7.5,7.33,7.33,7.33
+Arabica,United States (Hawaii),kona,,7.25,7.5,10.0,10.0,10.0,7.42,7.5,7.25,7.58,7.58
+Arabica,Mexico,coatepec,"cafetal el equimite, rancho agroecológico",7.42,7.42,10.0,10.0,10.0,7.42,7.42,7.33,7.5,7.58
+Arabica,Mexico,tapachula,,7.5,7.5,10.0,10.0,10.0,7.5,7.25,7.5,7.42,7.42
+Arabica,Mexico,coatepec,bola de oro,7.67,7.33,10.0,10.0,10.0,7.33,7.42,7.58,7.25,7.5
+Arabica,Vietnam,don duong,"apollo co., ltd.",7.67,7.42,10.0,10.0,10.0,7.08,7.67,7.08,7.17,8.0
+Arabica,Mexico,veracruz,tomatlancillo,7.58,7.33,10.0,10.0,10.0,7.42,7.33,7.75,7.25,7.42
+Arabica,United States (Hawaii),kona,,7.33,7.42,10.0,10.0,10.0,7.83,7.08,7.58,7.33,7.5
+Arabica,Colombia,cauca,,7.67,7.17,10.0,10.0,10.0,7.58,7.25,7.33,7.67,7.42
+Arabica,Honduras,el paraíso,las moras,7.5,7.42,10.0,10.0,10.0,7.42,7.5,7.5,7.17,7.5
+Arabica,Honduras,guinope el paraíso,las moras,7.5,7.5,10.0,10.0,10.0,7.5,7.42,7.33,7.25,7.5
+Arabica,Brazil,south of minas,capoeirinha,7.5,7.5,10.0,10.0,10.0,7.42,7.33,7.5,7.42,7.33
+Arabica,"Tanzania, United Republic Of",kilimanjaro,family farm,7.67,7.42,10.0,10.0,10.0,7.42,7.42,7.42,7.33,7.33
+Arabica,Laos,lao p.d.r.,club green,7.42,7.5,10.0,10.0,10.0,7.5,7.5,7.33,7.25,7.5
+Arabica,"Tanzania, United Republic Of",meru,finca estate,7.42,7.5,10.0,10.0,10.0,7.42,7.33,7.58,7.33,7.42
+Arabica,Malawi,mzuzu,chikali,7.5,7.33,10.0,10.0,10.0,7.5,7.33,7.58,7.33,7.42
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區","you siang coffee farmtainan, taiwan 台灣台南優香咖啡",7.33,7.75,10.0,10.0,10.0,7.33,7.5,7.42,7.17,7.5
+Arabica,Thailand,thailand,,7.58,7.33,10.0,10.0,10.0,7.42,7.33,7.42,7.42,7.5
+Arabica,Costa Rica,central valley,various,7.5,7.33,10.0,10.0,10.0,7.5,7.75,7.33,7.33,7.25
+Arabica,Honduras,occidental,bsr,7.33,7.17,10.0,10.0,10.0,7.83,7.5,7.5,7.33,7.33
+Arabica,Colombia,huila,,7.33,7.17,10.0,10.0,10.0,7.58,7.5,7.5,7.58,7.33
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",gao chun fang 高醇坊,7.42,7.42,10.0,10.0,9.33,7.5,8.0,7.42,7.33,7.58
+Arabica,Brazil,"minas gerais, br",café do paraíso,7.33,7.67,10.0,10.0,10.0,7.42,7.33,7.17,7.42,7.67
+Arabica,Mexico,coscomatepec,la ceiba,7.67,7.42,10.0,10.0,10.0,7.42,7.42,7.5,7.25,7.33
+Arabica,Brazil,south of minas,campo das flores,7.42,7.42,10.0,10.0,10.0,7.5,7.33,7.5,7.33,7.5
+Arabica,Brazil,cerrado,são josé da lagoa,7.42,7.42,10.0,10.0,10.0,7.42,7.5,7.5,7.25,7.5
+Arabica,Guatemala,san marcos,el faro,7.33,7.17,10.0,10.0,10.0,7.67,7.67,7.5,7.33,7.33
+Arabica,Brazil,south of minas,santa mariana/são vicente,7.58,7.33,10.0,10.0,10.0,7.42,7.5,7.5,7.17,7.5
+Arabica,Guatemala,oriente,conquista / morito,7.75,7.42,9.33,10.0,10.0,7.67,7.75,7.42,7.33,7.33
+Arabica,Colombia,huila,,7.33,8.0,10.0,10.0,10.0,7.67,7.5,7.42,7.08,7.0
+Arabica,Guatemala,oriente,la esperanza,7.58,7.58,10.0,10.0,9.33,7.5,7.58,7.58,7.25,7.5
+Arabica,Guatemala,santa rosa,las delicias,7.5,7.42,10.0,10.0,10.0,7.42,7.42,7.42,7.25,7.5
+Arabica,Honduras,comayagua,los hicaques,7.58,7.33,10.0,10.0,10.0,7.5,7.42,7.33,7.25,7.5
+Arabica,Brazil,monte carmelo,santa bárbara,7.42,7.5,10.0,10.0,10.0,7.33,7.5,7.5,7.33,7.33
+Arabica,El Salvador,"el balsamo, quezaltepec",la esperanza,7.67,7.33,9.33,10.0,10.0,7.67,7.5,7.5,7.33,7.58
+Arabica,Guatemala,nuevo oriente,las cebollas y anexos,7.58,7.25,10.0,10.0,10.0,7.33,7.17,7.83,7.17,7.58
+Arabica,"Tanzania, United Republic Of",mbeya,mcomafa farm no1155gr,7.33,7.42,10.0,10.0,10.0,7.58,7.5,7.42,7.33,7.33
+Arabica,Nicaragua,,,7.58,7.33,10.0,10.0,10.0,7.67,7.5,7.17,7.25,7.42
+Arabica,Zambia,mubuyu estate,mubuyu munali,7.67,7.25,10.0,10.0,10.0,7.42,7.75,7.33,7.42,7.08
+Arabica,Honduras,,,7.42,7.42,10.0,10.0,10.0,7.5,7.33,7.58,7.33,7.33
+Arabica,Taiwan,taichung xinshe 台中市新社區,dragon coffee 龍咖啡,7.5,7.25,10.0,10.0,10.0,7.5,7.5,7.25,7.42,7.5
+Arabica,Mexico,chiapas,various,7.58,7.25,10.0,10.0,10.0,7.25,7.5,7.58,7.25,7.5
+Arabica,Mexico,"chapulhuacan, hidalgo",platanal,7.5,7.42,10.0,10.0,10.0,7.5,7.5,7.25,7.25,7.5
+Arabica,Mexico,"huazalingo, hidalgo",texpanco,7.5,7.58,10.0,10.0,10.0,7.33,7.33,7.5,7.25,7.42
+Arabica,Mexico,veracruz,la laja,7.33,7.5,10.0,10.0,10.0,7.33,7.42,7.58,7.17,7.58
+Arabica,Mexico,fortín de las flores,mata larga,7.67,7.33,10.0,10.0,9.33,7.5,7.5,7.83,7.33,7.42
+Arabica,Brazil,grama valley,sitío corrego da olaria/são caetano,7.42,7.33,10.0,10.0,10.0,7.5,7.33,7.5,7.25,7.58
+Arabica,Colombia,cundinamarca,,7.67,7.33,10.0,10.0,10.0,7.33,7.33,7.58,7.33,7.33
+Arabica,Guatemala,oriente,la esmeralda,7.42,7.42,10.0,10.0,10.0,7.42,7.33,7.5,7.25,7.5
+Arabica,Costa Rica,tarrazu,estate la patricia,7.25,7.33,10.0,10.0,10.0,7.42,7.67,7.33,7.5,7.33
+Arabica,Brazil,monte carmelo,helena,7.42,7.33,10.0,10.0,10.0,7.25,7.42,7.5,7.42,7.5
+Arabica,Indonesia,bali,mudar,7.75,5.17,10.0,10.0,10.0,7.83,7.92,7.75,7.58,7.83
+Arabica,Guatemala,norte,chapultepec,7.58,7.17,10.0,10.0,10.0,7.25,7.58,7.42,7.33,7.5
+Arabica,Brazil,south of minas,rio verde,7.17,7.75,10.0,10.0,10.0,7.25,7.75,7.5,6.83,7.58
+Arabica,Brazil,south of minas,rio verde,7.58,8.25,10.0,10.0,10.0,7.5,7.67,6.92,6.92,7.0
+Arabica,Myanmar,ywar ngan,wat-ka-bu,7.33,7.33,10.0,10.0,10.0,7.33,7.33,7.42,7.5,7.58
+Arabica,Mexico,chiapas,rancho bonito,7.58,7.42,10.0,10.0,10.0,7.33,7.17,7.5,7.33,7.5
+Arabica,Honduras,marcala,cerro bueno,7.5,7.33,10.0,10.0,10.0,7.25,7.42,7.5,7.33,7.5
+Arabica,Costa Rica,tres rios,el patalillo,7.67,7.42,10.0,10.0,10.0,7.42,7.08,7.25,7.5,7.5
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",gao chun fang 高醇坊,7.67,7.33,10.0,10.0,10.0,7.33,7.75,7.25,7.17,7.33
+Arabica,Indonesia,lington nihuta,dozen small farmer,7.42,7.42,10.0,10.0,10.0,7.42,7.42,7.33,7.42,7.42
+Arabica,Malawi,kakoma,kakoma,7.58,7.42,10.0,10.0,10.0,7.42,7.33,7.33,7.33,7.42
+Arabica,Brazil,south of minas,rio verde,7.33,7.33,10.0,10.0,10.0,7.33,7.83,7.17,7.25,7.58
+Arabica,Honduras,comayagua,gran manzana y el aguacate,7.5,7.5,10.0,10.0,10.0,7.33,7.33,7.33,7.33,7.5
+Arabica,Mexico,"siltepec el triunfo, chiapas, mexico",various,7.42,7.5,10.0,10.0,10.0,7.42,7.33,7.5,7.25,7.42
+Arabica,Colombia,huila,,7.5,7.33,10.0,10.0,10.0,7.58,7.5,7.42,7.0,7.5
+Arabica,United States (Hawaii),kona,,7.83,8.0,10.0,6.67,10.0,7.83,7.83,8.0,7.83,7.83
+Arabica,Brazil,sul de minas,sertao farm,7.75,7.83,9.33,9.33,9.33,7.75,7.83,7.42,7.5,7.75
+Arabica,Guatemala,oriente,el sacramento,7.83,7.5,9.33,10.0,9.33,7.83,7.67,7.33,7.33,7.67
+Arabica,Mexico,veracruz,finca muxbal,7.83,7.25,10.0,10.0,10.0,7.33,7.25,7.58,7.25,7.33
+Arabica,Mexico,coatepec,el deseo,7.33,7.42,10.0,10.0,10.0,7.5,7.5,7.5,7.25,7.33
+Arabica,Brazil,cerrado,cianorte,7.33,7.33,10.0,10.0,10.0,7.25,7.5,7.5,7.25,7.67
+Arabica,Colombia,huila,,7.58,7.33,10.0,10.0,10.0,7.33,7.33,7.58,7.17,7.5
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,7.25,7.33,10.0,9.33,9.33,7.75,7.75,7.67,7.83,7.58
+Arabica,Guatemala,san marcos,las merceditas,7.5,7.33,10.0,10.0,10.0,7.33,7.42,7.42,7.25,7.5
+Arabica,Vietnam,vietnam,apollo estate,7.0,8.0,10.0,10.0,10.0,7.33,7.5,7.5,7.33,7.08
+Arabica,"Tanzania, United Republic Of",ngorogoro,ngorogoro convenant estate,7.42,7.42,10.0,10.0,10.0,7.33,7.33,7.42,7.42,7.42
+Arabica,Brazil,,,7.17,7.25,10.0,10.0,10.0,8.25,7.42,7.25,7.17,7.25
+Arabica,Mexico,"tenango de doria, hidalgo",los magueyes,7.5,7.5,10.0,10.0,10.0,7.25,7.25,7.42,7.33,7.5
+Arabica,Mexico,tepictla,finca tepictla,7.42,7.25,10.0,10.0,10.0,7.42,7.33,7.67,7.17,7.5
+Arabica,Mexico,oaxaca,"arroyo triste, arroyo triste, san jose vista hermosa",7.42,7.25,10.0,10.0,10.0,7.33,7.33,7.58,7.33,7.5
+Arabica,Mexico,la concordia,,7.33,7.33,10.0,10.0,10.0,7.25,7.42,7.67,7.33,7.42
+Arabica,Mexico,la concordia,santa cruz - pante doña graciela,7.5,7.33,10.0,10.0,10.0,7.25,7.67,7.33,7.25,7.42
+Arabica,Colombia,huila,,7.33,7.17,10.0,10.0,10.0,7.67,7.5,7.33,7.33,7.42
+Arabica,Colombia,huila,,7.42,7.5,10.0,10.0,10.0,8.0,7.25,7.08,6.92,7.58
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.42,7.25,10.0,10.0,10.0,7.25,7.5,7.5,7.25,7.5
+Arabica,Guatemala,san marcos,las merceditas,7.42,7.58,10.0,10.0,10.0,7.42,7.33,7.42,7.08,7.42
+Arabica,Guatemala,santa rosa,la esmeralda,7.42,7.33,10.0,10.0,10.0,7.42,7.33,7.67,7.17,7.33
+Arabica,Honduras,marcala,bethel,7.58,7.25,10.0,10.0,10.0,7.25,7.42,7.33,7.33,7.5
+Arabica,"Tanzania, United Republic Of",mbinga,ngima,7.17,7.58,10.0,10.0,10.0,7.33,7.5,7.42,7.33,7.33
+Arabica,Nicaragua,jinotega,santa matilde,7.58,7.33,10.0,10.0,10.0,7.25,7.5,7.25,7.25,7.5
+Arabica,Colombia,la plata,,7.75,7.67,10.0,10.0,10.0,7.83,5.25,7.67,7.75,7.75
+Arabica,Brazil,south of minas,rio verde,7.25,7.25,10.0,10.0,10.0,7.58,7.5,7.42,6.92,7.75
+Arabica,"Tanzania, United Republic Of",mbinga,multiple,7.42,7.33,10.0,10.0,10.0,7.42,7.5,7.42,7.25,7.33
+Arabica,"Tanzania, United Republic Of","ilomba vilage, mbozi",ilomba 1,7.33,7.5,10.0,10.0,10.0,7.33,7.42,7.25,7.5,7.33
+Arabica,Brazil,south of minas,rio verde,7.25,7.33,10.0,10.0,10.0,7.42,7.5,7.5,7.25,7.42
+Arabica,Indonesia,bener meriah,,7.17,7.58,10.0,10.0,10.0,7.42,7.33,7.42,7.33,7.42
+Arabica,Honduras,comayagua,gran manzana y el aguacate,7.5,7.5,10.0,10.0,10.0,7.17,7.17,7.5,7.5,7.33
+Arabica,Costa Rica,tarrazu,gamboa,7.5,8.08,10.0,10.0,10.0,7.08,7.5,7.17,7.17,7.17
+Arabica,Mexico,veracruz,,7.42,7.42,10.0,9.33,9.33,7.5,7.58,8.0,7.67,7.42
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,mu he zi coffee 木盒子咖啡園,7.5,7.25,10.0,10.0,10.0,7.25,7.42,7.25,7.5,7.5
+Arabica,Taiwan,nantou,guo xin ka fei 國昕咖啡,7.58,7.25,10.0,10.0,10.0,7.33,7.33,7.42,7.33,7.42
+Arabica,Mexico,"la concordia, chiapas",union ramal santa cruz,7.5,7.42,10.0,10.0,10.0,7.33,7.33,7.58,7.08,7.42
+Arabica,Guatemala,jalapa,finca el morito,7.5,7.17,10.0,10.0,10.0,7.33,7.33,7.33,7.33,7.67
+Arabica,Mexico,tuxtla gutierrez,finca cafetalera la suiza,7.25,7.58,10.0,10.0,8.67,7.58,7.67,7.67,7.58,7.67
+Arabica,Mexico,yajalon,,7.67,7.08,10.0,10.0,10.0,7.25,7.5,7.75,7.17,7.25
+Arabica,Mexico,veracruz,ucipa santa catarina,7.5,7.17,10.0,10.0,10.0,7.42,7.42,7.42,7.33,7.42
+Arabica,Mexico,"la concordia, chiapas",finca nueva linda,7.58,7.42,10.0,10.0,10.0,7.17,7.25,7.58,7.25,7.42
+Arabica,Mexico,"sacún palma, municipio de chilón, chiapas",sacún palma,7.75,7.67,10.0,10.0,9.33,7.33,7.58,7.17,7.25,7.58
+Arabica,United States (Hawaii),kona,,7.42,7.25,10.0,10.0,10.0,7.83,7.17,7.33,7.33,7.33
+Arabica,Honduras,western region,various,7.5,7.33,10.0,10.0,10.0,7.33,7.5,7.42,7.08,7.42
+Arabica,Guatemala,huehuetenango,la esperanza,7.42,7.42,10.0,10.0,10.0,7.33,7.42,7.5,7.08,7.42
+Arabica,Taiwan,natou county,baishengcun coffee 百勝村咖啡莊園,7.42,7.25,10.0,10.0,10.0,7.25,7.33,7.67,7.25,7.42
+Arabica,Costa Rica,turrialba,cafetalera aquiares,7.58,7.25,10.0,10.0,10.0,7.58,7.08,7.17,7.5,7.42
+Arabica,"Tanzania, United Republic Of","oldeani , mongola",acacia hills,7.42,7.25,10.0,10.0,10.0,7.33,7.42,7.42,7.33,7.42
+Arabica,Malawi,mzuzu,kavuzi,7.42,7.33,10.0,10.0,10.0,7.33,7.33,7.58,7.17,7.42
+Arabica,Taiwan,natou county,jacob's estate 雅谷咖啡,7.33,7.0,9.33,10.0,10.0,8.25,8.33,7.08,7.08,7.17
+Arabica,Brazil,south of minas,rio verde,7.42,7.33,10.0,10.0,10.0,7.25,7.5,7.33,7.33,7.42
+Arabica,Guatemala,oriente,el morito,7.42,7.17,10.0,10.0,10.0,7.5,7.42,7.58,7.17,7.33
+Arabica,Mexico,"la concordia, chiapas",union ramal santa cruz,7.67,7.33,10.0,10.0,10.0,7.42,6.75,7.5,7.42,7.5
+Arabica,Mexico,la concordia,las nubes - pante don jaime,7.33,7.33,10.0,10.0,10.0,7.17,7.5,7.5,7.25,7.5
+Arabica,Mexico,la concordia,santa cruz - pante don jaime,7.67,7.67,8.67,10.0,10.0,7.42,7.58,7.58,7.42,7.58
+Arabica,Thailand,"doi chaang village, chiang rai, thialand","doi chaang coffee original co.,ltd",7.08,7.33,10.0,10.0,10.0,7.5,7.17,7.58,7.58,7.33
+Arabica,Thailand,,doi tung development project,7.33,7.33,10.0,10.0,10.0,7.33,7.58,7.5,7.17,7.33
+Arabica,Costa Rica,tarrazu,,7.25,7.25,10.0,10.0,10.0,7.75,7.5,7.33,7.33,7.17
+Arabica,Guatemala,santa rosa,las delicias,7.67,7.58,10.0,10.0,9.33,7.42,7.33,7.42,7.17,7.58
+Arabica,Nicaragua,jalapa,finca las marías,7.5,7.33,10.0,10.0,10.0,7.33,7.25,7.33,7.33,7.42
+Arabica,Honduras,comayagua,las cuchillas,7.5,7.33,10.0,10.0,10.0,7.25,7.17,7.42,7.33,7.5
+Arabica,Guatemala,santa rosa,las delicias,7.5,7.33,10.0,10.0,10.0,7.25,7.5,7.25,7.25,7.42
+Arabica,Taiwan,古坑鄉荷包村尖山坑60號,谷泉咖啡莊園,7.5,7.33,10.0,10.0,10.0,7.25,7.58,7.08,7.33,7.42
+Arabica,Myanmar,ywar ngan township,mixed,7.25,7.42,10.0,10.0,10.0,7.33,7.33,7.5,7.25,7.42
+Arabica,Costa Rica,occidental,several,7.83,7.33,10.0,10.0,10.0,7.5,7.33,7.08,7.08,7.33
+Arabica,Malawi,mzuzu,chinongo,7.67,7.33,10.0,10.0,10.0,7.17,7.5,7.5,6.92,7.42
+Arabica,Guatemala,oriente,various,7.5,7.17,10.0,10.0,10.0,7.42,7.25,7.58,7.17,7.42
+Arabica,Taiwan,natou county,good mood coffee 馨晴咖啡        ,7.42,7.5,9.33,10.0,10.0,7.5,7.42,7.33,7.67,7.33
+Arabica,Brazil,sul de minas,pereira estate coffee,7.58,7.75,9.33,9.33,9.33,7.83,7.67,7.67,7.5,7.5
+Arabica,Haiti,"dondon, haiti",mixed,7.42,7.33,10.0,10.0,10.0,7.33,7.42,7.42,7.25,7.33
+Arabica,Taiwan,taichung xinshe 台中市新社區,xu yuan zhang 徐源漳,7.5,7.42,10.0,10.0,10.0,7.33,7.33,7.25,7.25,7.42
+Arabica,Mexico,"la concordia, chiapas",nueva linda,7.33,7.25,10.0,10.0,10.0,7.5,7.5,7.42,7.17,7.33
+Arabica,Mexico,amatenango de la frontera,productor independiente guadalupe victoria,7.58,7.17,10.0,10.0,10.0,7.33,7.33,7.42,7.25,7.42
+Arabica,Mexico,temaxcalapa,santa maria temaxcalapa,7.42,7.08,10.0,10.0,10.0,8.0,7.17,7.42,7.17,7.25
+Arabica,Mexico,manzanillo,canoa manzanillo,7.33,7.25,10.0,10.0,10.0,7.42,7.33,7.33,7.33,7.5
+Arabica,Mexico,tapachula,hamburgo 7 arroyos,7.42,7.5,10.0,10.0,10.0,7.42,7.25,7.17,7.33,7.42
+Arabica,Mexico,atoyac de alvarez,el romance azul,7.5,7.42,10.0,10.0,9.33,7.58,7.42,7.5,7.25,7.5
+Arabica,Indonesia,ijen,"ijen highland, east java",7.75,7.17,10.0,10.0,10.0,7.33,7.58,7.33,7.17,7.17
+Arabica,Brazil,sul de minas,sertao,7.5,7.17,10.0,10.0,10.0,7.33,7.5,7.42,7.17,7.42
+Arabica,Guatemala,oriente,chiquimulja / alpha cafe / senfro,7.33,7.42,10.0,10.0,10.0,7.33,7.17,7.42,7.33,7.5
+Arabica,Colombia,cauca,,7.42,7.33,10.0,10.0,10.0,7.33,7.42,7.42,7.17,7.42
+Arabica,United States (Hawaii),kona,,7.33,7.33,10.0,10.0,9.33,7.83,7.5,7.5,7.33,7.33
+Arabica,Mexico,veracruz,cafetal,7.58,7.25,10.0,10.0,10.0,7.33,7.5,7.33,7.08,7.33
+Arabica,Guatemala,san marcos,nueva granada,7.42,7.42,10.0,10.0,10.0,7.25,7.33,7.58,7.08,7.33
+Arabica,Brazil,cerrado,fazenda rio brilhante,7.33,7.5,10.0,10.0,10.0,7.42,6.83,7.33,7.5,7.5
+Arabica,Honduras,marcala,cerro bueno,7.5,7.25,10.0,10.0,10.0,7.42,7.5,7.25,7.17,7.33
+Arabica,Taiwan,苗栗三灣,山彎有機咖啡農場,7.83,7.08,10.0,10.0,10.0,7.08,7.08,7.17,7.42,7.75
+Arabica,Malawi,mzuzu,chimpumba,7.58,7.42,10.0,10.0,10.0,7.42,7.08,7.42,7.33,7.17
+Arabica,Brazil,south of minas,rio verde,7.25,7.42,10.0,10.0,10.0,7.33,7.33,7.17,7.42,7.5
+Arabica,Guatemala,"san lucas toliman, solola",santo tomas pachuj,7.42,7.08,10.0,10.0,10.0,7.42,7.42,7.42,7.17,7.5
+Arabica,Mexico,siltepec el triunfo,various,7.67,7.33,10.0,10.0,10.0,7.42,7.25,7.17,7.25,7.33
+Arabica,Peru,puno,,7.42,7.25,10.0,10.0,10.0,7.42,7.42,7.33,7.17,7.42
+Arabica,Guatemala,oriente,la union monte verde,7.42,7.08,10.0,10.0,10.0,7.5,7.42,7.42,7.25,7.33
+Arabica,Mexico,"huazalingo, hidalgo",palantla,7.42,7.58,10.0,10.0,10.0,7.42,7.25,7.17,7.25,7.33
+Arabica,Mexico,"coatepec, coatepec",los brujos,7.42,7.25,10.0,10.0,10.0,7.33,7.5,7.25,7.25,7.42
+Arabica,Colombia,huila,,7.5,7.17,10.0,10.0,10.0,7.75,7.17,7.17,7.25,7.42
+Arabica,Colombia,cauca,,7.75,7.33,10.0,10.0,10.0,7.25,7.33,7.0,7.42,7.33
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,7.83,6.92,10.0,10.0,10.0,7.5,7.58,7.58,7.0,7.0
+Arabica,Colombia,huila,,7.5,7.25,10.0,10.0,10.0,7.42,7.33,7.17,7.33,7.33
+Arabica,Honduras,comayagua,las cuchillas,7.5,7.33,10.0,10.0,10.0,7.33,7.5,7.17,7.0,7.5
+Arabica,Mexico,veracruz,,7.67,7.17,10.0,10.0,10.0,7.08,7.58,7.42,7.0,7.42
+Arabica,Brazil,cerrado,fazenda sacramento,7.25,7.33,10.0,10.0,10.0,7.42,7.33,7.33,7.33,7.33
+Arabica,Honduras,marcala,bethel,7.58,7.42,10.0,10.0,10.0,7.17,7.17,7.42,7.17,7.42
+Arabica,Brazil,mantiqueira de minas,sertao farm,7.17,7.42,10.0,10.0,10.0,7.33,7.42,7.25,7.42,7.33
+Arabica,Philippines,"davao city, region 11",bacofa,7.08,7.33,10.0,10.0,10.0,7.5,7.33,7.33,7.42,7.33
+Arabica,Malawi,mzuzu,usingini farm,7.75,7.25,10.0,10.0,10.0,7.25,7.33,7.33,7.08,7.33
+Arabica,Honduras,san marcos,el cerron,7.33,7.33,10.0,10.0,10.0,7.33,7.5,7.33,7.17,7.33
+Arabica,Mexico,tapachula,,7.58,7.25,10.0,10.0,10.0,7.25,7.25,7.33,7.25,7.42
+Arabica,Mexico,veracruz,cruz verde,7.33,7.25,10.0,10.0,10.0,7.33,7.58,7.42,7.17,7.25
+Arabica,Brazil,matas de minas        ,fazendas klem ltda,7.5,7.58,9.33,9.33,9.33,7.83,7.75,7.5,7.5,7.58
+Arabica,Taiwan,"dongshan dist., tainan city 台南市東山區",jing jing café 晶晶坊青山咖啡教室,7.83,5.25,10.0,10.0,9.33,7.75,7.83,7.83,7.67,7.75
+Arabica,Brazil,south of minas,rio verde,7.17,7.33,10.0,10.0,10.0,8.17,6.92,7.08,7.17,7.42
+Arabica,Nicaragua,jinotega,cafetales santa matilde,7.08,7.5,10.0,10.0,10.0,7.25,7.42,7.17,7.33,7.5
+Arabica,Honduras,marcala,cerro bueno,7.42,7.42,10.0,10.0,10.0,7.25,7.33,7.5,7.17,7.17
+Arabica,Guatemala,huehuetenango,el injerto s.a.,7.33,7.33,10.0,10.0,10.0,7.33,7.42,7.25,7.17,7.42
+Arabica,"Tanzania, United Republic Of",karatu ngorogoro,shangrilla estate,7.33,7.42,10.0,10.0,10.0,7.42,7.25,7.5,7.17,7.17
+Arabica,Taiwan,nantou,jia jia coffee 佳佳咖啡莊,7.5,7.25,10.0,10.0,10.0,7.25,7.25,7.25,7.25,7.5
+Arabica,Guatemala,"sacatepequez, guatemala",finca medina,7.5,7.08,10.0,10.0,10.0,7.25,7.0,7.58,7.5,7.33
+Arabica,Mexico,motozintla,finca chanjul,7.42,7.5,10.0,10.0,9.33,7.42,7.5,7.33,7.33,7.42
+Arabica,Nicaragua,"dipilto, nueva segovia",las promesas de san blass,7.33,7.25,10.0,10.0,10.0,7.17,7.58,7.17,7.17,7.5
+Arabica,"Tanzania, United Republic Of","ruvuma, mbinga",mviwambi coffee farmers,7.67,7.17,10.0,10.0,10.0,7.17,7.5,7.33,7.17,7.17
+Arabica,Mexico,"chiapas, jaltenango",exportadora café california,7.75,7.17,10.0,10.0,10.0,7.25,7.08,7.25,7.08,7.58
+Arabica,Costa Rica,tres rios,el patalillo,7.5,7.42,10.0,10.0,10.0,7.17,7.08,7.17,7.33,7.5
+Arabica,Honduras,central region,los hicaques,7.42,7.33,10.0,10.0,10.0,7.33,7.33,7.42,7.0,7.33
+Arabica,Thailand,chiangrai,,6.83,7.42,10.0,10.0,10.0,7.42,7.5,7.17,7.42,7.42
+Arabica,Philippines,corillera administrative,"irisan, baguio",7.25,7.25,10.0,10.0,10.0,7.5,7.58,7.08,7.25,7.25
+Arabica,"Tanzania, United Republic Of",mbinga,ampcg,7.58,7.33,10.0,10.0,10.0,7.25,7.33,7.33,7.17,7.17
+Arabica,Malawi,southern- zomba,makoka valley estate,7.58,7.25,10.0,10.0,10.0,7.33,7.33,7.08,7.33,7.25
+Arabica,Costa Rica,central valley,various,7.33,7.25,10.0,10.0,10.0,7.58,7.33,7.25,7.33,7.08
+Arabica,Brazil,monte carmelo,juliana,7.42,7.17,10.0,10.0,10.0,7.25,7.33,7.42,7.17,7.42
+Arabica,Mexico,tapachula,,7.42,7.08,10.0,10.0,10.0,7.17,7.42,7.75,7.08,7.25
+Arabica,Guatemala,oriente,finca quequesquez,7.42,7.25,10.0,10.0,10.0,7.42,7.25,7.25,7.33,7.25
+Arabica,Brazil,south of minas,fazenda são sebastião,7.42,7.08,10.0,10.0,10.0,7.17,7.5,7.42,7.25,7.33
+Arabica,United States (Hawaii),kona,,7.25,7.75,10.0,9.33,8.67,7.67,7.42,7.67,7.67,7.75
+Arabica,Ethiopia,sidamo,,7.42,7.25,10.0,10.0,10.0,7.17,7.42,7.33,7.17,7.33
+Arabica,Brazil,alta paulista (sao paulo),fazenda são josé mirante,7.58,7.33,9.33,10.0,9.33,7.58,7.75,7.25,7.5,7.42
+Arabica,Nicaragua,jinotega,cafetales santa matilde,7.33,7.0,10.0,10.0,10.0,7.33,7.33,7.42,7.33,7.33
+Arabica,United States,central america,,7.42,7.17,10.0,10.0,10.0,7.33,7.25,7.42,7.33,7.17
+Arabica,"Tanzania, United Republic Of","iwala village, mbeya rural",mwalyego amcos,7.42,7.17,10.0,10.0,10.0,7.33,7.25,7.25,7.33,7.33
+Arabica,Costa Rica,naranjo,santa laura,7.42,7.17,10.0,10.0,10.0,7.58,7.25,7.25,7.17,7.25
+Arabica,United States (Puerto Rico),yauco region,hacienda caracolillo,7.67,8.5,10.0,10.0,6.67,7.67,7.58,7.58,7.67,7.75
+Arabica,Mexico,san fernando,"san fernando, chiapas",7.25,7.25,10.0,10.0,10.0,7.33,7.17,7.33,7.33,7.42
+Arabica,Mexico,santo reyes nopala,cafetal sinai,7.33,7.08,10.0,10.0,10.0,7.42,7.25,7.42,7.33,7.25
+Arabica,Mexico,santa maria sitepec,,7.33,7.25,10.0,10.0,10.0,7.25,7.25,7.42,7.25,7.33
+Arabica,Mexico,talpa de allende,el desmoronado,7.42,7.25,10.0,10.0,10.0,7.25,7.17,7.42,7.25,7.33
+Arabica,United States (Hawaii),,,7.42,7.33,10.0,10.0,10.0,7.17,6.92,7.58,7.25,7.42
+Arabica,Brazil,grama valley,cachoeira da grama farm,7.25,7.33,10.0,10.0,10.0,7.17,7.33,7.5,7.17,7.25
+Arabica,El Salvador,apaneca,santa josefita,7.42,7.25,10.0,10.0,10.0,7.58,7.25,7.33,7.08,7.08
+Arabica,Brazil,grama valley,cachoeira da grama farm,7.33,7.17,10.0,10.0,10.0,7.17,7.33,7.67,7.17,7.17
+Arabica,Guatemala,norte,chapultepec,7.42,7.25,10.0,10.0,10.0,7.17,7.25,7.5,7.17,7.25
+Arabica,Colombia,guayata,,7.67,7.75,10.0,10.0,10.0,7.75,7.67,5.25,7.42,7.5
+Arabica,Guatemala,oriente,el papaturro,7.5,7.25,10.0,10.0,10.0,7.25,7.5,7.25,7.0,7.25
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",jing jing café 晶晶坊青山咖啡教室,7.25,7.33,10.0,10.0,10.0,7.33,7.5,7.25,7.17,7.17
+Arabica,Honduras,san marcos,el cerron,7.42,7.33,10.0,10.0,10.0,7.17,7.25,7.33,7.25,7.25
+Arabica,Brazil,cerrado,,7.67,7.75,10.0,6.67,10.0,7.75,7.83,7.75,7.83,7.75
+Arabica,"Tanzania, United Republic Of",arusha,rural cooperative society,7.33,7.33,10.0,10.0,10.0,7.33,7.17,7.42,7.08,7.33
+Arabica,Uganda,eastern,kapchorwa,7.33,7.42,10.0,10.0,10.0,7.42,7.42,7.33,7.17,6.92
+Arabica,Taiwan,nantou,taiwan hao ka 台灣好咖莊園,7.5,7.25,10.0,10.0,10.0,7.33,7.33,7.33,7.33,6.92
+Arabica,Thailand,thailand,doi tung development project,7.33,7.17,10.0,10.0,10.0,7.17,7.25,7.42,7.25,7.42
+Arabica,Mexico,"motozintla, chiapas",finca el gavilancillo,7.08,7.25,10.0,10.0,10.0,7.25,7.42,7.33,7.33,7.33
+Arabica,Mexico,adolfo lopez mateos,,7.58,7.5,10.0,10.0,8.0,7.5,7.58,7.67,7.5,7.67
+Arabica,Taiwan,taiwan,八杞莊園,7.33,7.25,10.0,10.0,10.0,7.25,7.33,7.33,7.25,7.17
+Arabica,Guatemala,oriente,la esperanza,7.67,7.5,9.33,9.33,9.33,7.5,7.67,7.58,7.33,7.67
+Arabica,Kenya,kiambu,thiririka/maara,7.17,5.42,10.0,10.0,10.0,7.75,8.0,7.5,7.5,7.58
+Arabica,Mexico,veracruz,finca monte azúl,7.5,7.33,10.0,10.0,9.33,7.33,7.5,7.42,7.17,7.33
+Arabica,Myanmar,pyinoolwin,sithar coffee farm,7.17,7.42,10.0,10.0,10.0,7.0,7.33,7.58,7.0,7.42
+Arabica,United States (Hawaii),kona,,7.42,7.25,10.0,10.0,10.0,7.25,7.58,7.17,7.17,7.08
+Arabica,"Tanzania, United Republic Of","manyara, karatu",karatu estate,7.33,7.25,10.0,10.0,10.0,7.33,7.42,7.25,7.17,7.17
+Arabica,Brazil,mantiqueira de minas,sertao farm,7.25,7.25,10.0,10.0,10.0,7.33,7.25,7.25,7.25,7.33
+Arabica,Taiwan,台中新社,張文進莊園,7.92,6.75,10.0,10.0,10.0,7.08,7.08,7.08,7.33,7.67
+Arabica,Brazil,south of minas,rio verde,7.17,7.33,10.0,10.0,10.0,7.33,7.25,7.25,7.17,7.42
+Arabica,Nicaragua,matagalpa,,7.33,7.33,10.0,10.0,10.0,7.42,7.5,7.0,7.25,7.08
+Arabica,Guatemala,jalapa,el morito,7.58,7.08,10.0,10.0,10.0,7.17,7.25,7.5,6.92,7.42
+Arabica,Taiwan,taichung taiping 台中市太平區,bi yun si shi yi 碧云四十一咖啡坊,7.42,7.25,10.0,10.0,10.0,7.25,7.25,7.25,7.25,7.25
+Arabica,Taiwan,nantou,bai he lin coffee 白鶴林咖啡莊園,7.25,7.17,10.0,10.0,10.0,8.08,7.08,7.08,7.08,7.17
+Arabica,Taiwan,new taipei zhonghe 新北市中和區,heng lu coffee 橫鹿咖啡,7.42,7.25,10.0,10.0,10.0,7.25,7.25,7.25,7.25,7.25
+Arabica,Mexico,ixhuatlan del cafe,"olotlan, el plan, criollo garnica",7.58,7.0,10.0,10.0,10.0,7.25,7.17,7.5,7.08,7.33
+Arabica,Thailand,,doi tung development project,7.67,6.83,10.0,10.0,10.0,7.0,7.17,7.33,7.33,7.58
+Arabica,Laos,"paksong,laos",savan coffee bean,7.42,7.33,10.0,10.0,10.0,7.25,7.17,7.17,7.17,7.33
+Arabica,Guatemala,orient,several,7.67,7.08,10.0,10.0,10.0,7.25,7.17,7.33,7.08,7.25
+Arabica,Mexico,motozintla,la victoria pante nubes,7.17,7.33,10.0,10.0,10.0,7.33,7.25,7.42,7.25,7.08
+Arabica,Mexico,oaxaca,finca santa clara,7.33,7.17,10.0,10.0,10.0,7.17,7.25,7.33,7.33,7.25
+Arabica,Mexico,veracruz,selva negra,7.5,7.25,10.0,10.0,10.0,7.17,7.17,7.25,7.33,7.17
+Arabica,United States (Hawaii),kona,,7.42,7.0,10.0,10.0,10.0,7.5,7.33,7.25,7.0,7.33
+Arabica,Colombia,huila,,7.33,7.33,10.0,10.0,10.0,7.67,7.33,6.83,7.0,7.33
+Arabica,Brazil,monte carmelo,castelhana farm,7.17,7.25,10.0,10.0,10.0,7.58,7.25,7.17,7.08,7.25
+Arabica,Myanmar,ywar ngan,myaing,6.92,7.17,10.0,10.0,10.0,7.08,7.5,7.58,7.0,7.5
+Arabica,Guatemala,huehuetenango,finca los cerros y anexos,7.5,7.17,10.0,10.0,10.0,7.17,7.17,7.42,7.0,7.33
+Arabica,Nicaragua,jinotega,cafetales santa matilde,7.25,7.25,10.0,10.0,10.0,7.25,7.33,7.25,7.17,7.25
+Arabica,Honduras,"siguatepeque, comayagua",juan damaso,7.5,7.08,10.0,10.0,10.0,7.17,7.25,7.42,7.0,7.33
+Arabica,Panama,boquete,elida estate,7.25,7.17,10.0,10.0,10.0,7.17,7.33,7.33,7.17,7.33
+Arabica,Honduras,marcala,bethel,7.42,7.17,10.0,10.0,10.0,7.25,7.25,7.42,7.08,7.17
+Arabica,Honduras,central region,los hicaques,7.25,7.0,10.0,10.0,10.0,7.33,7.25,7.5,7.08,7.33
+Arabica,Costa Rica,san ramon,several,7.33,7.25,10.0,10.0,10.0,7.17,7.17,7.25,7.25,7.33
+Arabica,Mexico,oaxaca,san josé y el portillo,7.58,7.5,10.0,9.33,9.33,7.5,7.5,7.25,7.42,7.33
+Arabica,Haiti,haiti,2000 farms,7.42,7.25,10.0,10.0,10.0,7.33,7.08,7.25,7.42,7.0
+Arabica,United States (Hawaii),kona,,7.08,6.92,10.0,10.0,10.0,7.67,7.33,7.25,7.17,7.33
+Arabica,Taiwan,taiwan,胖胖糖,7.33,7.33,10.0,10.0,10.0,7.33,7.42,7.08,7.08,7.08
+Arabica,Indonesia,sumatra brastagi,darmawi,7.58,7.33,10.0,9.33,9.33,7.5,7.5,7.67,7.0,7.42
+Arabica,Guatemala,antigua,finca medina,7.67,7.0,10.0,10.0,10.0,7.17,7.42,7.17,6.83,7.42
+Arabica,Costa Rica,tarrazu,gamboa,7.83,8.0,10.0,10.0,6.67,7.5,7.83,7.67,7.67,7.5
+Arabica,Malawi,southern- zomba,makoka valley estate,7.5,7.17,10.0,10.0,10.0,7.17,7.25,7.17,7.17,7.25
+Arabica,Mexico,"el desmoronado, talpan de allende jalisco","el desmoronado, talpan de allende jalisco",7.25,7.25,10.0,10.0,10.0,7.42,7.17,7.25,7.17,7.17
+Arabica,Colombia,santander,,7.67,8.5,6.67,10.0,10.0,7.75,7.5,7.67,7.42,7.5
+Arabica,Guatemala,"san lucas toliman, solola",santo tomas pachuj,7.67,7.33,10.0,10.0,10.0,7.0,7.0,7.5,7.0,7.17
+Arabica,Guatemala,oriente,chiquimulja / alpha cafe / senfro,7.0,7.17,10.0,10.0,10.0,7.33,7.0,7.33,7.5,7.33
+Arabica,Guatemala,oriente,chiquimulja / alpha cafe / senfro,7.0,7.33,10.0,10.0,10.0,7.17,7.17,7.17,7.33,7.5
+Arabica,Colombia,,,7.17,7.25,10.0,10.0,10.0,7.42,7.08,7.42,7.08,7.25
+Arabica,Brazil,monte carmelo,leticia farm,7.33,7.42,10.0,10.0,9.33,7.25,7.58,7.08,7.33,7.25
+Arabica,Nicaragua,nueva segovia,los saltarines,7.08,7.33,10.0,10.0,10.0,7.0,7.42,7.25,7.0,7.5
+Arabica,"Tanzania, United Republic Of",arusha,burka coffee estates,7.25,7.25,10.0,10.0,10.0,7.25,7.33,7.33,7.08,7.08
+Arabica,Brazil,south of minas,rio verde,7.42,7.25,10.0,10.0,10.0,7.25,7.08,7.0,7.33,7.25
+Arabica,Honduras,occidental,bsr,7.5,7.17,10.0,10.0,10.0,7.0,7.33,7.42,7.0,7.17
+Arabica,Guatemala,huehuetenango,finca el naranjal,7.17,7.25,10.0,10.0,10.0,7.25,7.17,7.5,6.83,7.42
+Arabica,United States (Hawaii),,,7.42,7.83,9.33,8.67,8.67,7.83,7.83,7.92,7.5,7.58
+Arabica,Colombia,,,7.08,7.33,10.0,10.0,10.0,7.33,7.08,7.5,7.0,7.25
+Arabica,Taiwan,taiwan,王秋金,7.17,7.17,10.0,10.0,10.0,7.25,7.17,7.42,7.17,7.17
+Arabica,Guatemala,santa rosa,el guayabo,7.33,7.25,10.0,10.0,10.0,7.17,7.25,7.17,7.08,7.25
+Arabica,Honduras,ocotepeque,la bendicion,7.58,7.0,10.0,10.0,10.0,7.08,7.33,7.17,7.0,7.33
+Arabica,Mauritius,chamarel (south west),case noyale ltd,7.25,7.25,10.0,10.0,10.0,7.17,7.25,7.17,7.17,7.25
+Arabica,Brazil,vale da grama,cachoeira da grama farm,7.25,7.33,10.0,10.0,9.33,7.25,7.33,7.5,7.17,7.33
+Arabica,Myanmar,pyin oo lwin,mixed,7.17,7.08,10.0,10.0,10.0,7.08,7.25,7.42,7.17,7.33
+Arabica,Guatemala,oriente,various,7.5,7.17,10.0,10.0,10.0,7.17,7.17,7.5,6.83,7.17
+Arabica,Brazil,mantiqueira de minas,pereira estate coffee,7.42,7.42,10.0,9.33,9.33,7.5,7.67,7.33,7.08,7.42
+Arabica,United States (Hawaii),kona,,7.42,7.17,10.0,10.0,8.67,7.42,7.58,7.58,7.33,7.33
+Arabica,Guatemala,huehuetenango,barranca de las flores,7.5,6.67,10.0,10.0,10.0,7.0,7.17,7.67,7.0,7.5
+Arabica,Mexico,zaragoza itundujia,peña negra,7.25,7.17,10.0,10.0,10.0,7.17,7.25,7.33,7.08,7.25
+Arabica,Honduras,marcala,bethel,7.25,7.0,10.0,10.0,10.0,7.0,7.33,7.42,7.0,7.42
+Arabica,Taiwan,南投國姓,春風咖啡,7.58,7.0,10.0,10.0,10.0,7.17,7.17,7.17,7.17,7.17
+Arabica,El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain",finca la fany,7.33,7.25,10.0,10.0,10.0,7.17,7.33,7.08,7.08,7.17
+Arabica,China,yunnan,alicia's farm,7.25,7.17,10.0,10.0,10.0,7.17,7.33,7.17,7.25,7.08
+Arabica,Taiwan,nantou,guoxing farm coffee 國姓農場咖啡        ,7.25,7.0,10.0,10.0,10.0,7.25,7.25,7.25,7.17,7.25
+Arabica,Mexico,pochutla,copalita,6.92,7.25,10.0,10.0,10.0,7.17,7.33,7.5,7.08,7.17
+Arabica,Mexico,la concordia,,7.42,7.08,10.0,10.0,10.0,7.17,7.25,7.33,7.08,7.08
+Arabica,Burundi,mumirwa,,7.08,7.33,10.0,10.0,10.0,7.08,7.08,7.33,7.17,7.25
+Arabica,"Tanzania, United Republic Of",mkuu rombo,delfina farm,7.25,7.17,10.0,10.0,10.0,7.08,7.42,7.25,7.0,7.17
+Arabica,"Tanzania, United Republic Of",arusha,kongoni estate,7.25,7.08,10.0,10.0,10.0,7.08,7.25,7.25,7.25,7.17
+Arabica,Taiwan,taichung xinshe 台中市新社區,tokoffee莊園,7.25,7.0,10.0,10.0,10.0,7.25,7.25,7.25,7.08,7.25
+Arabica,Guatemala,oriente,la castellana,7.33,7.17,10.0,10.0,10.0,7.17,7.0,7.5,6.83,7.33
+Arabica,Mexico,chilón,,7.25,7.08,10.0,10.0,10.0,7.17,7.33,7.33,7.08,7.08
+Arabica,United States (Hawaii),kona,,7.17,7.08,10.0,10.0,9.33,7.33,7.67,7.33,6.92,7.5
+Arabica,Ethiopia,kelem welega,,7.25,7.08,10.0,9.33,9.33,8.0,7.5,7.33,7.25,7.25
+Arabica,Brazil,cerrado - monte carmelo - minas gerais,são rafael_ ra/ras certified,7.17,7.25,10.0,10.0,10.0,7.0,7.0,7.08,7.42,7.33
+Arabica,Honduras,comayagua,las moras,7.25,7.33,10.0,10.0,10.0,7.0,7.42,7.0,7.0,7.25
+Arabica,Mexico,sierra madre occidental,cortapico,7.25,7.17,10.0,10.0,10.0,7.0,7.33,7.33,7.0,7.17
+Arabica,Myanmar,"yauk sauk, shan state",waylead farms,8.0,6.83,10.0,10.0,10.0,6.92,7.08,7.33,7.0,7.08
+Arabica,Myanmar,ywar ngan,thein kone,7.42,7.25,10.0,10.0,10.0,7.33,7.17,7.0,7.08,7.0
+Arabica,Nicaragua,matagalpa,finca el consuelo,7.08,7.25,10.0,10.0,10.0,7.25,7.5,7.25,7.0,6.92
+Arabica,United States (Hawaii),kona,,7.5,7.33,9.33,9.33,9.33,7.58,7.42,7.67,7.67,7.08
+Arabica,Colombia,,,7.42,7.58,8.67,8.67,8.67,7.58,8.08,7.75,7.83,8.0
+Arabica,Taiwan,chiayi fanlu嘉義縣番路鄉,weng hui ling 翁惠鈴,7.25,7.0,10.0,10.0,10.0,7.25,7.17,7.25,7.25,7.08
+Arabica,Guatemala,oriente,several,7.0,7.25,10.0,10.0,10.0,7.17,7.0,7.33,7.33,7.17
+Arabica,Mexico,"calnali, hidalgo",mirador,7.58,7.17,10.0,10.0,10.0,7.0,6.75,7.25,7.17,7.33
+Arabica,Vietnam,dala,apollo estate,7.42,7.25,10.0,10.0,8.67,7.33,7.42,7.58,7.25,7.25
+Arabica,Nicaragua,jinotega,los mesones,7.17,7.17,10.0,10.0,10.0,7.08,7.25,7.33,7.08,7.08
+Arabica,Honduras,marcala,cerro bueno,7.25,7.33,10.0,10.0,10.0,7.08,7.08,7.17,7.0,7.25
+Arabica,Guatemala,oriente,el morito,7.33,7.0,10.0,10.0,10.0,7.17,7.17,7.17,7.0,7.33
+Arabica,Mexico,coatepec,"la orduña, coatepec, veracruz",7.33,7.08,10.0,10.0,10.0,7.08,7.25,7.42,6.92,7.08
+Arabica,Mexico,zaragoza itundujia,el carrizo,7.58,7.42,10.0,10.0,8.67,7.17,7.08,7.5,7.33,7.42
+Arabica,Mexico,veracruz,el aguacate,7.33,7.0,10.0,10.0,10.0,7.0,7.25,7.08,7.17,7.33
+Arabica,Guatemala,oriente,agropecuaria quiagral,7.33,7.17,10.0,10.0,10.0,7.0,7.0,7.33,7.0,7.33
+Arabica,United States (Hawaii),kona,,7.58,7.42,9.33,9.33,9.33,7.33,7.67,7.33,7.33,7.5
+Arabica,Brazil,mantiqueira de minas,,7.17,7.08,10.0,10.0,10.0,7.25,7.25,7.17,7.0,7.17
+Arabica,Taiwan,苗栗泰安,好自在咖啡莊園,7.42,7.0,10.0,10.0,10.0,7.0,7.0,7.17,7.25,7.25
+Arabica,Nicaragua,,,7.25,7.08,10.0,10.0,10.0,7.25,7.17,7.25,6.92,7.17
+Arabica,Taiwan,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,sheng he shang pin coffee 聖荷上品咖啡坊,7.25,7.0,10.0,10.0,10.0,7.0,7.08,7.25,7.25,7.25
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,a shu she coffee 阿束社咖啡莊園,7.25,7.0,10.0,10.0,10.0,7.08,7.25,7.0,7.25,7.25
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,wu kun shan coffee 吳焜山咖啡園,7.25,7.0,10.0,10.0,10.0,7.08,7.17,7.08,7.25,7.25
+Arabica,Mexico,zaragoza itundujia,el tabaco,7.33,7.08,10.0,10.0,10.0,7.08,7.08,7.08,7.25,7.17
+Arabica,Mexico,escuitla,,7.25,7.08,10.0,10.0,10.0,7.17,7.33,7.17,7.0,7.08
+Arabica,Nicaragua,jinotega,santa matilde,7.33,7.0,10.0,10.0,10.0,7.17,7.42,7.08,6.92,7.08
+Arabica,Myanmar,"doe kwin, pyin oo lwin",doe kwin,7.17,6.92,10.0,10.0,10.0,7.0,7.17,7.42,7.0,7.33
+Arabica,Mexico,"sierra fraylesca, chiapas",various,7.58,7.42,10.0,8.67,8.67,7.5,7.5,7.5,7.42,7.75
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,zhang li hong coffee 張立宏咖啡莊園,7.25,7.0,10.0,10.0,10.0,7.0,7.25,7.0,7.25,7.25
+Arabica,Thailand,thailand,doi tung development project,7.33,7.0,10.0,10.0,10.0,7.08,7.42,7.42,7.08,6.67
+Arabica,Mexico,coatepec,"la orduña, coatepec, veracruz",7.25,7.25,10.0,10.0,9.33,7.33,7.33,7.17,7.08,7.25
+Arabica,Mexico,san miguel del puerto,"santa clara, california y camila",7.08,7.17,10.0,10.0,10.0,7.0,7.08,7.33,7.0,7.33
+Arabica,Ethiopia,limu,"phone number | 0911-51-08-01, email | at",7.42,7.75,8.67,9.33,8.67,7.58,7.75,7.92,7.5,7.42
+Arabica,Colombia,huila,,7.83,7.42,10.0,10.0,6.67,7.17,7.83,7.75,7.58,7.67
+Arabica,United States (Hawaii),kona,,7.5,7.0,10.0,10.0,10.0,7.17,7.33,6.92,7.0,7.0
+Arabica,Mexico,chiapas,various,7.33,7.17,10.0,10.0,9.33,7.17,7.42,7.33,7.08,7.08
+Arabica,Mexico,"motozintla, chiapas",finca buenos aires,7.17,7.0,10.0,10.0,10.0,7.08,7.33,7.25,6.92,7.17
+Arabica,Mexico,veracruz,rancho san francisco iii,7.5,6.75,10.0,10.0,10.0,7.08,7.25,7.17,7.0,7.17
+Arabica,Mexico,jaltenango,finca monte grande,7.17,7.33,10.0,10.0,9.33,7.33,7.5,7.08,7.08,7.08
+Arabica,Mexico,coatepec,finca la orduña,7.33,7.25,10.0,10.0,9.33,7.17,7.17,7.42,7.0,7.25
+Arabica,Mexico,veracruz,finca huehuetecpan,7.17,7.0,10.0,9.33,10.0,7.08,7.33,7.58,7.08,7.33
+Arabica,United States (Hawaii),kona,,7.5,7.58,10.0,8.67,8.67,7.58,7.5,7.42,7.58,7.42
+Arabica,Kenya,kiambu,yara estate / benvar estate,7.0,7.08,10.0,10.0,10.0,7.25,7.25,7.17,7.0,7.08
+Arabica,Guatemala,san marcos,piamonte,7.33,7.08,10.0,10.0,9.33,7.33,7.25,7.33,6.92,7.25
+Arabica,Nicaragua,jinotega,asociación aldea global jinotega,6.83,7.17,10.0,10.0,10.0,7.08,7.5,6.92,7.17,7.17
+Arabica,Mexico,veracruz,la cuchilla,7.17,6.83,10.0,10.0,10.0,7.0,7.5,7.25,7.0,7.08
+Arabica,United States (Hawaii),kona,,7.58,7.17,10.0,10.0,9.33,7.17,7.5,7.17,6.83,7.08
+Arabica,Guatemala,oriente,la esperanza,7.5,7.25,9.33,9.33,9.33,7.42,7.33,7.58,7.25,7.42
+Arabica,Taiwan,"taiwu township , pingtung county 屏東縣泰武鄉",ka-vulungan coffee estate,7.75,7.33,8.67,9.33,9.33,7.83,7.67,7.33,7.17,7.33
+Arabica,Taiwan,"baihe dist., tainan city 臺南市白河區",baijiada coffee farm佰加達咖啡莊園,7.08,7.0,10.0,10.0,10.0,7.17,7.17,7.0,7.25,7.08
+Arabica,Thailand,thailand,,7.25,7.0,10.0,10.0,10.0,6.92,7.08,7.5,6.92,7.08
+Arabica,Peru,huanuco,,7.0,7.17,10.0,10.0,9.33,7.42,7.5,7.25,7.0,7.08
+Arabica,Costa Rica,brunca,several,7.58,8.0,10.0,8.0,8.0,7.58,7.67,7.75,7.67,7.5
+Arabica,Mexico,"la concordia, chiapas",union ramal santa cruz,7.58,6.67,10.0,10.0,10.0,6.92,7.5,7.0,7.0,7.08
+Arabica,Mexico,chiapas,comonyaj noptic s de ss,7.58,6.83,10.0,9.33,10.0,6.92,7.5,7.58,6.92,7.08
+Arabica,Mexico,chiapas,various,7.25,7.0,10.0,10.0,10.0,7.08,7.17,7.17,7.0,7.08
+Arabica,Mexico,zaragoza itundujia,peña negra,7.25,6.92,10.0,10.0,10.0,7.0,7.17,7.08,7.17,7.17
+Arabica,Mexico,pochutla,el vergel,7.33,7.0,10.0,10.0,10.0,7.0,7.08,7.08,7.0,7.25
+Arabica,Guatemala,antigua,genuine antigua medina,7.58,7.67,9.33,9.33,9.33,7.33,7.0,7.33,7.5,7.33
+Arabica,Mexico,tuxtla gutierrez,finca monte grande,7.25,7.33,10.0,10.0,10.0,7.08,7.25,7.08,6.92,6.83
+Arabica,Guatemala,oriente,la esmeralda,7.42,7.25,9.33,9.33,9.33,7.33,7.42,7.58,7.25,7.42
+Arabica,El Salvador,cacahuatique,la montaña,7.25,7.0,10.0,10.0,10.0,7.17,7.33,6.83,7.0,7.08
+Arabica,Thailand,thailand,,6.92,7.08,10.0,10.0,10.0,7.08,7.17,7.42,6.83,7.17
+Arabica,Guatemala,oriente,la castellana,7.5,7.0,10.0,10.0,10.0,7.17,7.08,7.08,6.83,7.0
+Arabica,Mexico,"la concordia, chiapas",union ramal santa cruz,7.42,6.83,10.0,10.0,10.0,6.58,7.17,7.58,6.83,7.25
+Arabica,Mexico,"tenango de doria, hidalgo",el encinal,7.33,7.33,10.0,10.0,10.0,7.0,7.08,6.75,7.0,7.17
+Arabica,Mexico,"coatepec, coatepec",consolapa,6.92,7.08,10.0,10.0,10.0,7.08,7.08,7.17,7.17,7.17
+Arabica,Thailand,,doi tung development project,7.17,7.17,10.0,10.0,10.0,6.92,7.25,7.0,7.0,7.17
+Arabica,Mexico,tepetzingo,tepetzingo,7.08,6.92,10.0,10.0,10.0,7.08,7.25,7.33,6.92,7.0
+Arabica,Mexico,la concordia,,7.25,6.92,10.0,10.0,10.0,7.0,7.25,7.33,6.92,6.92
+Arabica,Colombia,huila,,7.25,6.92,10.0,10.0,10.0,7.33,7.17,6.75,7.0,7.17
+Arabica,Guatemala,"chuva, san marcos",la igualdad,7.08,7.08,10.0,10.0,10.0,7.0,7.25,7.33,6.83,7.0
+Arabica,Nicaragua,jinotega,las nubes,6.92,7.0,10.0,10.0,10.0,7.0,7.25,7.42,7.0,6.92
+Arabica,Taiwan,nantou,su-zhen huang 黃素真,6.92,7.0,10.0,10.0,10.0,7.0,7.42,7.0,7.17,7.0
+Arabica,Colombia,cundinamarca,,7.83,7.5,10.0,6.67,10.0,7.5,7.67,7.42,7.42,7.5
+Arabica,Mexico,la concordia,,7.25,7.0,10.0,10.0,9.33,7.08,7.58,7.25,6.92,7.08
+Arabica,Mexico,"coatepec, coatepec",casa blanca,7.25,7.0,10.0,10.0,9.33,7.17,7.17,7.25,7.0,7.33
+Arabica,Guatemala,oriente,el papaturro,7.08,7.42,9.33,9.33,9.33,7.42,7.33,7.58,7.25,7.33
+Arabica,Guatemala,oriente,various,7.25,6.83,10.0,10.0,10.0,7.17,7.0,7.0,6.83,7.33
+Arabica,Mexico,xicotepec de juarez,cre-leg l-4,7.0,6.83,10.0,10.0,10.0,7.17,7.33,7.42,6.83,6.83
+Arabica,Cote d?Ivoire,cnra station of divo,cnra station of divo,7.42,7.08,10.0,10.0,9.33,7.08,7.33,7.0,6.83,7.25
+Arabica,Colombia,pereira,several,7.42,7.33,10.0,9.33,9.33,7.25,7.42,7.25,6.75,7.25
+Arabica,Mexico,zentla,el encanto,7.0,6.83,10.0,10.0,10.0,6.92,7.42,7.33,6.83,7.0
+Arabica,Mexico,zentla,la gloria,7.42,7.0,10.0,10.0,9.33,7.08,7.08,7.17,7.08,7.17
+Arabica,Guatemala,oriente,conquista / morito,7.17,7.17,10.0,10.0,10.0,7.33,7.58,7.25,6.33,6.5
+Arabica,Taiwan,natou county,baishencun coffee farm百勝村咖啡莊園,7.08,6.75,10.0,10.0,10.0,7.08,7.42,7.25,6.83,6.83
+Arabica,Mexico,veracruz,el aguacate,7.0,6.92,10.0,10.0,10.0,7.08,7.17,7.17,6.92,7.0
+Arabica,Guatemala,santa rosa,las delicias,7.33,7.42,9.33,9.33,8.67,7.42,7.5,7.42,7.33,7.42
+Arabica,Honduras,ocotepeque,la bendicion,7.58,7.0,10.0,10.0,10.0,6.92,7.0,6.92,6.75,7.0
+Arabica,Guatemala,occidente,chapultepec,7.08,6.83,10.0,10.0,10.0,6.92,7.0,7.42,6.92,7.0
+Arabica,Guatemala,nuevo oriente,el chile,7.25,6.83,10.0,10.0,10.0,6.92,7.0,7.25,6.75,7.17
+Arabica,Costa Rica,san rafael,,7.17,7.33,6.67,10.0,10.0,7.83,7.25,8.0,7.5,7.42
+Arabica,Mexico,zaragoza itundujia,la tejeria,7.25,7.17,10.0,10.0,9.33,7.17,7.17,7.08,6.92,7.08
+Arabica,Mexico,yajalon,el delirio,7.17,6.92,10.0,10.0,10.0,7.0,7.17,7.08,6.92,6.92
+Arabica,Mexico,"pluma hidalogo, oaxaca",various,6.75,6.92,10.0,10.0,10.0,7.08,7.58,7.25,6.83,6.75
+Arabica,Guatemala,san marcos,las merceditas,7.58,7.67,8.67,8.67,8.67,7.67,7.67,7.42,7.42,7.67
+Arabica,United States (Puerto Rico),yauco region,hacienda caracolillo,7.42,6.92,10.0,9.33,10.0,6.92,7.33,7.33,6.75,7.08
+Arabica,Mexico,zaragoza itundujia,huanacaxtle,7.33,6.83,10.0,10.0,9.33,7.08,7.33,7.25,6.92,7.0
+Arabica,Mexico,tlacuilotepec,las palmas,7.25,6.92,10.0,10.0,9.33,7.0,7.42,7.33,6.75,7.08
+Arabica,Mexico,talpa de allende,el desmoronado,7.17,7.25,10.0,9.33,9.33,7.08,7.25,7.17,7.25,7.25
+Arabica,,,,6.75,7.25,10.0,10.0,10.0,7.5,7.58,6.83,6.42,6.75
+Arabica,Guatemala,oriente,various,7.33,6.58,10.0,10.0,10.0,6.83,7.08,7.42,6.58,7.17
+Arabica,Honduras,intibuca,various,7.0,7.0,10.0,10.0,10.0,7.0,7.0,7.0,7.0,7.0
+Arabica,Peru,san ignacio,,7.67,7.0,9.33,9.33,8.67,7.5,8.0,7.25,7.08,7.17
+Arabica,Mexico,"iliatenco, guerrero",,6.75,7.0,10.0,10.0,10.0,7.08,7.17,7.25,6.67,7.08
+Arabica,Mexico,zaragoza itundujia,el sauce,7.5,7.0,10.0,10.0,8.67,7.0,7.25,7.5,6.92,7.17
+Arabica,Mexico,amatenango de la frontera,pico del oro,7.17,6.83,10.0,10.0,10.0,6.92,7.17,7.25,6.83,6.83
+Arabica,Mexico,"la concordia, chiapas",santa teresa,7.33,7.0,10.0,10.0,9.33,7.25,7.17,7.08,6.75,7.0
+Arabica,Mexico,zaragoza itundujia,la pandora,7.5,6.75,10.0,10.0,10.0,6.75,6.92,7.08,6.92,7.0
+Arabica,Nicaragua,jalapa,finca las marías,7.17,6.75,10.0,10.0,10.0,7.0,7.0,7.0,6.92,7.0
+Arabica,United States (Hawaii),kona,,7.5,7.17,9.33,9.33,9.33,7.42,7.58,7.25,6.92,6.92
+Arabica,Guatemala,oriente,la castellana,7.33,6.75,10.0,10.0,10.0,7.0,7.0,7.25,6.33,7.08
+Arabica,Mexico,veracruz,"la patrona, el trebol, la cadena",7.25,6.67,10.0,10.0,10.0,7.0,7.17,7.0,6.83,6.83
+Arabica,Mexico,veracruz,el tesoro,7.25,7.0,10.0,10.0,8.67,7.0,7.08,7.25,7.17,7.33
+Arabica,Mexico,"ohuapan, tlaltetela",los encinos,7.67,7.0,8.67,10.0,9.33,7.17,7.58,7.33,6.83,7.17
+Arabica,China,yunnan,alicia's farm,7.0,7.08,9.33,10.0,10.0,7.17,7.17,7.17,6.83,6.92
+Arabica,Mexico,yecuatla,los pinos,6.92,6.83,10.0,10.0,10.0,6.92,7.17,7.25,6.67,6.92
+Arabica,Nicaragua,nueva segovia,los saltarines,7.08,6.92,10.0,10.0,10.0,6.92,7.08,6.83,6.75,7.0
+Arabica,Nicaragua,,,6.83,6.67,10.0,10.0,10.0,7.08,7.25,6.75,6.92,7.08
+Arabica,Guatemala,oriente,various,7.33,7.17,10.0,9.33,8.67,7.17,7.25,7.58,6.92,7.17
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",kan tou mountain coffee 崁頭山咖啡館,6.83,6.67,10.0,10.0,10.0,6.92,7.0,7.25,7.17,6.75
+Arabica,Mexico,tapachula,grapos el porvenir,7.0,6.67,10.0,10.0,10.0,6.92,6.92,7.33,6.75,7.0
+Arabica,Mexico,cofradia de suchitlan,cofradia,7.92,7.5,10.0,6.67,8.0,7.5,7.92,7.92,7.58,7.58
+Arabica,United States (Hawaii),kona,kona farms,7.92,7.25,10.0,9.33,8.67,7.33,6.75,7.42,7.08,6.83
+Arabica,Mexico,"sierra, chiapas",various,7.25,7.17,10.0,9.33,9.33,7.58,7.25,6.92,6.92,6.75
+Arabica,Mexico,villa talea de castro,finca sego,7.08,6.83,10.0,10.0,10.0,6.92,7.0,7.0,6.83,6.83
+Arabica,Mexico,los angeles,cerca de los angeles,7.25,6.92,10.0,10.0,8.67,7.08,7.58,6.83,7.0,7.17
+Arabica,Brazil,monte carmelo,santa maria,6.83,6.83,10.0,10.0,10.0,6.83,6.92,7.08,6.92,7.0
+Arabica,Mexico,zaragoza itundujia,el naranjo,7.58,7.17,10.0,10.0,8.0,7.0,7.33,7.17,7.0,7.17
+Arabica,United States (Hawaii),kona,,7.5,7.83,8.67,8.0,7.33,7.92,7.92,7.83,7.58,7.75
+Arabica,Guatemala,oriente,various,7.17,6.67,10.0,10.0,10.0,7.17,7.17,7.0,6.67,6.5
+Arabica,Guatemala,oriente,el sacramento,7.17,6.5,10.0,10.0,10.0,6.83,7.0,7.17,6.5,7.17
+Arabica,Mexico,"xochitonalco, huautla        ",llano hermoso,7.25,7.75,10.0,9.33,8.0,7.42,7.33,7.5,7.0,7.25
+Arabica,Guatemala,oriente,conquista / morito,7.17,7.0,10.0,10.0,10.0,7.33,7.33,7.25,6.17,6.08
+Arabica,United States (Hawaii),kona,,7.5,7.42,8.67,8.67,8.67,7.42,7.5,7.58,7.33,7.5
+Arabica,United States (Hawaii),kona,,7.42,7.25,9.33,8.67,8.0,7.75,7.67,7.5,7.33,7.33
+Arabica,Indonesia,ijen,various,6.92,6.83,10.0,10.0,10.0,6.83,6.92,6.92,6.92,6.83
+Arabica,Mexico,cordoba,,7.08,6.75,10.0,9.33,10.0,6.92,7.25,7.25,6.67,6.83
+Arabica,Taiwan,"台南市東山區( dongshan dist., tainan city)",大鋤花間 (hoe vs. flower coffee farm),7.5,7.25,10.0,10.0,6.67,7.5,7.5,7.17,7.33,7.08
+Arabica,Honduras,intibuca,various,6.83,6.67,10.0,10.0,10.0,6.83,7.0,7.0,6.67,7.0
+Arabica,United States (Hawaii),kona,,7.58,7.33,9.33,8.67,8.0,7.33,7.5,7.42,7.5,7.33
+Arabica,Guatemala,oriente,various,7.42,7.25,9.33,9.33,9.33,6.92,7.0,7.33,6.83,7.25
+Arabica,China,yunnan,hani,7.33,7.17,9.33,9.33,9.33,7.0,7.33,7.08,6.92,7.17
+Arabica,Guatemala,oriente,la union monte verde,7.0,6.67,10.0,10.0,10.0,6.83,6.67,7.17,6.83,6.83
+Arabica,Mexico,"motozintla, chiapas",finca la fortuna,7.25,7.08,8.0,10.0,10.0,7.08,7.25,7.0,7.0,7.33
+Arabica,Colombia,,,7.42,7.08,9.33,9.33,8.67,7.17,7.67,7.17,7.0,7.17
+Arabica,Costa Rica,occidental,several,7.5,6.83,10.0,9.33,8.67,6.83,7.08,7.0,7.42,7.25
+Arabica,Mexico,petatlan,el regadito,7.42,6.92,10.0,10.0,8.0,7.08,7.25,7.0,7.0,7.25
+Arabica,Guatemala,oriente,conquista / morito,7.17,7.17,10.0,10.0,10.0,6.83,7.33,7.08,6.17,6.17
+Arabica,Nicaragua,jinotega,el brigadum - la coronela,7.42,7.17,10.0,8.67,9.33,7.0,7.08,7.17,7.0,7.0
+Arabica,Brazil,,,7.0,6.67,10.0,10.0,10.0,6.83,7.08,6.83,6.67,6.75
+Arabica,Guatemala,oriente,el sacramento,7.0,6.5,10.0,10.0,10.0,6.83,6.83,7.17,6.67,6.83
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區","dongshan gaoyuan village chief manor coffee tainan, taiwan 台灣台南東山高原村長莊園咖啡",7.17,6.67,10.0,9.33,9.33,7.17,7.33,7.33,6.58,6.75
+Arabica,United States (Hawaii),kona,,7.58,7.58,6.0,9.33,9.33,7.42,7.42,7.67,7.58,7.67
+Arabica,Mexico,coatepec,rancho los laureles,7.17,6.67,10.0,10.0,10.0,6.75,6.83,6.75,6.58,6.75
+Arabica,Guatemala,oriente,la esperanza y anexos,7.08,6.17,10.0,10.0,10.0,7.0,6.92,7.0,6.33,6.92
+Arabica,Brazil,south of minas,fazenda capoeirnha,7.5,7.0,10.0,8.0,8.0,6.92,7.58,7.58,7.42,7.33
+Arabica,Guatemala,oriente,various,7.33,6.67,9.33,9.33,9.33,7.17,7.17,7.17,6.83,7.0
+Arabica,Mexico,zaragoza itundujia,el naranjo,7.33,6.83,10.0,9.33,9.33,6.92,6.92,7.0,6.67,7.0
+Arabica,Haiti,"dondon, haiti",mixed,6.83,6.83,10.0,10.0,9.33,6.92,6.92,6.75,6.83,6.83
+Arabica,United States (Hawaii),kona,,7.08,6.75,10.0,9.33,8.67,7.42,7.58,6.67,6.83,6.92
+Arabica,Mexico,"motozintla, chiapas",finca los andes,7.08,6.92,10.0,8.67,8.67,7.25,7.33,7.25,7.0,7.0
+Arabica,Peru,san ignacio,"producer group (approx. 1,000 farmers)",7.42,7.67,9.33,5.33,8.67,7.83,7.92,7.67,7.42,7.75
+Arabica,India,chickmangalore,,7.67,7.42,6.67,10.0,9.33,7.42,7.17,6.67,7.17,7.33
+Arabica,Mexico,"pluma hidalogo, oaxaca",various,6.67,6.58,10.0,10.0,10.0,6.92,7.0,6.83,6.42,6.33
+Arabica,Guatemala,oriente,conquista / morito,6.42,6.5,10.0,10.0,10.0,6.92,6.33,7.33,6.5,6.5
+Arabica,Mexico,coatepec,,7.17,6.58,10.0,9.33,9.33,6.58,7.25,7.0,6.58,6.58
+Arabica,Guatemala,oriente,agropecuaria quiagral,7.5,7.0,8.67,8.67,8.67,7.33,7.17,7.5,6.83,7.0
+Arabica,Guatemala,oriente,conquista / morito,6.17,6.17,10.0,10.0,10.0,6.83,7.0,7.17,6.5,6.5
+Arabica,United States (Hawaii),kona,,7.25,7.08,9.33,8.67,8.67,6.83,7.33,7.17,6.83,7.08
+Arabica,United States (Hawaii),kona,,7.5,7.5,8.0,8.0,8.0,7.25,7.67,7.58,7.33,7.33
+Arabica,Mexico,zaragoza itundujia,agua de la mariposa,7.42,6.75,10.0,10.0,7.33,6.83,6.92,7.08,6.83,7.0
+Arabica,Indonesia,indonesia,1,7.33,6.67,9.33,10.0,9.33,6.33,7.58,6.08,6.5,7.0
+Arabica,Mexico,tepictla,finca tepictla,7.08,6.58,10.0,7.33,10.0,7.08,7.17,7.17,6.83,6.83
+Arabica,Honduras,intibuca,various,6.83,7.0,10.0,8.67,9.33,6.83,7.0,6.83,6.67,6.83
+Arabica,Philippines,"benguet, mountain province",various,6.83,6.67,9.33,10.0,9.33,7.0,6.75,6.92,6.5,6.5
+Arabica,Brazil,monte carmelo,,7.17,7.0,10.0,8.0,8.0,7.0,7.17,7.5,6.83,7.0
+Arabica,Guatemala,oriente,agropecuaria quiagral,7.92,6.83,8.0,8.0,8.0,7.17,7.33,7.58,7.17,7.58
+Arabica,Guatemala,oriente,conquista / morito,6.67,6.5,10.0,10.0,8.67,6.75,7.17,7.0,6.33,6.5
+Arabica,Mexico,tlacuilotepec,la joya,7.5,6.83,10.0,8.0,8.0,6.83,7.17,7.0,6.92,7.25
+Arabica,Mexico,ocosingo,"zaragoza, montelibano, pamal navil",7.17,6.58,10.0,6.0,10.0,7.75,7.25,6.83,6.67,6.92
+Arabica,Mexico,,finca monte grande,7.25,6.67,10.0,6.67,10.0,6.83,7.17,7.08,6.67,6.83
+Arabica,Mexico,huautla de jimenez,peña campana,7.17,6.75,10.0,7.33,8.67,6.67,7.42,7.17,6.83,7.17
+Arabica,Mexico,menglian,la cruz,7.0,6.75,10.0,6.67,10.0,6.83,7.17,6.92,6.75,6.92
+Arabica,Mexico,zaragoza itundujia,el limón,7.08,6.42,10.0,8.67,8.67,6.75,7.0,7.0,6.58,6.75
+Arabica,Mexico,coatepec,la orduña,7.33,7.0,10.0,5.33,10.0,7.0,7.5,7.25,6.67,6.75
+Arabica,Guatemala,oriente,conquista / morito,6.75,6.33,10.0,10.0,8.0,6.75,7.25,7.0,6.17,6.5
+Arabica,Guatemala,oriente,conquista / morito,6.75,6.42,10.0,10.0,8.0,6.58,7.0,7.17,6.17,6.67
+Arabica,Mexico,chiapas,sierra madre,7.08,6.75,10.0,7.33,8.0,6.83,7.33,7.5,6.83,7.0
+Arabica,United States (Hawaii),kona,,7.5,7.33,6.67,8.67,8.0,7.33,7.42,7.25,7.0,7.25
+Arabica,Guatemala,oriente,la castellana,6.5,6.0,8.67,10.0,8.67,6.83,7.33,7.5,6.5,6.33
+Arabica,Mexico,"chocaman, veracruz",las ceibas,7.0,6.67,10.0,6.67,10.0,6.83,7.08,6.83,6.67,6.58
+Arabica,Mexico,xalapa,la marina-el orizabeño,6.92,6.5,10.0,6.67,10.0,6.75,7.25,7.33,6.17,6.42
+Arabica,Mexico,coatepec,rancho vigia,7.67,7.08,10.0,2.67,10.0,7.33,7.33,7.58,7.17,7.0
+Arabica,United States (Hawaii),kona,,7.17,7.33,6.67,6.67,9.33,6.92,7.67,7.58,7.17,7.17
+Arabica,Brazil,campos altos - cerrado,,7.25,6.67,10.0,8.0,8.0,6.42,7.0,7.0,6.58,6.58
+Arabica,Honduras,intibuca,various,7.0,7.08,8.0,8.0,8.0,7.17,7.0,7.17,6.83,7.17
+Arabica,Mexico,sierra alta mixe y zapoteca,various,7.08,6.92,8.0,8.0,8.0,6.92,6.92,7.08,6.92,7.08
+Arabica,Colombia,,,8.0,7.33,6.67,6.67,6.67,7.67,7.42,7.33,7.75,7.33
+Arabica,United States (Hawaii),kona,,6.92,6.92,9.33,6.67,6.67,7.17,7.58,7.5,6.92,6.92
+Arabica,Haiti,marmelade,2000 farmers,6.92,6.42,8.67,5.33,10.0,6.67,7.33,7.17,7.08,6.75
+Arabica,Costa Rica,occidental,several,6.33,6.25,10.0,6.67,10.0,6.5,6.33,6.83,6.33,6.5
+Arabica,Mexico,tlatlauquitepec,la vuelta,6.92,6.58,10.0,2.67,10.0,7.0,7.17,6.92,6.92,6.92
+Arabica,Mexico,veracruz,la morena,6.5,6.42,10.0,6.0,8.0,6.5,7.33,7.17,6.42,6.67
+Arabica,Mexico,"sierra norte yajalon, chiapas",various,6.92,6.75,10.0,6.0,6.0,6.92,7.42,6.92,6.83,7.0
+Arabica,Brazil,cerrado,,7.0,6.67,10.0,6.0,6.0,6.83,7.33,7.0,6.83,7.0
+Arabica,Honduras,marcala,cerro bueno,6.67,6.33,8.0,8.0,8.0,6.17,6.83,6.67,6.17,6.5
+Arabica,Honduras,marcala,cerro bueno,7.0,6.5,8.0,8.0,8.0,6.17,6.5,6.67,6.17,6.17
+Arabica,Honduras,marcala,cerro bueno,7.0,6.33,8.0,8.0,8.0,6.17,6.67,6.5,6.17,6.33
+Arabica,Mexico,juchique de ferrer,el centenario,7.08,6.75,10.0,0.0,10.0,6.75,7.25,7.42,6.25,6.83
+Arabica,Haiti,"department d'artibonite , haiti",200 farms,6.75,6.42,6.0,6.0,9.33,6.67,7.08,6.67,6.42,6.58
+Arabica,Nicaragua,jalapa,finca las marías,7.25,6.17,6.0,6.0,6.0,6.08,6.42,6.25,6.33,6.58
+Arabica,Guatemala,nuevo oriente,finca el limon,7.5,6.67,1.33,1.33,8.0,6.67,7.33,7.67,6.67,6.67
+Arabica,Honduras,comayagua,los hicaques,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Robusta,Uganda,sheema south western,kyangundu cooperative society,7.83,8.0,8.0,10.0,10.0,7.92,8.25,7.92,7.75,8.08
+Robusta,India,chikmagalur karnataka indua,sethuraman estate kaapi royale,8.0,8.0,8.0,10.0,10.0,7.92,7.92,8.0,7.92,7.75
+Robusta,India,chikmagalur,sethuraman estate,7.92,8.0,7.83,10.0,10.0,7.92,7.83,8.0,7.92,7.83
+Robusta,Uganda,central,ugacof project area,8.0,8.08,7.75,10.0,10.0,7.75,7.83,7.75,7.92,7.92
+Robusta,Uganda,luwero central region,katikamu capca farmers association,8.33,7.67,7.58,10.0,10.0,7.75,8.25,7.75,7.83,7.83
+Robusta,India,chikmagalur,,8.0,7.75,7.75,10.0,10.0,7.92,7.75,8.0,7.67,7.92
+Robusta,India,chikmagalur,sethuraman estates,7.67,7.83,8.0,10.0,10.0,7.75,7.92,7.83,7.83,7.75
+Robusta,India,chikmagalur karnataka india,sethuraman estate kaapi royale,7.67,7.92,7.92,10.0,10.0,7.83,7.92,7.67,7.83,7.75
+Robusta,India,chikmagalur karnataka,sethuraman estate,7.67,7.92,7.92,10.0,10.0,8.0,7.83,7.83,7.58,7.75
+Robusta,Uganda,western,ishaka,7.67,7.83,7.75,10.0,10.0,7.75,7.92,7.83,7.83,7.83
+Robusta,Uganda,iganga namadrope eastern,ugacof project area,7.58,7.83,7.67,10.0,10.0,7.67,7.5,7.83,7.75,7.92
+Robusta,India,chikmagalur karnataka,sethuraman estate kaapi royale,7.67,7.75,7.75,10.0,10.0,7.58,7.75,7.5,7.75,7.83
+Robusta,India,chikmagalur,sethuraman estates,7.58,8.33,7.5,10.0,10.0,7.67,7.67,7.58,7.67,7.58
+Robusta,Uganda,eastern,kasozi coffee farmers,8.0,7.67,7.58,10.0,10.0,7.5,7.67,7.58,7.75,7.75
+Robusta,Uganda,south western,kyangundu coop society,8.0,7.75,7.58,10.0,10.0,7.58,7.67,7.5,7.75,7.67
+Robusta,India,chikmagalur,sethuraman estate,7.75,7.83,7.58,10.0,10.0,7.58,7.58,7.67,7.67,7.75
+Robusta,India,chikmagalur,sethuraman estates,7.5,7.83,7.83,10.0,10.0,7.83,7.67,7.83,7.25,7.5
+Robusta,Uganda,western,bushenyi,7.33,7.58,7.75,10.0,10.0,7.67,7.75,7.75,7.5,7.58
+Robusta,Uganda,western,kigezi coffee farmers association,7.83,7.42,7.75,10.0,10.0,7.5,7.5,7.67,7.33,7.58
+Robusta,Uganda,southern,mannya coffee project,7.75,7.5,7.67,10.0,10.0,7.58,7.67,7.58,7.33,7.42
+Robusta,India,chikmagalur,sethuraman estates,7.67,7.5,7.42,10.0,10.0,7.5,7.58,7.33,7.5,7.67
+Robusta,India,chikmagalur,sethuraman estates,7.58,7.58,7.42,10.0,10.0,7.5,7.42,7.83,7.42,7.42
+Robusta,United States,chikmagalur,sethuraman estates,7.92,7.33,7.58,10.0,9.33,7.42,7.42,7.42,7.42,7.5
+Robusta,Ecuador,"san juan, playas",robustasa,7.75,7.83,7.75,10.0,10.0,7.83,5.08,7.58,7.33,7.58
+Robusta,Ecuador,"san juan, playas",robustasa,7.5,8.58,8.42,10.0,10.0,5.25,5.17,7.75,7.75,7.67
+Robusta,United States,"kwanza norte province, angola",fazenda cazengo,7.33,7.17,7.42,9.33,9.33,7.17,7.5,7.42,7.17,7.33
+Robusta,India,,,7.42,6.92,7.08,9.33,9.33,7.0,7.25,7.17,6.75,6.83
+Robusta,Vietnam,,,6.75,7.92,6.67,9.33,9.33,6.83,6.92,6.83,6.5,6.67

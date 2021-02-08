@@ -1,0 +1,1273 @@
+species,country,region,company,harvest_year,aroma,cupper_points,sweetness,clean_cup,uniformity,balance,body,acidity,aftertaste,flavor,total_cup_points
+Arabica,Ethiopia,guji-hambela,metad agricultural developmet plc,2014,8.67,8.75,10,10,10,8.42,8.5,8.75,8.67,8.83,90.58
+Arabica,Ethiopia,guji-hambela,metad agricultural developmet plc,2014,8.75,8.58,10,10,10,8.42,8.42,8.58,8.5,8.67,89.92
+Arabica,Ethiopia,oromia,yidnekachew debessa coffee plantation,2014,8.17,8.67,10,10,10,8.25,8.5,8.42,8.42,8.58,89
+Arabica,Ethiopia,guji-hambela,metad agricultural developmet plc,2014,8.25,8.58,10,10,10,8.33,8.42,8.5,8.25,8.5,88.83
+Arabica,Brazil,,,2013,8.58,8.33,10,10,10,8.33,8.25,8.5,8.42,8.42,88.83
+Arabica,Peru,,richmond investment-coffee department,2012,8.42,8.5,10,10,10,8.25,8.25,8.5,8.33,8.5,88.75
+Arabica,Ethiopia,oromiya,,2010,8.67,8.67,9.33,10,9.33,8.42,8.33,8.42,8.58,8.67,88.42
+Arabica,Ethiopia,"snnp/kaffa zone,gimbowereda",diamond enterprise plc,2014,8.08,8.5,10,10,10,8.42,7.67,8.5,8.5,8.58,88.25
+Arabica,Ethiopia,oromia,fahem coffee plantation,2014,8.17,8.58,10,10,10,8.17,7.75,8.5,8.25,8.67,88.08
+Arabica,United States,antioquia,coffee quality institute,2014,8.25,8.5,10,10,10,8.17,8.08,8.33,8.17,8.42,87.92
+Arabica,United States,antioquia,coffee quality institute,2014,8.08,8.33,10,10,10,8.08,8,8.42,8.33,8.67,87.92
+Arabica,United States (Hawaii),kona,,2010,8.33,8.58,10,10,10,8,8.25,8.25,8.08,8.42,87.92
+Arabica,Ethiopia,oromiya,,2010,8.25,8.5,9.33,10,9.33,8.75,8.58,8.25,8.5,8.33,87.83
+Arabica,United States,antioquia,coffee quality institute,2014,8,8.17,10,10,10,8,8.17,8.17,8.58,8.5,87.58
+Arabica,Ethiopia,yirgacheffe,,2010,8.17,8.83,9.33,10,9.33,8.33,8.42,8.33,8.25,8.33,87.33
+Arabica,China,yunnan,yunnan coffee exchange,2015,8.42,8.42,10,10,10,8,7.92,8.17,8.08,8.25,87.25
+Arabica,Ethiopia,gedio,essence coffee,2014,8.17,8.33,10,10,10,8.33,8.08,8.17,8,8.17,87.25
+Arabica,United States,antioquia,coffee quality institute,2014,8,8.17,10,10,10,8,8.25,8.5,8.08,8.25,87.25
+Arabica,Costa Rica,san ramon,the coffee source inc.,2014,8.08,8.33,10,10,10,8.33,8,8.17,8,8.25,87.17
+Arabica,Mexico,xalapa,,2012,8.17,8.58,10,10,10,8.17,7.83,8,8.17,8.25,87.17
+Arabica,United States,antioquia,coffee quality institute,2014,8.25,8.17,10,10,10,8.17,7.83,8.17,8.17,8.33,87.08
+Arabica,Ethiopia,sidamo,,2013,8.42,8.08,10,10,10,8,8.33,8.17,7.92,8.17,87.08
+Arabica,Brazil,south of minas,nucoffee,2011,8.5,7.92,10,10,10,8,8,8,8,8.5,86.92
+Arabica,Ethiopia,sidamo,,2010,7.83,8.25,10,10,10,8.17,8.17,8.17,8.08,8.25,86.92
+Arabica,Uganda,kapchorwa eastern,kabum trading company,2013,8.42,8.17,10,10,10,7.92,7.83,8.17,8.17,8.17,86.83
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2016,8.17,8.25,10,10,10,8,8.08,8,8.08,8.08,86.67
+Arabica,Taiwan,"leye, alishan township, chiayi county",taiwan coffee laboratory,2015,8,8.17,10,10,10,8.17,8,8.25,8,8,86.58
+Arabica,Tanzania,,,2012,8.42,8.17,10,10,10,8,7.58,8,8.17,8.17,86.5
+Arabica,Brazil,vale da grama,nucoffee,2011,8.5,8,10,10,10,8,8,7.75,8,8.17,86.42
+Arabica,Costa Rica,west and central valley,exclusive coffees s.a.,2016,8.17,8.42,10,10,10,8,7.83,8.08,8,7.83,86.33
+Arabica,Ethiopia,oromia,haider abamecha coffee export,2014,8,8.08,10,10,10,8.08,8.08,8,7.92,8.08,86.25
+Arabica,Kenya,muranga,c dorman ltd,2013,8.08,8.08,10,10,10,7.92,7.92,8.25,8,8,86.25
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,8.08,8.33,10,10,10,7.83,7.92,7.92,8,8.17,86.25
+Arabica,United States (Hawaii),kona,,2010,8.25,8.25,10,10,10,7.83,7.67,7.75,8.08,8.42,86.25
+Arabica,Ethiopia,yirgacheffe,,2010,7.92,8.17,10,10,10,8.17,8.08,8.08,8.08,7.75,86.25
+Arabica,United States,antioquia,coffee quality institute,2014,7.67,8.08,10,10,10,8.08,8.17,8,8,8.17,86.17
+Arabica,Thailand,chiang rai,lanna cafe,2012,7.83,8.42,10,10,10,7.92,7.58,8.25,7.83,8.33,86.17
+Arabica,Brazil,sul de minas - carmo de minas,,2010,8.17,8.08,10,10,10,8,8.33,7.75,7.92,7.92,86.17
+Arabica,Brazil,sul de minas - carmo de minas,,2010,8.42,8.17,10,10,10,8,7.92,7.75,8,7.92,86.17
+Arabica,Taiwan,natou county,taiwan coffee laboratory,2015,8.08,8.42,10,10,10,7.83,7.75,8.08,7.75,8.17,86.08
+Arabica,Kenya,nyeri,keremara limited,2014,8.08,8,10,10,10,8.08,7.83,8,8,8.08,86.08
+Arabica,Brazil,south of minas,nucoffee,2011,8.33,8,10,10,10,8,7.75,8,8,8,86.08
+Arabica,Uganda,eastern uganda,ucda,2014,8.08,8.08,10,10,10,7.92,8.08,7.92,7.83,8.08,86
+Arabica,Colombia,tolima,lusso coffee lab,2013,7.75,8.17,10,10,10,8.17,8.08,8.08,7.83,7.92,86
+Arabica,Kenya,kiambu,lusso coffee lab,2013,7.92,8.17,10,10,10,7.92,7.5,8.5,7.83,8.17,86
+Arabica,Uganda,"sipi, mt elgon",kawacom uganda ltd,2012,8.25,7.92,10,10,10,7.92,8,8.08,7.83,8,86
+Arabica,Ethiopia,sidamo,,2010,7.75,7.92,10,10,10,8,8,8.25,8,8.08,86
+Arabica,Guatemala,nuevo oriente,"unex guatemala, s.a.",2016,7.92,8,10,10,10,7.83,8.08,8.08,7.92,8.08,85.92
+Arabica,Uganda,eastern,kawacom uganda ltd,2013,8.17,8,10,10,10,7.75,7.83,8.08,7.92,8.17,85.92
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,8,7.92,10,10,10,8,7.83,8.17,8,8,85.92
+Arabica,Panama,boquete,ce specialty s.a.,2017,8,8,10,10,10,8,7.83,8.08,7.92,8,85.83
+Arabica,Ethiopia,oromia,ibrahim hussien specality coffee product & exporter,2014,7.83,8,10,10,10,7.92,8,8.08,7.92,8.08,85.83
+Arabica,Guatemala,acatenango,sertrasa,2012,7.83,8,10,10,10,8,7.83,8.17,8,8,85.83
+Arabica,Guatemala,nuevo oriente,unicafe,2012,8,8,10,10,10,7.83,7.83,8.33,7.83,8,85.83
+Arabica,Ethiopia,addis ababa,seid damtew coffee planation,2017,7.83,8,10,10,10,8,7.92,8.17,7.83,8,85.75
+Arabica,Peru,cajamarca,sustainable harvest,2013,8,8,10,10,10,7.75,7.92,8.08,8,8,85.75
+Arabica,Papua New Guinea,eastern highlands province,cqi,2012,8.33,7.92,10,9.33,9.33,8.25,8,8.33,7.83,8.42,85.75
+Arabica,El Salvador,apaneca,atlantic specialty coffee,2013,7.92,8,10,10,10,7.83,7.75,7.92,8,8.17,85.58
+Arabica,El Salvador,"ataco, apaneca - ilamatepec mountain range",lusso coffee lab,2012,7.83,7.92,10,10,10,8.17,7.92,7.75,8,8,85.58
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.83,8,10,10,10,8,8.08,7.75,7.92,8,85.58
+Arabica,Panama,boquete,essence coffee,2014,8,7.83,10,10,10,8.58,7.67,7.83,7.83,7.75,85.5
+Arabica,Kenya,kirinyaga,essence coffee,2014,7.92,8,10,10,10,7.92,7.83,8.08,7.83,7.92,85.5
+Arabica,Ethiopia,oromia,assefa belay coffee producer,2015,7.83,8,10,10,10,8.08,7.83,7.92,7.83,8,85.5
+Arabica,Uganda,bulambuli eastern region,kyagalanyi coffee ltd,2013,8.33,8.08,10,10,10,7.92,7.67,7.92,7.67,7.92,85.5
+Arabica,Guatemala,huehuetenango,exportcafe,2013,8,7.83,10,10,10,8,7.83,8.33,7.67,7.83,85.5
+Arabica,Ethiopia,oromia,assefa belay coffee producer,2015,7.75,8.08,10,10,10,7.83,7.92,8.17,7.83,7.83,85.42
+Arabica,Uganda,kapchorwa,great lakes coffee,2013,8.08,8,10,10,10,7.83,8,7.67,7.83,8,85.42
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.92,8.25,10,10,10,7.92,7.75,7.92,7.75,7.92,85.42
+Arabica,Brazil,south of minas,nucoffee,2011,8,8,10,10,10,8,7.75,7.67,8,8,85.42
+Arabica,El Salvador,apaneca,,2010,8.08,7.92,10,10,10,7.83,7.83,8.08,7.83,7.83,85.42
+Arabica,China,yunnan,yunnan coffee exchange,2015,8,7.92,10,10,10,7.75,7.83,7.83,8,8,85.33
+Arabica,Guatemala,huehuetenango,essence coffee,2014,7.83,7.83,10,10,10,8.58,7.83,7.67,7.83,7.75,85.33
+Arabica,Costa Rica,west valley,the coffee source inc.,2014,7.92,8,9.33,10,10,8.08,8,7.92,8,8.08,85.33
+Arabica,Costa Rica,san ramon,the coffee source inc.,2014,8,7.92,10,10,10,8.5,8.08,7.67,7.58,7.58,85.33
+Arabica,Kenya,central kenya,rashid moledina & co. (msa) ltd,2012,7.83,7.92,10,10,10,7.75,7.92,8.08,7.75,8.08,85.33
+Arabica,Kenya,central kenya,ibero kenya limited,2012,8,7.83,10,10,10,7.75,7.83,8.08,7.92,7.92,85.33
+Arabica,Ethiopia,yirgacheffe,,2010,7.83,8.08,10,10,10,7.83,7.75,8.08,7.92,7.83,85.33
+Arabica,Ethiopia,yirgacheffe,,2010,7.92,8,10,10,10,7.75,7.75,8.33,7.75,7.83,85.33
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2016,8,7.83,10,10,10,7.83,7.92,8,7.75,7.92,85.25
+Arabica,Colombia,santander,exportadora de cafe condor s.a,2015,8.17,7.92,10,10,10,7.83,7.58,8,7.83,7.92,85.25
+Arabica,Colombia,santander,ecom cca sa,2014,7.58,7.92,10,10,10,7.92,8,7.83,7.92,8.08,85.25
+Arabica,Indonesia,lintong,"nomura trading co., ltd.",2012,7.75,8,10,10,10,7.83,8.08,8,7.67,7.83,85.17
+Arabica,Guatemala,huehuetenango,the coffee source inc.,2012,8.25,7.92,10,10,10,7.67,7.75,7.92,7.67,8,85.17
+Arabica,Ethiopia,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.",seid damtew coffee planation,2016,7.75,7.83,10,10,10,7.92,8,8,7.58,8,85.08
+Arabica,Colombia,pasto,carcafe ltda,2015,8.17,7.67,10,10,10,7.75,8,8.08,7.58,7.83,85.08
+Arabica,Ethiopia,aricha,the specialty coffee appraisers institute of asia,2014,8.42,8.08,10,10,9.33,7.92,7.92,8,7.42,8,85.08
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.58,7.92,10,10,10,8.17,7.83,7.92,7.83,7.83,85.08
+Arabica,Colombia,cundinamarca,carcafe ltda,2012,7.83,8.08,10,10,10,7.83,7.83,7.75,7.75,8,85.08
+Arabica,United States (Hawaii),kona,,2011,8.08,8.17,10,9.33,9.33,8,8.08,8,7.92,8.17,85.08
+Arabica,Ethiopia,sidamo,,2010,7.67,7.83,10,10,10,7.83,7.92,8,7.83,8,85.08
+Arabica,Uganda,eastern uganda,kyagalanyi coffee ltd,2016,8.17,8,10,10,10,7.75,7.67,7.75,7.75,7.92,85
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,8,7.83,10,10,10,7.83,7.75,7.92,7.75,7.92,85
+Arabica,Costa Rica,tarrazu,bold coast coffee,2016,7.83,7.92,10,10,10,7.83,7.92,7.92,7.58,8,85
+Arabica,Mexico,veracruz,"cafetal el equimite, rancho agroecológico, s.p.r. de r.l.",2015,7.83,8.08,10,10,10,7.83,7.67,7.75,7.83,8,85
+Arabica,Kenya,,c dorman ltd,2015,8.17,7.83,10,10,10,7.83,7.67,7.75,7.92,7.83,85
+Arabica,Kenya,central kenya,rashid moledina & co. (msa) ltd,2012,7.75,7.83,10,10,10,7.75,8,8.08,7.75,7.83,85
+Arabica,Brazil,grama valley,nucoffee,2012,8,8,10,10,10,7.67,7.67,7.83,7.83,8,85
+Arabica,Mexico,mexico,,2011,7.92,7.83,10,10,10,7.83,7.42,8.08,7.75,8.17,85
+Arabica,Guatemala,"chuva, san marcos",,2010,7.83,8,10,10,10,7.67,7.75,8,7.67,8.08,85
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,7.92,7.83,10,10,10,7.83,7.92,7.83,7.67,7.92,84.92
+Arabica,Colombia,huila,racafe & cia s.c.a,2015,7.92,7.83,10,10,10,8,7.75,7.83,7.75,7.83,84.92
+Arabica,Taiwan,natou county,taiwan coffee laboratory,2015,7.67,7.92,10,10,10,7.92,8,7.58,8,7.83,84.92
+Arabica,Tanzania,mbeya,taylor winch (t) ltd,2014,8,7.83,10,10,10,7.75,7.75,7.92,7.83,7.83,84.92
+Arabica,Colombia,huila,racafe & cia s.c.a,2012,7.75,7.92,10,10,10,8,7.75,7.75,7.83,7.92,84.92
+Arabica,Mexico,coatepec,,2012,7.75,8.17,10,10,10,7.92,7.5,7.83,7.75,8,84.92
+Arabica,Brazil,south of minas,nucoffee,2011,8,7.75,10,10,10,7.75,8,7.75,7.75,7.92,84.92
+Arabica,Brazil,south of minas,nucoffee,2011,8,7.92,10,10,10,7.75,7.5,8,7.75,8,84.92
+Arabica,Kenya,,,2010,8,7.58,10,10,10,7.75,7.92,8.17,7.83,7.67,84.92
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",taiwan coffee laboratory,2016,7.92,8,10,10,10,7.83,7.83,7.83,7.83,7.58,84.83
+Arabica,Uganda,eastern,kawacom uganda ltd,2013,7.75,7.83,10,10,10,7.75,8.25,7.67,7.67,7.92,84.83
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.67,8.08,10,10,10,8,7.83,7.75,7.75,7.75,84.83
+Arabica,Ethiopia,sidamo,,2010,7.75,8,10,10,10,7.67,7.75,7.92,7.83,7.92,84.83
+Arabica,Ethiopia,sidamo,,2010,7.42,7.92,10,10,10,7.83,7.83,8,7.92,7.92,84.83
+Arabica,Thailand,thailand,matsuzawa coffee,2015,7.75,8,10,10,10,7.75,8,7.75,7.75,7.75,84.75
+Arabica,Kenya,nyeri,c dorman ltd,2014,7.92,7.92,10,10,10,7.83,7.75,7.92,7.58,7.83,84.75
+Arabica,Honduras,marcala,cadexsa,2014,7.83,8.17,10,10,10,7.67,7.67,7.67,8,7.75,84.75
+Arabica,El Salvador,santa ana,,2011,7.75,7.75,9.33,10,10,7.92,7.67,8.33,8,8,84.75
+Arabica,Nicaragua,jinotega,,2010,7.83,8.5,10,10,10,7.67,7.75,7.83,7.58,7.58,84.75
+Arabica,El Salvador,apaneca,cafetalera del pacifico,2016,7.83,8,10,10,10,7.67,7.83,8,7.5,7.83,84.67
+Arabica,Indonesia,"temanggung, indonesia",pt. shriya artha nusantara,2016,7.92,7.92,10,10,10,7.75,7.75,7.75,7.75,7.83,84.67
+Arabica,Costa Rica,tarrazu,panamerican coffee trading,2015,8.08,7.92,10,10,10,7.92,7.5,7.83,7.67,7.75,84.67
+Arabica,Guatemala,acatenango,"waelti schoenfeld exportadores de cafe, s.a.",2015,7.75,7.83,10,10,10,7.75,7.92,8,7.58,7.83,84.67
+Arabica,Costa Rica,tarrazu,coopetarrazú.r.l,2014,8.17,7.92,10,10,10,7.75,7.83,7.17,7.83,8,84.67
+Arabica,Ethiopia,yirgacheffe,essence coffee,2014,8.08,7.92,10,10,10,7.67,7.58,7.83,7.75,7.83,84.67
+Arabica,Costa Rica,costa rica,essence coffee,2014,7.67,7.67,10,10,10,8.58,7.67,7.75,7.75,7.58,84.67
+Arabica,Costa Rica,west valley,coricafe s.a.,2014,8,8,10,10,10,7.75,7.75,7.75,7.83,7.58,84.67
+Arabica,Costa Rica,,thrive farmers,2012,8.08,7.92,9.33,10,10,8,7.92,7.83,7.75,7.83,84.67
+Arabica,Taiwan,taichung xinshe 台中市新社區,blossom valley宸嶧國際,2013,8,7.75,10,10,10,7.75,7.75,7.75,7.75,7.92,84.67
+Arabica,Colombia,santander,ecom cca sa,2013,7.75,7.92,10,10,10,7.83,7.75,7.83,7.75,7.83,84.67
+Arabica,Kenya,nyeri,dream together inc.,2012,7.75,7.83,10,10,10,7.75,7.58,8,7.83,7.92,84.67
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,8,7.67,10,10,10,8,7.67,7.83,7.67,7.83,84.67
+Arabica,Guatemala,acatenango,sertrasa,2012,7.67,8,10,10,10,7.83,7.67,8,7.67,7.83,84.67
+Arabica,Mexico,el remudadero,organizaciones de productores de cafe colimense sa de cv,2012,7.83,7.92,10,10,10,7.83,7.92,7.92,7.67,7.58,84.67
+Arabica,Uganda,mbale,ugacof ltd,2012,7.92,7.83,10,10,10,7.75,7.67,7.92,7.75,7.83,84.67
+Arabica,Ethiopia,sidamo,,2010,7.42,7.83,10,10,10,7.92,8,8,7.75,7.75,84.67
+Arabica,Colombia,santander,racafe & cia s.c.a,2016,7.83,8.08,10,10,10,7.83,7.67,7.92,7.58,7.67,84.58
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,7.92,7.75,10,10,10,7.67,7.83,8,7.58,7.83,84.58
+Arabica,Kenya,nyeri,c dorman ltd,2013,7.83,7.92,10,10,10,7.83,7.58,7.75,7.83,7.83,84.58
+Arabica,Guatemala,jalapa,"armajaro guatemala, s. a.",2014,7.75,7.83,10,10,10,7.83,7.75,7.92,7.67,7.83,84.58
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2014,8,8.17,10,10,10,7.67,7.58,7.58,7.67,7.92,84.58
+Arabica,Colombia,santander,ecom cca sa,2013,7.67,7.83,10,10,10,8.5,7.58,7.75,7.58,7.67,84.58
+Arabica,Colombia,huila,racafe & cia s.c.a,2013,7.75,7.92,10,10,10,8,7.58,7.75,7.83,7.75,84.58
+Arabica,Kenya,,taylor winch (coffee) ltd,2013,7.75,7.75,10,10,10,7.75,7.75,8.08,7.75,7.75,84.58
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.67,7.75,10,10,10,7.92,7.58,8,7.83,7.83,84.58
+Arabica,Costa Rica,tres rios,lusso coffee lab,2012,7.75,7.75,10,10,10,7.67,7.83,8,7.75,7.83,84.58
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.42,8.08,10,10,10,7.83,8.08,7.75,7.75,7.67,84.58
+Arabica,Brazil,vale da grama,nucoffee,2011,8,7.75,10,10,10,7.75,7.58,7.75,7.75,8,84.58
+Arabica,Brazil,mountains of minas gerais,nucoffee,2011,8.5,7.5,10,10,10,7.83,7.5,7.75,7.5,8,84.58
+Arabica,Costa Rica,valle central,beneficios volcafé costa rica,2017,7.92,8,10,10,10,7.58,7.67,7.75,7.92,7.67,84.5
+Arabica,Uganda,eastern uganda,kawacom uganda ltd,2016,7.92,7.83,10,10,10,7.75,7.83,7.75,7.67,7.75,84.5
+Arabica,China,yunnan,yunnan coffee exchange,2015,7.75,7.92,10,10,10,7.67,7.75,7.83,7.67,7.92,84.5
+Arabica,Costa Rica,tarrazu,coopetarrazú.r.l,2014,7.92,7.92,10,10,10,7.58,7.58,7.83,7.83,7.83,84.5
+Arabica,Colombia,cauca,federacion nacional de cafeteros,2016,8.08,7.75,10,10,10,7.67,7.67,7.83,7.83,7.67,84.5
+Arabica,China,yunnan,"puer jiangcheng fuwang coffee biotechnology co., ltd",2013,7.67,7.92,10,10,10,7.58,7.75,7.83,7.75,8,84.5
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,8.17,7.5,10,10,10,7.83,7.67,7.83,7.67,7.83,84.5
+Arabica,Kenya,nyeri,dream together co. ltd,2012,7.92,7.67,10,10,10,7.75,7.67,8,7.67,7.83,84.5
+Arabica,Mexico,hustusco,,2012,8,7.92,10,10,10,7.67,7.5,8.08,7.42,7.92,84.5
+Arabica,Mexico,jaltenango,ecomtrading,2012,7.92,7.67,10,10,10,7.83,7.75,7.75,7.75,7.83,84.5
+Arabica,Guatemala,"el tumbador, san marcos","transcafe, s.a",2012,7.67,7.83,10,10,10,7.83,7.5,8,7.67,8,84.5
+Arabica,Costa Rica,tarrazu,beneficios volcafé costa rica,2016,7.58,7.92,10,10,10,7.58,7.67,8,7.83,7.83,84.42
+Arabica,Indonesia,sumatra brastagi,pt. olam indonesia,2017,7.67,8,10,10,10,7.83,7.83,7.58,7.83,7.67,84.42
+Arabica,Colombia,pitalito,carcafe ltda,2016,7.92,7.67,10,10,10,7.67,7.92,7.67,7.75,7.83,84.42
+Arabica,Colombia,huila,racafe & cia s.c.a,2014,7.92,7.75,10,10,10,7.75,7.67,7.92,7.67,7.75,84.42
+Arabica,Taiwan,"mountain ali, taiwan",tropica galliard,2012,7.83,7.75,10,10,10,7.75,7.5,8,7.75,7.83,84.42
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.92,7.83,10,10,10,7.92,7.5,7.83,7.5,7.92,84.42
+Arabica,Mexico,tapachula,finca hamburgo,2012,7.75,7.83,10,10,10,7.67,7.83,7.67,7.75,7.92,84.42
+Arabica,Ethiopia,limu,,2010,7.5,7.75,10,10,10,7.75,7.92,7.92,7.83,7.75,84.42
+Arabica,Kenya,nyeri,c dorman ltd,2017,7.33,8.17,10,10,10,7.92,7.75,7.75,7.83,7.58,84.33
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2016,7.92,7.58,10,10,10,7.75,7.67,7.67,7.75,8,84.33
+Arabica,Colombia,huila,skn caribecafe ltda,2016,7.58,7.5,10,10,10,8.5,7.67,7.83,7.5,7.75,84.33
+Arabica,Honduras,central region,cigrah s.a de c.v,2016,7.58,7.83,10,10,10,7.75,7.92,7.75,7.58,7.92,84.33
+Arabica,Colombia,la plata,racafe & cia s.c.a,2016,7.67,7.83,10,10,10,7.83,7.75,7.83,7.75,7.67,84.33
+Arabica,Colombia,huila,carcafe ltda,2015,7.75,7.33,10,10,10,7.83,8.08,7.67,8,7.67,84.33
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.75,8.17,10,10,10,8.08,7.58,7.83,7.33,7.58,84.33
+Arabica,Mexico,tuxtla gutierrez,,2012,8,7.83,10,10,10,7.67,7.5,7.83,7.75,7.75,84.33
+Arabica,Brazil,vale da grama,,2011,8.17,7.75,10,10,10,7.67,7.5,7.75,7.5,8,84.33
+Arabica,Brazil,south of minas,,2011,8,7.92,10,10,10,7.75,7.67,7.5,7.5,8,84.33
+Arabica,Guatemala,nuevo oriente,,2010,7.5,7.92,10,10,10,7.92,7.92,7.67,7.75,7.67,84.33
+Arabica,Taiwan,國姓鄉 guoshing township,taiwan coffee laboratory,2016,7.92,7.67,10,10,10,7.83,7.67,7.67,7.75,7.75,84.25
+Arabica,Thailand,chiang rai thailand,matsuzawa coffee,2015,7.83,8,10,10,10,7.67,7.83,7.42,7.75,7.75,84.25
+Arabica,Colombia,nariño,carcafe ltda,2016,7.83,7.83,10,10,10,8,7.67,7.58,7.75,7.58,84.25
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2016,7.75,7.75,10,10,10,7.75,7.75,7.92,7.58,7.75,84.25
+Arabica,Guatemala,huehuetenango,exportcafe,2015,7.75,7.75,10,10,10,7.67,7.58,8.08,7.5,7.92,84.25
+Arabica,China,yunnan,yunnan coffee exchange,2015,7.83,7.75,10,10,10,7.75,7.75,7.75,7.58,7.83,84.25
+Arabica,Colombia,huila,racafe & cia s.c.a,2015,7.67,7.83,10,10,10,7.92,7.67,7.75,7.75,7.67,84.25
+Arabica,Colombia,huila,racafe & cia s.c.a,2015,7.83,7.75,10,10,10,7.75,7.92,7.58,7.75,7.67,84.25
+Arabica,Colombia,cauca,federacion nacional de cafeteros,2016,7.83,7.83,10,10,10,7.75,7.67,7.58,7.83,7.75,84.25
+Arabica,Colombia,huila,carcafe ltda,2015,7.42,7.83,10,10,10,7.83,7.92,7.75,7.83,7.67,84.25
+Arabica,Tanzania,shizingo village,tembo coffee company ltd,2014,7.83,7.83,10,10,10,7.67,7.67,7.83,7.75,7.67,84.25
+Arabica,Tanzania,mbeya,taylor winch (t) ltd,2014,7.83,7.75,10,10,10,7.75,7.67,7.75,7.75,7.75,84.25
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2014,7.83,7.83,10,10,10,7.75,7.58,7.92,7.5,7.83,84.25
+Arabica,Colombia,cauca,exportadora de cafe condor s.a,2013,7.58,7.83,10,10,10,7.83,7.92,7.83,7.75,7.5,84.25
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.33,7.83,9.33,10,10,8.08,7.92,7.92,7.92,7.92,84.25
+Arabica,Mexico,san pedro cotzilnam,carajillo café sa de cv,2012,7.83,7.75,10,10,10,7.75,7.5,7.83,7.67,7.92,84.25
+Arabica,Mexico,veracruz,,2012,7.83,7.75,10,10,10,7.58,7.83,7.67,7.75,7.83,84.25
+Arabica,Mexico,"la concordia, chiapas",ecomtrading,2012,7.83,7.83,10,10,10,7.75,7.5,7.75,7.67,7.92,84.25
+Arabica,Uganda,kasese,bukonzo joint cfs,2012,8.17,7.67,10,10,10,7.58,7.83,7.67,7.58,7.75,84.25
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2017,7.75,7.75,10,10,10,7.75,7.67,7.83,7.58,7.83,84.17
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,7.83,7.75,10,10,10,7.83,7.75,7.67,7.58,7.75,84.17
+Arabica,Costa Rica,tarrazu,exclusive coffee - costa rica,2016,7.92,8,10,10,10,7.67,7.5,7.67,7.67,7.75,84.17
+Arabica,Guatemala,huehuetenango,exportcafe,2016,7.75,7.58,10,10,10,7.83,7.67,8,7.58,7.75,84.17
+Arabica,Guatemala,solola,cafcom,2016,7.75,7.67,10,10,10,7.67,7.67,7.92,7.58,7.92,84.17
+Arabica,Guatemala,norte,"unex guatemala, s.a.",2016,7.58,7.83,10,10,10,7.67,7.83,7.83,7.58,7.83,84.17
+Arabica,Colombia,huila,racafe & cia s.c.a,2015,8,7.67,10,10,10,7.83,8,7.67,7.5,7.5,84.17
+Arabica,Nicaragua,jinotega,cooperativa el gorrion r.l,2015,7.67,7.83,10,10,10,7.83,7.67,7.5,7.83,7.83,84.17
+Arabica,Brazil,cerrado,cafebras comercio de cafés do brasil sa,2015,7.67,7.75,10,10,10,7.75,7.83,7.67,7.75,7.75,84.17
+Arabica,Costa Rica,tarrazu,"ceca,s.a.",2014,7.67,7.83,10,10,10,8,7.5,7.75,7.67,7.75,84.17
+Arabica,Ethiopia,snnprg; kafa; telo woreda; shada kebele,asefa dukamo coffee plantetion,2014,7.5,7.75,10,10,10,7.83,7.75,7.83,7.58,7.92,84.17
+Arabica,Tanzania,arusha,selian coffee estate,2014,7.92,7.67,10,10,10,7.58,7.75,7.75,7.75,7.75,84.17
+Arabica,Colombia,huila,olam international ltd,2015,7.67,7.5,10,10,10,8.58,7.83,7.42,7.67,7.5,84.17
+Arabica,Guatemala,,volcafe specialty coffee,2013,7.67,7.83,10,10,10,7.75,7.75,7.75,7.67,7.75,84.17
+Arabica,Kenya,kenya,taylor winch (coffee) ltd,2013,7.58,7.75,10,10,10,7.83,7.75,7.75,7.75,7.75,84.17
+Arabica,Brazil,"minas gerais, br",café do paraíso,2012,7.58,7.67,10,10,10,8,7.67,7.67,7.75,7.83,84.17
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.92,7.42,10,10,10,7.92,7.83,7.67,7.67,7.75,84.17
+Arabica,El Salvador,apaneca,atlantic specialty coffee,2013,8.42,7.92,10,10,9.33,8.17,7.58,7.17,7.5,8.08,84.17
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.75,7.58,10,10,10,7.75,7.83,7.75,7.75,7.75,84.17
+Arabica,Guatemala,guatemala,unicafe,2012,7.83,7.67,10,10,10,7.83,7.83,8,7.5,7.5,84.17
+Arabica,Uganda,mt. rwenzori,great lakes coffee,2012,7.83,7.67,10,10,10,7.75,7.83,7.83,7.5,7.75,84.17
+Arabica,Indonesia,aceh tengah,pt. royal pacific indah international,2017,7.81,7.75,10,10,10,7.75,7.63,7.75,7.56,7.88,84.13
+Arabica,Colombia,huila,carcafe ltda,2017,7.83,7.5,10,10,10,8.5,7.83,7.5,7.42,7.5,84.08
+Arabica,Taiwan,"nanxi dist., tainan city 臺南市楠西區",taiwan coffee laboratory,2016,7.58,7.92,10,10,10,7.83,7.75,7.67,7.67,7.67,84.08
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2016,8,7.67,10,10,10,7.67,7.92,7.58,7.5,7.75,84.08
+Arabica,Colombia,huila,racafe & cia s.c.a,2014,7.92,7.67,10,10,10,7.67,7.67,7.75,7.67,7.75,84.08
+Arabica,Guatemala,"aldea xeucalvitz, ixil region, quiche department",lusso coffee lab,2014,7.58,7.67,10,10,10,7.67,7.75,8,7.67,7.75,84.08
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.83,8,10,10,9.33,8.08,7.42,7.83,7.83,7.75,84.08
+Arabica,Mexico,santo domingo cacalotepec,,2012,7.67,7.83,10,10,10,7.75,7.67,7.75,7.67,7.75,84.08
+Arabica,Ethiopia,"ethiopia, sidamo",the specialty coffee appraisers institute of asia,2012,7.92,7.92,8.67,10,10,7.92,7.92,8,7.83,7.92,84.08
+Arabica,Costa Rica,,thrive farmers,2017,7.58,7.67,10,10,10,7.75,7.83,7.75,7.67,7.75,84
+Arabica,Ethiopia,sidamo,kyagalanyi coffee ltd,2017,7.83,7.92,10,10,10,7.75,7.33,7.75,7.67,7.75,84
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2017,7.42,7.75,10,10,10,7.58,7.75,7.92,7.75,7.83,84
+Arabica,Guatemala,huehuetenango,exportcafe,2015,7.67,7.58,10,10,10,7.67,7.75,7.92,7.58,7.83,84
+Arabica,Colombia,huila,olam international ltd,2015,7.67,7.83,10,10,10,7.83,7.58,7.58,7.83,7.67,84
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2014,7.92,7.5,10,10,10,7.83,7.75,7.92,7.42,7.67,84
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2014,7.75,7.83,10,10,10,7.67,7.58,7.83,7.5,7.83,84
+Arabica,Colombia,huila,olam international ltd,2014,7.67,7.83,10,10,10,7.75,7.67,7.67,7.67,7.75,84
+Arabica,Colombia,santander,ecom cca sa,2014,7.58,7.67,10,10,10,7.92,7.75,7.92,7.75,7.42,84
+Arabica,Colombia,huila,racafe & cia s.c.a,2014,7.67,8.33,10,10,10,7.67,7.67,7.5,7.5,7.67,84
+Arabica,Ethiopia,sidamo,lusso coffee lab,2013,7.75,7.83,10,10,10,7.92,7.67,7.58,7.5,7.75,84
+Arabica,Brazil,south of minas,ipanema coffees,2013,7.58,7.92,10,10,10,7.75,8,7.25,7.67,7.83,84
+Arabica,Colombia,cauca,exportadora de cafe condor s.a,2013,7.67,7.67,10,10,10,7.75,7.67,7.75,7.67,7.83,84
+Arabica,Kenya,blend,ibero kenya limited,2012,7.67,7.67,10,10,10,7.67,7.92,7.75,7.5,7.83,84
+Arabica,Thailand,thailand,mae fah luang foundation,2012,7.92,8.42,9.33,8.67,8.67,8.17,8.08,8.42,8.17,8.17,84
+Arabica,Kenya,central kenya,taylor winch (coffee) ltd,2012,7.67,7.67,10,10,10,7.67,7.83,7.75,7.67,7.75,84
+Arabica,Uganda,kasese,bukonzo joint cfs,2012,7.92,7.58,10,10,10,7.83,7.67,7.67,7.58,7.75,84
+Arabica,Thailand,,,2011,7.58,8,10,10,10,7.75,7.58,7.75,7.58,7.75,84
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.5,8.5,10,10,10,7.5,7.58,7.5,7.58,7.75,83.92
+Arabica,Mexico,veracruz,cafes tomari sa de cv,2017,7.83,7.83,10,10,10,7.5,7.42,7.92,7.58,7.83,83.92
+Arabica,Thailand,chiangrai,intercof 1978 group company limited,2015,7.67,7.83,10,10,10,7.83,7.67,7.67,7.5,7.75,83.92
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.58,7.83,10,10,10,7.83,7.58,7.75,7.67,7.67,83.92
+Arabica,Taiwan,"leye, alishan township, chiayi county 嘉義阿里山樂野村",taiwan coffee laboratory,2015,7.83,7.83,10,10,9.33,7.75,7.83,7.75,7.83,7.75,83.92
+Arabica,Colombia,huila,carcafe ltda,2016,7.75,7.67,10,10,10,7.75,7.83,7.75,7.5,7.67,83.92
+Arabica,Colombia,la plata,racafe & cia s.c.a,2016,7.75,7.58,10,10,10,7.92,7.75,7.83,7.5,7.58,83.92
+Arabica,Taiwan,台灣,宸嶧國際,2014,7.75,7.67,10,10,10,7.67,7.75,7.75,7.58,7.75,83.92
+Arabica,Colombia,huila,federacion nacional de cafeteros,2015,7.92,7.75,10,10,10,7.67,7.58,7.83,7.5,7.67,83.92
+Arabica,Colombia,huila,federacion nacional de cafeteros,2014,7.83,7.67,10,10,10,7.75,7.75,7.58,7.58,7.75,83.92
+Arabica,Colombia,huila,racafe & cia s.c.a,2014,7.75,7.58,10,10,10,7.67,7.83,7.83,7.67,7.58,83.92
+Arabica,Taiwan,台中和平區,宸嶧國際,2014,8,7.17,10,10,10,7.33,7.67,7.92,7.92,7.92,83.92
+Arabica,Colombia,santander,ecom cca sa,2014,7.67,7.5,10,10,10,7.83,7.67,7.75,7.67,7.83,83.92
+Arabica,Mexico,xicotepec de juarez,agro xicotepec 2000,2012,7.67,7.67,10,10,10,7.83,7.75,7.67,7.58,7.75,83.92
+Arabica,Mexico,la concordia,ecomtrading,2012,7.5,7.83,10,10,10,7.75,7.75,7.83,7.58,7.67,83.92
+Arabica,Mexico,la yerbabuena,organizaciones de productores de cafe colimense sa de cv,2012,7.75,7.75,10,10,9.33,7.67,7.75,7.92,7.83,7.92,83.92
+Arabica,Colombia,nariño,carcafe ltda,2017,7.92,7.75,10,10,10,7.67,7.58,7.83,7.5,7.58,83.83
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,7.83,7.58,10,10,10,7.75,7.75,7.75,7.5,7.67,83.83
+Arabica,Costa Rica,tarrazu,"ceca,s.a.",2015,7.67,7.83,10,10,10,7.75,7.5,7.67,7.75,7.67,83.83
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2016,7.75,7.67,10,10,10,7.58,7.83,7.75,7.5,7.75,83.83
+Arabica,Taiwan,台灣,宸嶧國際,2016,7.75,7.75,10,10,10,7.67,7.75,7.75,7.5,7.67,83.83
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.25,8,10,10,10,7.83,7.75,8,7.42,7.58,83.83
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",taiwan coffee laboratory,2014,7.67,7.83,10,10,10,7.75,7.42,7.75,7.67,7.75,83.83
+Arabica,Ethiopia,oromia,yasmin coffee plantation plc,2014,7.75,7.75,10,10,10,7.67,7.58,7.67,7.67,7.75,83.83
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.67,8.08,9.33,10,10,8.17,7.83,7.5,7.58,7.67,83.83
+Arabica,Costa Rica,central valley,coricafe s.a.,2013,7.83,7.67,10,10,10,7.83,7.75,7.83,7.5,7.42,83.83
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2014,7.58,7.75,10,10,10,7.75,7.58,8,7.33,7.83,83.83
+Arabica,Brazil,south of minas,ipanema coffees,2013,7.92,7.75,10,10,10,7.5,8.17,7.67,7.33,7.5,83.83
+Arabica,Ecuador,"province of manabi, ecuador",sultana del cafe inc.,2013,7.5,7.67,10,10,10,7.83,7.83,7.75,7.58,7.67,83.83
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.67,7.92,10,10,10,7.67,7.58,7.83,7.58,7.58,83.83
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.5,7.67,10,10,10,7.67,7.83,7.83,7.5,7.83,83.83
+Arabica,Mexico,petatlan,,2012,7.67,7.92,10,10,10,7.5,7.67,7.42,7.67,8,83.83
+Arabica,Mexico,"la concordia, chiapas",ecomtrading,2012,7.67,7.83,10,10,10,7.75,7.75,7.75,7.5,7.58,83.83
+Arabica,Brazil,carmo de minas,exportadora de cafés carmo de minas ltda,2012,7.83,7.83,10,10,10,7.58,7.5,7.67,7.58,7.83,83.83
+Arabica,Thailand,"doi chaang village, chiang rai, thialand",,2011,7.75,7.5,10,10,10,7.58,7.67,8,7.58,7.75,83.83
+Arabica,Thailand,,,2011,7.5,7.75,10,10,10,7.83,7.75,7.58,7.58,7.83,83.83
+Arabica,Ethiopia,sidamo,,2010,7.58,7.5,10,10,10,7.5,7.83,8,7.58,7.83,83.83
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.67,7.75,10,10,10,7.67,7.67,7.75,7.58,7.67,83.75
+Arabica,Colombia,huila,carcafe ltda,2017,7.83,7.75,10,10,10,7.58,7.58,7.58,7.58,7.83,83.75
+Arabica,Taiwan,"台南市東山區 (dongshan dist., tainan city)",taiwan coffee laboratory,2016,7.67,7.75,10,10,10,7.83,7.67,7.58,7.58,7.67,83.75
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,7.92,7.67,10,10,10,7.5,7.75,7.67,7.5,7.75,83.75
+Arabica,China,yunnan,yunnan coffee exchange,2015,7.83,7.75,10,10,10,7.67,7.58,7.5,7.67,7.75,83.75
+Arabica,Colombia,huila,carcafe ltda,2016,7.75,7.75,10,10,10,7.83,7.58,7.67,7.5,7.67,83.75
+Arabica,Uganda,west nile,nile highlands arabica coffee farmers,2013,8,7.67,10,10,10,7.5,7.33,7.75,7.58,7.92,83.75
+Arabica,United States (Puerto Rico),yauco region,"hacienda alto grande, llc.",2013,7.83,7.75,10,9.33,9.33,8.17,8,7.67,7.83,7.83,83.75
+Arabica,Colombia,huila,racafe & cia s.c.a,2014,7.67,7.67,10,10,10,7.67,7.5,7.92,7.67,7.67,83.75
+Arabica,Colombia,huila,olam international ltd,2014,7.67,7.5,10,10,10,8.33,8,7.42,7.42,7.42,83.75
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.58,7.75,10,10,10,7.67,7.67,7.67,7.75,7.67,83.75
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.75,7.58,10,10,10,8,7.42,7.58,7.75,7.67,83.75
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.25,7.75,10,10,10,8.25,7.83,7.58,7.67,7.42,83.75
+Arabica,Mexico,"huazalingo, hidalgo",,2012,7.83,7.83,10,10,10,7.67,7.75,7.5,7.58,7.58,83.75
+Arabica,Guatemala,quetzaltenango,the coffee source inc.,2012,7.67,7.75,10,10,10,7.75,7.75,7.67,7.58,7.58,83.75
+Arabica,Colombia,cauca,,2011,7.83,8.08,10,10,10,7.67,7.42,7.33,7.58,7.83,83.75
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.67,7.83,10,10,10,7.5,7.67,7.67,7.5,7.83,83.67
+Arabica,Kenya,meru county,taylor winch (coffee) ltd,2017,8.08,7.75,10,10,10,7.67,7.25,7.58,7.67,7.67,83.67
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2016,7.5,7.33,10,10,10,8,8,7.67,7.67,7.5,83.67
+Arabica,Nicaragua,jinotega,"comercial internacional exportadora, s.a.",2016,7.67,7.5,10,10,10,7.58,7.83,7.67,7.67,7.75,83.67
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.58,7.83,10,10,10,7.58,7.58,7.75,7.58,7.75,83.67
+Arabica,Taiwan,"leye, alishan township, chiayi county",taiwan coffee laboratory,2015,7.5,7.75,10,10,10,7.67,7.83,7.92,7.33,7.67,83.67
+Arabica,Thailand,thailand,doi tung development project,2014,7.5,7.75,10,10,10,7.58,7.67,7.83,7.58,7.75,83.67
+Arabica,Colombia,huila,olam specialty coffee,2015,7.5,7.83,10,10,10,7.67,7.67,7.75,7.5,7.75,83.67
+Arabica,Guatemala,huehuetenango,exportcafe,2014,8,7.5,10,10,9.33,8,8,8,7.33,7.5,83.67
+Arabica,Colombia,huila supremo,exportadora de cafe condor s.a,2013,7.83,7.58,10,10,10,7.67,7.58,7.58,7.67,7.75,83.67
+Arabica,Colombia,huila,racafe & cia s.c.a,2013,7.67,7.92,10,10,10,7.75,7.33,7.67,7.67,7.67,83.67
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.67,7.5,10,10,10,7.75,8,7.67,7.42,7.67,83.67
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.83,7.67,10,10,10,7.83,7.67,7.67,7.33,7.67,83.67
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.75,7.83,10,10,10,7.75,7.17,7.83,7.58,7.75,83.67
+Arabica,Guatemala,oriente,the coffee source inc.,2012,8.17,8,9.33,9.33,9.33,7.75,8.08,7.67,7.83,8.17,83.67
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.67,7.5,10,10,10,7.83,7.58,7.42,7.5,8.17,83.67
+Arabica,Mexico,xicotepec de juarez,,2012,7.67,7.58,10,10,10,8.25,7.83,7.33,7.5,7.5,83.67
+Arabica,Indonesia,east java,scai,2012,8.17,7.58,10,10,10,7.67,7.42,7.58,7.58,7.67,83.67
+Arabica,Guatemala,"sacatepequez, guatemala","siembras vision, s.a.",2012,7.67,7.83,10,10,10,7.67,7.67,8,7.33,7.5,83.67
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.58,7.92,10,10,10,7.58,7.67,7.58,7.58,7.67,83.58
+Arabica,Guatemala,huehuetenango,exportcafe,2016,7.75,7.58,10,10,10,7.58,7.58,7.83,7.5,7.75,83.58
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,7.75,7.67,10,10,10,7.58,7.67,7.58,7.58,7.75,83.58
+Arabica,China,yunnan,yunnan coffee exchange,2015,7.67,7.75,10,10,10,7.75,7.67,7.58,7.58,7.58,83.58
+Arabica,Colombia,huila,racafe & cia s.c.a,2015,7.67,7.58,10,10,10,7.58,7.75,7.67,7.58,7.75,83.58
+Arabica,Mexico,"chiapas, jaltenango",exportadora café california,2014,7.75,7.75,10,10,10,7.67,7.5,7.58,7.58,7.75,83.58
+Arabica,Ethiopia,yirgacheffe,essence coffee,2014,7.75,7.75,10,10,10,7.67,7.5,7.67,7.58,7.67,83.58
+Arabica,Uganda,eastern,bulamburi coffee farmers association,2013,7.67,7.67,10,10,10,7.67,7.75,7.75,7.42,7.67,83.58
+Arabica,Colombia,cundinamarca,ecom cca sa,2014,7.67,7.67,10,10,10,7.67,7.67,7.67,7.67,7.58,83.58
+Arabica,Colombia,santander,ecom cca sa,2014,7.67,7.67,10,10,10,7.75,7.67,7.58,7.67,7.58,83.58
+Arabica,Colombia,santander,ecom cca sa,2014,7.75,7.58,10,10,10,7.83,7.75,7.58,7.5,7.58,83.58
+Arabica,Taiwan,taichung xinshe 台中市新社區,blossom valley宸嶧國際,2013,7.75,7.5,10,10,10,7.58,7.5,7.75,7.75,7.75,83.58
+Arabica,Colombia,huila,c.i.racafe & cia s.c.a,2012,7.67,7.67,10,10,10,7.58,7.75,7.67,7.58,7.67,83.58
+Arabica,Mexico,xalapa,ecomtrading,2012,7.83,7.67,10,10,10,7.58,7.67,7.58,7.58,7.67,83.58
+Arabica,Colombia,cundinamarca,carcafe ltda,2012,7.67,7.75,10,10,10,7.75,7.67,7.58,7.58,7.58,83.58
+Arabica,Brazil,south of minas,nucoffee,2012,7.83,7.67,10,10,10,7.58,7.5,7.75,7.5,7.75,83.58
+Arabica,Colombia,cundinamarca,carcafe ltda,2016,7.75,7.58,10,10,10,7.5,7.75,7.75,7.58,7.58,83.5
+Arabica,Taiwan,,宸嶧國際,2017,7.58,10,10,10,10,7,7,7.17,7.17,7.58,83.5
+Arabica,Costa Rica,tarrazu,"ceca,s.a.",2015,7.92,7.83,10,10,10,7.67,7.5,7.67,7.5,7.42,83.5
+Arabica,Colombia,pitalito,carcafe ltda,2016,7.75,7.58,10,10,10,7.75,7.75,7.5,7.58,7.58,83.5
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2016,7.67,7.58,10,10,10,7.58,7.58,7.83,7.5,7.75,83.5
+Arabica,Colombia,huila,racafe & cia s.c.a,2015,7.58,7.75,10,10,10,7.67,7.75,7.58,7.58,7.58,83.5
+Arabica,Tanzania,nkure- meru,tawoca,2015,7.75,7.58,10,10,10,7.58,7.67,7.67,7.58,7.67,83.5
+Arabica,Indonesia,bener meriah,pt. olam indonesia,2015,7.25,7.67,10,10,10,7.58,7.83,7.92,7.58,7.67,83.5
+Arabica,Ethiopia,oromia,debesa agro industry plc,2014,7.67,7.58,10,10,10,7.67,7.75,7.58,7.5,7.75,83.5
+Arabica,Colombia,huila,federacion nacional de cafeteros,2014,7.67,7.67,10,10,10,7.67,7.58,7.83,7.67,7.42,83.5
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2014,8,7.58,10,10,10,7.58,7.92,7.58,7.25,7.58,83.5
+Arabica,Guatemala,atitlan,the coffee source inc.,2013,7.58,7.75,10,10,10,7.67,7.42,7.83,7.5,7.75,83.5
+Arabica,Colombia,cundinamarca,ecom cca sa,2014,7.75,7.67,10,10,10,7.83,7.83,7.5,7.33,7.58,83.5
+Arabica,Honduras,comayagua,cigrah,2015,7.67,7.83,10,10,10,7.67,7.67,7.5,7.67,7.5,83.5
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.58,7.67,10,10,10,7.67,7.75,7.67,7.42,7.75,83.5
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.58,7.58,10,10,10,7.75,7.58,7.75,7.58,7.67,83.5
+Arabica,Mexico,xalapa,finca los barreales,2012,7.83,8.42,10,10,10,7.42,7.5,7.5,7.25,7.58,83.5
+Arabica,Mexico,chilón,estrategias constructivas corzu s.a. de c.v.,2012,7.67,7.58,10,10,10,7.5,7.58,7.75,7.67,7.75,83.5
+Arabica,Mexico,totutla,,2012,7.75,7.83,10,10,10,7.5,7.33,7.75,7.67,7.67,83.5
+Arabica,Guatemala,atitlan,kanematsu corporation / rnp santo tomas pachuj,2012,7.83,7.5,10,10,10,7.5,7.67,8,7.5,7.5,83.5
+Arabica,Colombia,huila,c.i.racafe & cia s.c.a,2012,7.67,7.67,10,10,10,7.67,7.67,7.67,7.58,7.58,83.5
+Arabica,Guatemala,oriente,coffee resources inc.,2012,7.5,7.58,10,10,10,7.67,8,7.5,7.75,7.5,83.5
+Arabica,Indonesia,bondowoso,,2010,7.83,7.58,10,10,10,7.58,7.75,7.58,7.58,7.58,83.5
+Arabica,Colombia,huila,carcafe ltda,2017,7.5,7.67,10,10,10,7.83,7.75,7.5,7.58,7.58,83.42
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2017,7.67,7.67,10,10,10,7.67,7.58,7.58,7.5,7.75,83.42
+Arabica,Colombia,huila,carcafe ltda,2016,7.67,7.67,10,10,10,7.58,7.67,7.67,7.5,7.67,83.42
+Arabica,Costa Rica,tarrazu,"ceca,s.a.",2016,7.58,7.83,10,10,10,7.67,7.5,7.92,7.42,7.5,83.42
+Arabica,Taiwan,,宸嶧國際,2015,7.67,10,10,10,10,7,7,7.08,7,7.67,83.42
+Arabica,Uganda,eastern,bugisu cooperative union,2015,7.58,7.75,10,10,10,7.58,7.67,7.75,7.33,7.75,83.42
+Arabica,Thailand,thailand,matsuzawa coffee,2015,7.5,7.67,10,10,10,7.67,7.75,7.5,7.75,7.58,83.42
+Arabica,El Salvador,apaneca,consejo salvadoreño del café,2016,7.58,7.58,10,10,10,7.67,7.75,7.58,7.75,7.5,83.42
+Arabica,Colombia,huila,carcafe ltda,2015,7.58,7.67,10,10,10,7.67,7.58,7.67,7.58,7.67,83.42
+Arabica,Brazil,vale da grama,bourbon specialty coffees,2014,7.33,7.75,10,10,10,7.83,7.42,7.5,7.75,7.83,83.42
+Arabica,Tanzania,karatu northern,ngila estate ltd,2014,7.75,7.58,10,10,10,7.58,7.58,7.67,7.58,7.67,83.42
+Arabica,Colombia,huila,ecom cca sa,2015,7.58,7.58,10,10,9.33,8.58,7.75,7.75,7.25,7.58,83.42
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.75,7.5,10,10,10,7.67,7.5,7.83,7.33,7.83,83.42
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2014,7.67,7.58,10,10,10,7.5,7.58,7.83,7.5,7.75,83.42
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.67,7.58,10,10,10,7.75,7.75,7.42,7.75,7.5,83.42
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.42,7.67,10,10,10,7.67,7.67,7.58,7.67,7.75,83.42
+Arabica,Colombia,cundinamarca,exportadora de cafe condor s.a,2012,7.5,7.67,10,10,10,7.75,7.67,7.5,7.58,7.75,83.42
+Arabica,United States (Hawaii),kona,,2010,7.5,7.5,10,10,10,7.58,7.83,7.67,7.42,7.92,83.42
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2016,7.75,7.58,10,10,10,7.58,7.58,7.58,7.75,7.5,83.33
+Arabica,Colombia,guayata,racafe & cia s.c.a,2016,7.67,7.67,10,10,10,7.75,7.67,7.42,7.58,7.58,83.33
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,7.83,7.67,10,10,10,7.58,7.5,7.58,7.58,7.58,83.33
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.5,7.58,10,10,10,7.92,7.58,7.58,7.33,7.83,83.33
+Arabica,Mexico,chiapas,exportadora café california,2014,7.75,7.58,10,10,10,7.58,7.5,7.67,7.5,7.75,83.33
+Arabica,Colombia,santander,exportadora de cafe condor s.a,2015,7.67,7.42,10,10,10,7.42,7.83,7.83,7.42,7.75,83.33
+Arabica,Tanzania,arusha,mondul coffee estate,2014,7.75,7.58,10,10,10,7.58,7.58,7.58,7.67,7.58,83.33
+Arabica,Mexico,veracruz,"café andrade, s.a. de c.v.",2013,7.67,7.67,10,10,10,7.58,7.5,7.67,7.58,7.67,83.33
+Arabica,Costa Rica,san ramon,the coffee source inc.,2014,7.67,7.58,10,10,10,7.67,7.67,7.67,7.42,7.67,83.33
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.83,7.83,9.33,10,9.33,8,7.92,7.67,7.83,7.58,83.33
+Arabica,Costa Rica,central valley,coricafe s.a.,2013,7.5,8,10,10,10,7.17,7.83,7.5,7.67,7.67,83.33
+Arabica,Peru,,sustainable harvest,2013,7.83,7.5,10,10,9.33,7.58,7.92,7.83,7.58,7.75,83.33
+Arabica,Haiti,"thiotte, haiti",itiah coffee llc.,2012,7.58,7.83,10,10,10,7.42,7.83,7.5,7.67,7.5,83.33
+Arabica,Colombia,pitalito,carcafe ltda,2013,7.67,7.5,10,10,10,7.42,7.92,7.67,7.5,7.67,83.33
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.83,7.67,10,10,10,7.67,7.67,7.67,7.17,7.67,83.33
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.92,7.83,10,10,9.33,7.67,7.67,7.83,7.58,7.5,83.33
+Arabica,Burundi,kayanza,the specialty coffee appraisers institute of asia,2012,7.75,7.83,10,10,10,7.75,7.5,7.5,7.33,7.67,83.33
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.5,7.67,10,10,10,7.58,7.67,7.58,7.67,7.67,83.33
+Arabica,Mexico,sierra madre occidental,cafe de don balbino s.c. de r.l. de c.v.,2017,7.67,7.67,10,10,10,7.5,7.33,7.83,7.42,7.83,83.25
+Arabica,Costa Rica,tarrazu,bold coast coffee,2016,7.5,7.58,10,10,10,7.67,7.67,7.5,7.83,7.5,83.25
+Arabica,Costa Rica,tarrazu,panamerican coffee trading,2015,7.83,7.67,10,10,10,7.67,7.5,7.67,7.42,7.5,83.25
+Arabica,Guatemala,nuevo oriente,mercon guatemala s.a.,2016,7.5,7.67,10,10,10,7.58,7.67,7.83,7.42,7.58,83.25
+Arabica,Uganda,"sipi, mt elgon",kawacom uganda ltd,2015,7.5,7.67,10,10,10,7.67,7.67,7.42,7.67,7.67,83.25
+Arabica,Brazil,campos altos - cerrado,bourbon specialty coffees,2016,7.58,8,10,10,10,7.42,7.67,7.5,7.42,7.67,83.25
+Arabica,Colombia,huila,carcafe ltda,2016,7.58,7.58,10,10,10,7.83,7.75,7.17,7.67,7.67,83.25
+Arabica,Mexico,cuarenteño,productos y servicios chilindron s.a. de c.v.,2015,7.83,7.42,10,10,10,7.58,7.58,7.58,7.5,7.75,83.25
+Arabica,Taiwan,natou county,taiwan coffee laboratory,2015,7.67,7.58,10,10,10,7.83,7.67,7.5,7.5,7.5,83.25
+Arabica,Taiwan,南投國姓,宸嶧國際,2014,7.92,7.33,10,10,10,7.33,7.5,7.58,7.75,7.83,83.25
+Arabica,Colombia,eje cafetero,ecom cca sa,2014,7.58,7.67,10,10,10,7.75,7.58,7.58,7.5,7.58,83.25
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2014,7.5,7.67,10,10,10,7.5,7.67,7.67,7.58,7.67,83.25
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.83,7.58,10,10,10,7.67,7.67,7.33,7.67,7.5,83.25
+Arabica,Mexico,chiapas,"finca triunfo verde, s.c.",2013,7.58,7.75,10,10,10,7.58,7.58,7.5,7.5,7.75,83.25
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.58,7.67,9.33,10,9.33,7.67,8.08,8,7.83,7.75,83.25
+Arabica,Mexico,veracruz,finca teocelo,2012,7.75,7.67,10,10,10,7.58,7.5,7.58,7.58,7.58,83.25
+Arabica,Mexico,fortín de las flores,,2012,7.75,7.58,10,10,10,7.5,7.33,7.92,7.42,7.75,83.25
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.83,7.42,10,10,10,8.08,7.42,7.83,7.08,7.58,83.25
+Arabica,Brazil,grama valley,nucoffee,2012,7.75,7.58,10,10,10,7.58,7.58,7.58,7.5,7.67,83.25
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.67,7.58,10,10,10,7.58,7.83,7.42,7.58,7.58,83.25
+Arabica,Colombia,la plata,c.i.racafe & cia s.c.a,2012,7.67,7.67,10,10,10,7.67,7.58,7.5,7.5,7.67,83.25
+Arabica,Colombia,huila,,2011,7.92,7.5,10,10,10,7.58,7.83,7.42,7.25,7.75,83.25
+Arabica,Colombia,cauca,,2010,8,7.5,10,10,10,7.5,7.67,7.25,7.67,7.67,83.25
+Arabica,Colombia,cundinamarca,,2010,7.92,7.58,10,10,10,7.67,7.42,7.42,7.5,7.75,83.25
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.67,7.75,10,10,10,7.58,7.67,7.58,7.5,7.42,83.17
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2017,7.58,7.67,10,10,10,7.58,7.75,7.67,7.33,7.58,83.17
+Arabica,Tanzania,moshi,volcafe/taylorwinch tanzania ltd,2016,7.67,7.58,10,10,10,7.58,7.67,7.67,7.42,7.58,83.17
+Arabica,Peru,,prodlesur sa,2017,7.92,7.5,10,10,10,7.5,7.67,7.58,7.5,7.5,83.17
+Arabica,Vietnam,dala,"sunvirtue co., ltd.",2017,7.58,7.58,10,10,10,8.58,7.58,7.33,7.08,7.42,83.17
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2016,7.67,7.5,10,10,10,7.5,7.58,7.75,7.42,7.75,83.17
+Arabica,Honduras,marcala,cadexsa,2016,7.67,7.5,10,10,10,7.67,7.5,7.67,7.5,7.67,83.17
+Arabica,China,yunnan,yunnan coffee exchange,2015,7.5,7.67,10,10,10,7.67,7.67,7.67,7.33,7.67,83.17
+Arabica,China,dehong prefecture,yunnan coffee exchange,2015,7.67,7.67,10,10,10,7.58,7.42,7.67,7.5,7.67,83.17
+Arabica,El Salvador,apaneca,consejo salvadoreño del café,2016,7.5,7.5,10,10,10,7.67,8,7.67,7.33,7.5,83.17
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2015,7.5,7.5,10,10,10,7.5,7.58,7.83,7.5,7.75,83.17
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2015,7.92,7.42,10,10,10,7.5,7.5,7.75,7.42,7.67,83.17
+Arabica,Kenya,kenya,taylor winch (coffee) ltd,2014,7.83,7.83,9.33,9.33,9.33,8.5,7.83,7.75,7.67,7.75,83.17
+Arabica,Thailand,thailand,doi tung development project,2014,7.67,7.5,10,10,10,7.67,7.42,7.75,7.58,7.58,83.17
+Arabica,Tanzania,mbinga,tutunze kahawa ltd,2014,7.58,7.67,10,10,10,7.58,7.42,7.58,7.67,7.67,83.17
+Arabica,Colombia,huila,racafe & cia s.c.a,2014,7.58,7.75,10,10,10,7.67,7.5,7.67,7.5,7.5,83.17
+Arabica,Uganda,eastern,kabum trading company,2014,8,7.67,10,10,10,7.58,7.33,7.42,7.5,7.67,83.17
+Arabica,Colombia,,green mountain coffee,2014,7.58,7.58,10,10,10,7.58,7.58,7.58,7.5,7.75,83.17
+Arabica,Honduras,san marcos,"olam honduras, s.a.",2013,7.5,7.67,10,10,10,7.67,7.67,7.67,7.5,7.5,83.17
+Arabica,Honduras,comayagua,cigrah,2015,7.67,7.5,10,10,10,7.67,7.5,7.67,7.5,7.67,83.17
+Arabica,Guatemala,san marcos,"agricola nueva granada, s.a.",2014,7.33,7.67,10,10,10,7.67,7.33,8.17,7.17,7.83,83.17
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.5,7.58,10,10,10,7.67,7.92,7.42,7.58,7.5,83.17
+Arabica,Tanzania,kilimanjaro,taylor winch (t) ltd,2014,7.58,7.58,10,10,10,7.58,7.58,7.75,7.58,7.5,83.17
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.67,7.5,10,10,10,7.67,7.5,7.67,7.33,7.83,83.17
+Arabica,Mexico,chiapas,cesmach s.c.,2013,7.75,7.75,10,10,10,7.42,7.5,7.58,7.58,7.58,83.17
+Arabica,Mexico,"tlanchinol, hidalgo",,2012,7.75,7.67,10,10,10,7.58,7.42,7.5,7.58,7.67,83.17
+Arabica,Mexico,san bartolo tutotepec,,2012,7.58,7.67,10,10,10,7.58,7.5,7.67,7.42,7.75,83.17
+Arabica,Colombia,huila,c.i.racafe & cia s.c.a,2012,7.67,7.25,10,10,10,8.17,7.58,7.5,7.5,7.5,83.17
+Arabica,Mexico,san isidro,,2012,7.75,7.58,10,10,10,7.58,7.58,7.75,7.42,7.5,83.17
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.58,7.5,10,10,10,7.67,7.67,7.58,7.5,7.67,83.17
+Arabica,Mexico,la concordia,ecomtrading,2012,7.5,7.58,10,10,10,7.5,7.67,7.58,7.58,7.75,83.17
+Arabica,Brazil,south of minas,nucoffee,2012,7.75,7.5,10,10,10,7.58,7.58,7.5,7.58,7.67,83.17
+Arabica,Brazil,mogiana,nucoffee,2012,7.92,7.67,10,10,10,7.5,7.42,7.58,7.5,7.58,83.17
+Arabica,Guatemala,oriente,coffee resources inc.,2012,7.75,7.5,9.33,10,10,8,7.92,7.5,7.67,7.5,83.17
+Arabica,Brazil,south of minas,nucoffee,2011,7.75,7.58,10,10,10,7.5,7.75,7.5,7.58,7.5,83.17
+Arabica,Brazil,south of minas,,2011,7.58,7.42,10,10,10,7.58,7.67,7.5,7.67,7.75,83.17
+Arabica,El Salvador,santa ana,,2011,7.42,7.58,10,9.33,10,7.58,7.17,8.08,8.17,7.83,83.17
+Arabica,Colombia,cundinamarca,carcafe ltda,2016,7.58,7.5,10,10,10,7.58,7.75,7.67,7.33,7.67,83.08
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,7.75,7.17,10,10,10,7.75,8,7.42,7.5,7.5,83.08
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.58,7.58,10,10,10,7.58,7.67,7.5,7.58,7.58,83.08
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.33,7.92,10,10,10,7.42,7.75,7.33,7.67,7.67,83.08
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",taiwan coffee laboratory,2015,7.83,7.75,10,10,9.33,7.25,7.67,7.83,7.5,7.92,83.08
+Arabica,Brazil,chapadão de ferro (cerrado mineiro),bourbon specialty coffees,2015,7.42,7.5,10,10,10,7.67,7.75,7.5,7.58,7.67,83.08
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.58,7.67,10,10,10,7.5,7.42,7.42,7.67,7.83,83.08
+Arabica,Costa Rica,central valley,coricafe s.a.,2014,7.83,7.5,10,10,10,7.67,7.58,7.67,7.5,7.33,83.08
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.33,7.58,10,10,10,7.67,7.83,7.33,7.58,7.75,83.08
+Arabica,Taiwan,chiayi alishan 嘉義縣阿里山鄉,blossom valley宸嶧國際,2013,7.75,7.58,10,10,10,7.5,7.5,7.5,7.5,7.75,83.08
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.83,7.5,10,10,10,7.67,7.75,7.17,7.33,7.83,83.08
+Arabica,Mexico,santa catarina juquila,finca las nubes,2012,7.75,7.5,10,10,10,7.5,7.5,7.75,7.42,7.67,83.08
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.67,8.08,10,9.33,9.33,8,7.92,7.67,7.5,7.58,83.08
+Arabica,United States (Hawaii),kona,cqi,2012,7.33,7.42,10,10,10,7.58,7.67,7.92,7.58,7.58,83.08
+Arabica,Colombia,cauca,,2010,7.83,7.58,10,10,10,7.92,7.42,7.25,7.33,7.75,83.08
+Arabica,Indonesia,dolok sanggul,,2010,7.67,7.5,10,10,10,7.58,7.67,7.58,7.5,7.58,83.08
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.58,7.5,10,10,10,7.5,7.67,7.75,7.5,7.5,83
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.5,7.58,10,10,10,7.5,7.58,7.67,7.58,7.58,83
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.5,7.58,10,10,10,7.42,7.58,7.67,7.58,7.67,83
+Arabica,Uganda,"kasese, mt. rwenzori",ucfa,2015,7.67,7.58,10,10,10,7.5,7.83,7.42,7.42,7.58,83
+Arabica,Uganda,"kasese, mt. rwenzori",ucfa,2015,7.67,7.67,10,10,10,7.5,7.42,7.58,7.5,7.67,83
+Arabica,Colombia,huila,carcafe ltda,2016,7.67,7.58,10,10,10,7.58,7.5,7.67,7.33,7.67,83
+Arabica,Vietnam,vietnam cau dat,"sunvirtue co., ltd.",2014,7.75,8,10,10,9.33,7.67,7.42,7.58,7.58,7.67,83
+Arabica,Guatemala,nuevo oriente,mercon guatemala s.a.,2015,7.67,7.42,10,10,10,7.5,7.42,7.92,7.33,7.75,83
+Arabica,Guatemala,"el tumbador, san marcos","agricola nueva granada, s.a.",2015,7.75,7.58,10,10,10,7.42,7.5,7.75,7.33,7.67,83
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2015,7.83,7.33,10,10,10,7.5,7.75,7.67,7.25,7.67,83
+Arabica,Brazil,high mogiana,atlantica eportacao e importcao ltda,2014,7.67,7.58,10,10,10,7.5,7.42,7.5,7.67,7.67,83
+Arabica,Taiwan,嘉義阿里山,宸嶧國際,2014,7.92,7.17,10,10,10,7.25,7.33,7.58,7.83,7.92,83
+Arabica,Uganda,kapchorwa,star cafe ltd,2013,7.83,7.5,10,10,10,7.5,7.58,7.5,7.5,7.58,83
+Arabica,United States (Puerto Rico),yauco region,"hacienda alto grande, llc.",2013,7.67,7.42,9.33,10,10,7.83,7.75,7.83,7.67,7.5,83
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2014,7.67,7.42,10,10,10,7.5,7.5,7.83,7.42,7.67,83
+Arabica,Costa Rica,central valley,coricafe s.a.,2013,7.67,7.67,10,10,10,7.5,7.5,7.58,7.5,7.58,83
+Arabica,Brazil,sul de minas,exportadora de cafés carmo de minas ltda,2013,7.75,7.5,10,10,10,7.67,7.42,7.67,7.42,7.58,83
+Arabica,Colombia,huila,racafe & cia s.c.a,2013,7.75,8.25,10,10,10,7.17,7.58,7.5,7.33,7.42,83
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.83,7.58,10,10,10,7.67,7.5,7.33,7.58,7.5,83
+Arabica,Colombia,pitalito,carcafe ltda,2013,7.33,7.5,10,10,10,7.58,7.75,7.42,7.75,7.67,83
+Arabica,Colombia,pitalito,carcafe ltda,2013,7.58,7.58,10,10,10,7.42,7.58,7.67,7.42,7.75,83
+Arabica,Colombia,huila,c.i.racafe & cia s.c.a,2012,7.5,7.67,10,10,10,7.58,7.75,7.58,7.42,7.5,83
+Arabica,Mexico,coatepec,,2012,7.67,7.58,10,10,10,7.58,7.67,7.5,7.42,7.58,83
+Arabica,Mexico,atoyac de alvarez,finca la estancia,2012,7.67,7.83,10,10,9.33,7.67,7.58,7.58,7.5,7.83,83
+Arabica,Mexico,coatepec,ecomtrading,2012,7.5,7.67,10,10,10,7.58,7.58,7.5,7.5,7.67,83
+Arabica,Colombia,,exportadora de cafe condor s.a,2012,7.67,7.5,10,10,10,7.5,7.75,7.5,7.5,7.58,83
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.75,7.58,10,10,9.33,7.75,7.83,7.67,7.5,7.58,83
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.67,7.5,10,10,10,7.42,7.67,7.58,7.58,7.58,83
+Arabica,Guatemala,"la reforma, san marcos","nuevos mercados, s.a.",2012,7.5,7.33,10,10,10,7.83,7.5,7.67,7.5,7.67,83
+Arabica,Colombia,la plata,c.i.racafe & cia s.c.a,2011,7.67,7.5,10,10,10,7.42,7.67,7.5,7.58,7.67,83
+Arabica,Thailand,,,2011,7.33,7.5,10,10,10,7.67,7.75,7.5,7.58,7.67,83
+Arabica,Colombia,huila,,2011,7.5,7.42,10,10,10,7.58,7.58,7.67,7.67,7.58,83
+Arabica,Nicaragua,matagalpa,,2010,7.58,7.92,9.33,9.33,9.33,8.08,7.92,7.92,7.75,7.83,83
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.67,7.5,10,10,10,7.5,7.58,7.58,7.5,7.58,82.92
+Arabica,El Salvador,apaneca,soc. coop. cuzcachapa de r.l.,2017,7.5,7.5,9.33,10,10,7.83,7.92,7.58,7.75,7.5,82.92
+Arabica,Colombia,guayata,racafe & cia s.c.a,2017,7.58,7.58,10,10,10,7.58,7.67,7.33,7.5,7.67,82.92
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",taiwan coffee laboratory,2016,7.17,7.75,10,10,10,7.58,7.67,7.67,7.25,7.83,82.92
+Arabica,Ethiopia,"blida,kercha,guji,oromia",belayneh kindie,2016,7.58,7.58,10,10,10,7.58,7.58,7.5,7.5,7.58,82.92
+Arabica,Taiwan,台東太麻里,宸嶧國際,2014,7.5,7.58,10,10,10,7.75,7.5,7.33,7.67,7.58,82.92
+Arabica,Philippines,"bukidnon, mindanao, philppines",hineleban foundation,2015,7.58,7.5,10,10,10,7.5,7.5,7.58,7.67,7.58,82.92
+Arabica,Philippines,asia pacific,ephemera traders,2014,8.08,7.42,10,10,10,7.5,7.33,7.42,7.67,7.5,82.92
+Arabica,Mexico,cuarenteño,productos y servicios chilindron s.a. de c.v.,2015,7.83,7.58,10,10,10,7.5,7.5,7.58,7.25,7.67,82.92
+Arabica,Mexico,chiapas,"tony's coffee and teas, inc.",2015,7.75,7.42,10,10,10,7.5,7.75,7.42,7.42,7.67,82.92
+Arabica,Brazil,cerrado,expocaccer,2015,7.08,7.58,10,10,10,7.67,7.75,7.83,7.5,7.5,82.92
+Arabica,Uganda,eastern,kawacom uganda ltd,2013,8,7.58,10,10,10,7.42,7.33,7.58,7.5,7.5,82.92
+Arabica,Uganda,west nile,nyapea coffee farmers association,2013,7.75,7.5,10,10,10,7.5,7.5,7.5,7.58,7.58,82.92
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2014,7.75,7.5,10,10,10,7.5,7.67,7.58,7.42,7.5,82.92
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2014,7.67,7.67,10,10,10,7.5,7.33,7.5,7.42,7.83,82.92
+Arabica,Guatemala,,thrive farmers,2012,7.58,7.75,10,10,10,7.58,7.58,7.58,7.25,7.58,82.92
+Arabica,Colombia,huila,racafe & cia s.c.a,2013,7.58,7.58,10,10,10,7.58,7.58,7.33,7.75,7.5,82.92
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.75,7.67,10,10,10,7.5,7.75,7.5,7.25,7.5,82.92
+Arabica,Guatemala,huehuetenango,exportcafe,2013,7.83,7.5,10,10,10,7.17,7.5,7.92,7.25,7.75,82.92
+Arabica,Colombia,antioquia,olam international ltd,2013,7.83,7.5,10,10,10,7.58,7.5,7.42,7.42,7.67,82.92
+Arabica,Mexico,petatlan,,2012,7.58,7.83,10,10,10,7.75,7.58,7.25,7.33,7.58,82.92
+Arabica,Vietnam,don duong,royal base corporation,2012,7.67,7.67,10,10,10,7.42,8.08,7.58,7.17,7.33,82.92
+Arabica,Mexico,la cumbre,union de ejidos san fernando de ri,2012,8,7.75,10,10,9.33,7.42,7.67,7.17,7.67,7.92,82.92
+Arabica,United States (Hawaii),kona,cqi,2012,7.5,7.5,10,10,10,7.83,7.67,7.42,7.5,7.5,82.92
+Arabica,Colombia,cauca,,2011,7.5,7.67,10,10,10,7.83,7.08,7.75,7.33,7.75,82.92
+Arabica,Kenya,nyeri,keremara limited,2017,7.75,7.5,10,10,10,7.5,7.5,7.58,7.42,7.58,82.83
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2017,7.5,7.58,10,10,10,7.58,7.58,7.67,7.33,7.58,82.83
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.67,7.58,10,10,10,7.42,7.5,7.5,7.58,7.58,82.83
+Arabica,El Salvador,"el balsamo, quezaltepec",consejo salvadoreño del café,2016,7.33,7.33,10,10,10,7.67,7.33,7.83,7.67,7.67,82.83
+Arabica,Rwanda,gicumbi,bufcoffee ltd,2015,7.83,8,9.33,9.33,9.33,7.75,7.75,7.83,7.75,7.92,82.83
+Arabica,Vietnam,vietnam tutra,"sunvirtue co., ltd.",2014,7.25,7.92,10,10,10,7.42,7.75,7.42,7.5,7.58,82.83
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2015,7.58,7.5,10,10,10,7.5,7.67,7.67,7.33,7.58,82.83
+Arabica,Brazil,cerrado,cafebras comercio de cafés do brasil sa,2015,7.58,7.67,10,10,10,7.33,7.42,7.67,7.33,7.83,82.83
+Arabica,Colombia,huila,essence coffee,2014,7.83,7.08,10,10,10,7.67,7.5,7.58,7.5,7.67,82.83
+Arabica,United States,berastagi,olam specialty coffee,2014,7.42,7.58,10,10,10,7.75,7.75,7.5,7.25,7.58,82.83
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2014,7.67,7.5,10,10,10,7.17,7.42,7.67,7.75,7.67,82.83
+Arabica,Colombia,santander,"coffeebythebag.com , inc.",2013,7.5,7.67,10,10,10,7.58,7.58,7.5,7.58,7.42,82.83
+Arabica,Colombia,huila,racafe & cia s.c.a,2013,7.83,7.58,10,10,10,7.5,7.5,7.42,7.5,7.5,82.83
+Arabica,Tanzania,arusha,tcb,2012,7.67,7.75,10,10,10,7.75,7.58,7.25,7.33,7.5,82.83
+Arabica,Mexico,la concordia,beneficio custepec s.a. de c.v.,2012,7.58,7.5,10,10,10,7.5,7.5,7.58,7.5,7.67,82.83
+Arabica,Mexico,veracruz,ecomtrading,2012,7.67,7.58,10,10,10,7.42,7.42,7.75,7.42,7.58,82.83
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.67,7.42,10,10,10,7.92,7.33,7.5,7.33,7.67,82.83
+Arabica,Mexico,la concordia,ecomtrading,2012,7.58,7.5,10,10,10,7.58,7.67,7.42,7.5,7.58,82.83
+Arabica,El Salvador,santa ana,,2011,7.75,7.25,10,10,10,7.5,7.25,7.75,7.75,7.58,82.83
+Arabica,Guatemala,santa rosa,mercon guatemala s.a.,2017,7.58,7.5,10,10,10,7.42,7.5,7.58,7.5,7.67,82.75
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2017,7.5,7.5,10,10,10,7.58,7.67,7.67,7.17,7.67,82.75
+Arabica,Guatemala,santa rosa,"unex guatemala, s.a.",2017,7.5,7.58,10,10,10,7.5,7.67,7.58,7.42,7.5,82.75
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2017,7.42,7.67,10,10,10,7.5,7.5,7.67,7.42,7.58,82.75
+Arabica,Indonesia,sapan toraja,pt. shriya artha nusantara,2017,7.5,7.58,10,10,10,7.5,7.58,7.58,7.42,7.58,82.75
+Arabica,Guatemala,el progreso,"unex guatemala, s.a.",2017,7.58,7.67,10,10,10,7.67,7.33,7.58,7.33,7.58,82.75
+Arabica,Taiwan,"台南市東山區( dongshan dist., tainan city)",taiwan coffee laboratory,2016,7.83,7.67,10,10,9.33,7.67,7.58,7.67,7.33,7.67,82.75
+Arabica,El Salvador,cacahuatique,soc. coop. de caf. de ciudad barrios de r.l.,2017,7.67,7.67,10,10,10,7.67,7.58,7.33,7.17,7.67,82.75
+Arabica,Costa Rica,tarrazu,"ceca,s.a.",2016,7.58,7.67,10,10,10,7.5,7.42,7.67,7.42,7.5,82.75
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2017,7.58,7.67,10,10,10,7.5,7.5,7.58,7.42,7.5,82.75
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.5,7.5,10,10,10,7.58,7.58,7.5,7.58,7.5,82.75
+Arabica,China,yunnan,yunnan coffee exchange,2015,7.67,7.58,10,10,10,7.67,7.67,7.33,7.33,7.5,82.75
+Arabica,China,menglian,yunnan coffee exchange,2015,7.5,7.5,10,10,10,7.5,7.5,7.67,7.42,7.67,82.75
+Arabica,Colombia,huila,racafe & cia s.c.a,2014,7.5,7.5,10,10,10,7.5,7.33,7.75,7.58,7.58,82.75
+Arabica,Malawi,mzuzu,mzuzu coffee planters coop union,2014,7.75,7.67,10,10,10,7.5,7.33,7.5,7.42,7.58,82.75
+Arabica,Guatemala,jalapa,"armajaro guatemala, s. a.",2014,7.75,7.42,10,10,10,7.67,7.5,7.75,7.25,7.42,82.75
+Arabica,Colombia,huila,coffee export,2014,7.67,7.67,10,10,10,7.67,7.33,7.58,7.42,7.42,82.75
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.67,7.42,10,10,10,7.5,7.33,7.83,7.42,7.58,82.75
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.58,7.75,10,9.33,9.33,8,7.42,7.75,7.75,7.83,82.75
+Arabica,Colombia,antioquia,the coffee source inc.,2013,7.58,7.5,10,10,10,8.58,7.25,7.33,7.17,7.33,82.75
+Arabica,Mexico,chiapas,cesmach s.c.,2013,7.58,7.58,10,10,10,7.5,7.5,7.5,7.5,7.58,82.75
+Arabica,Mexico,veracruz,,2012,7.58,7.67,10,10,10,7.58,7.25,7.75,7.33,7.58,82.75
+Arabica,Mexico,atoyac de alvarez,cafe shunuc,2012,8.08,8.08,10,10,6.67,7.92,7.83,8,8,8.17,82.75
+Arabica,Colombia,south huila,ecom cca s.a.,2012,7.5,7.5,10,10,10,7.58,7.5,7.67,7.42,7.58,82.75
+Arabica,Colombia,huila,c.i.racafe & cia s.c.a,2012,7.67,7.42,10,10,10,7.42,7.5,7.58,7.58,7.58,82.75
+Arabica,United States (Hawaii),kona,cqi,2012,7.25,7.75,10,10,9.33,7.67,7.67,7.83,7.5,7.75,82.75
+Arabica,Panama,boquete,hacienda la esmeralda,2012,7.42,7.58,10,10,10,7.75,7.5,7.58,7.5,7.42,82.75
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.5,7.5,10,10,10,7.5,7.58,7.75,7.25,7.58,82.67
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.5,7.5,10,10,10,7.42,7.5,7.67,7.5,7.58,82.67
+Arabica,Laos,"paksong,laos",宸嶧國際,2015,7.67,7.58,10,10,10,7.5,7.42,7.42,7.42,7.67,82.67
+Arabica,El Salvador,"el balsamo, quezaltepec",consejo salvadoreño del café,2016,7.67,7.5,9.33,10,10,7.67,7.5,7.67,7.67,7.67,82.67
+Arabica,Mexico,veracruz,finca kassandra,2016,7.5,7.75,10,10,10,7.17,7.42,7.75,7.42,7.67,82.67
+Arabica,Colombia,huila,federacion nacional de cafeteros,2015,7.75,7.42,10,10,10,7.75,7.33,7.58,7.33,7.5,82.67
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.58,7.5,10,10,10,7.5,7.5,7.67,7.42,7.5,82.67
+Arabica,Brazil,monte carmelo,bourbon specialty coffees,2014,7.33,7.5,10,10,10,7.5,7.67,7.58,7.58,7.5,82.67
+Arabica,Tanzania,karatu arusha,nitin coffee estate,2014,7.5,7.58,10,10,10,7.58,7.5,7.5,7.5,7.5,82.67
+Arabica,Tanzania,mbinga,taylor winch (t) ltd,2014,7.58,7.58,10,10,10,7.58,7.33,7.58,7.5,7.5,82.67
+Arabica,Taiwan,嘉義阿里山,宸嶧國際,2014,8,7.08,10,10,10,7.25,7.25,7.42,7.83,7.83,82.67
+Arabica,Mexico,la yerba,productos y servicios chilindron s.a. de c.v.,2014,7.67,7.58,10,10,10,7.5,7.42,7.5,7.42,7.58,82.67
+Arabica,Uganda,mt elgon,afca,2013,7.67,7.5,10,10,10,7.5,7.5,7.67,7.33,7.5,82.67
+Arabica,Taiwan,chiayi alishan 嘉義縣阿里山鄉,blossom valley宸嶧國際,2013,7.67,7.5,10,10,10,7.5,7.5,7.5,7.5,7.5,82.67
+Arabica,Thailand,phahi,"coffeas co., ltd",2013,7.42,7.5,10,10,10,7.5,7.58,7.67,7.5,7.5,82.67
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.75,7.42,10,10,10,7.42,7.58,7.25,7.67,7.58,82.67
+Arabica,El Salvador,,atlantic specialty coffee,2012,7.92,7.67,9.33,10,10,7.58,7.92,6.75,7.5,8,82.67
+Arabica,Guatemala,antigua,finca medina,2012,7.67,7.5,10,10,10,7.5,7.5,7.67,7.17,7.67,82.67
+Arabica,Thailand,thailand,mae fah luang foundation,2012,7.83,7.58,9.33,10,10,7.83,7.58,7.33,7.83,7.33,82.67
+Arabica,Mexico,,cafe montegrande,2012,7.58,7.58,10,10,10,7.5,7.42,7.58,7.42,7.58,82.67
+Arabica,Mexico,mahuixtlan,grupo cafetalero los brujos,2012,7.5,7.58,10,10,10,7.42,7.42,7.58,7.58,7.58,82.67
+Arabica,Colombia,52 narino (exact location: mattituy; municipal region: florida code 381,,2011,7.33,7.58,10,10,10,7.67,7.67,7.42,7.42,7.58,82.67
+Arabica,Mexico,mexico,,2011,7.75,7.08,10,10,10,7.58,7.67,7.75,7.25,7.58,82.67
+Arabica,Colombia,,,2010,7.5,7.58,10,10,10,7.83,7.67,7.33,7.33,7.42,82.67
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2017,7.5,7.5,10,10,10,7.5,7.5,7.75,7.42,7.42,82.58
+Arabica,Taiwan,國姓鄉 guoshing township,taiwan coffee laboratory,2016,7.67,7.5,10,10,10,7.5,7.58,7.42,7.5,7.42,82.58
+Arabica,Brazil,south of minas,volcafe ltda.,2016,7.5,7.5,10,10,10,7.33,7.75,7.5,7.42,7.58,82.58
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,宸嶧國際,2017,7.25,10,10,10,10,7,7,7.08,7,7.25,82.58
+Arabica,Brazil,campos altos - cerrado,bourbon specialty coffees,2016,7.42,8,10,10,10,7.67,7.25,7.33,7.5,7.42,82.58
+Arabica,Indonesia,aceh,pt. sari makmur tunggal mandiri,2015,7.83,7.5,10,10,10,7.5,7.42,7.33,7.42,7.58,82.58
+Arabica,Thailand,thailand,doi tung development project,2014,7.75,7.5,10,10,10,7.5,7.42,7.67,7.42,7.33,82.58
+Arabica,Thailand,chiangrai,"coffeas co., ltd",2014,7.42,7.5,10,10,10,7.5,7.58,7.42,7.58,7.58,82.58
+Arabica,Tanzania,ikand village,tembo coffee company ltd,2014,7.75,7.5,10,10,10,7.5,7.58,7.5,7.33,7.42,82.58
+Arabica,Uganda,eastern,kawacom uganda ltd,2013,7.83,7.42,10,10,10,7.42,7.42,7.58,7.42,7.5,82.58
+Arabica,Costa Rica,central valley,coricafe s.a.,2013,7.67,7.58,10,10,10,7.75,7,7.67,7.5,7.42,82.58
+Arabica,Mexico,veracruz,sustainable harvest,2014,7.58,7.58,10,10,9.33,7.67,7.67,7.75,7.42,7.58,82.58
+Arabica,Guatemala,,s&d coffee and tea,2012,7.5,7.5,10,10,10,7.58,7.42,7.58,7.42,7.58,82.58
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.75,7.5,10,10,10,7.83,7.5,7.42,7.33,7.25,82.58
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.75,7.42,10,10,10,7.58,7.33,7.25,7.75,7.5,82.58
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.58,7.42,10,10,10,7.42,7.67,7.58,7.42,7.5,82.58
+Arabica,Mexico,oaxaca,,2012,7.5,7.58,10,10,10,7.5,7.42,7.5,7.5,7.58,82.58
+Arabica,Mexico,colima,organizaciones de productores de cafe colimense sa de cv,2012,7.67,7.5,10,10,10,6.83,7.67,7.75,7.58,7.58,82.58
+Arabica,Colombia,huila,c.i.racafe & cia s.c.a,2012,7.33,7.67,10,10,10,7.5,7.67,7.42,7.58,7.42,82.58
+Arabica,Brazil,south of minas,,2011,7.58,7.42,10,10,10,7.5,7.5,7.75,7.33,7.5,82.58
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.5,7.42,10,10,10,7.5,7.58,7.5,7.5,7.5,82.5
+Arabica,Indonesia,bali,pt. shriya artha nusantara,2017,7.83,7.42,10,10,10,7.33,7.42,7.5,7.25,7.75,82.5
+Arabica,Honduras,comayagua,cigrah,2017,7.58,7.5,10,10,10,7.5,7.5,7.5,7.33,7.58,82.5
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2016,7.5,7.5,10,10,10,7.5,7.67,7.5,7.33,7.5,82.5
+Arabica,Thailand,thailand,doi tung development project,2014,7.5,7.83,10,10,9.33,7.42,7.33,7.75,7.5,7.83,82.5
+Arabica,Thailand,chiangrai,"coffeas co., ltd",2014,7.33,7.5,10,10,10,7.5,7.67,7.5,7.5,7.5,82.5
+Arabica,Tanzania,karatu arusha,shah plantations,2014,7.67,7.5,10,10,10,7.5,7.5,7.58,7.33,7.42,82.5
+Arabica,Tanzania,moshi,amkeni gourmet coffee group,2014,7.75,7.58,10,10,10,7.58,7.58,7.58,7.42,7,82.5
+Arabica,Mexico,chiapas,lusso coffee lab,2013,7.42,7.58,10,10,10,7.5,7.25,7.67,7.5,7.58,82.5
+Arabica,Brazil,south of minas,ipanema coffees,2013,7.42,7.5,10,10,10,7.67,7.42,7.33,7.67,7.5,82.5
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.83,7.33,10,10,10,7.5,7.42,7.67,7.33,7.42,82.5
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.5,7.5,10,10,10,7.58,7.58,7.42,7.42,7.5,82.5
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.83,7.33,10,10,10,7.67,7.5,7.33,7.17,7.67,82.5
+Arabica,Mexico,san bartolo tutotepec,,2012,7.5,7.58,10,10,10,7.42,7.42,7.5,7.5,7.58,82.5
+Arabica,Mexico,zapotitlan de mendez,cafe de la sierra norte de puebla,2012,7.67,7.5,10,10,10,7.33,7.5,7.67,7.33,7.5,82.5
+Arabica,Mexico,la concordia,finca santa cruz,2012,7.92,7.5,10,10,10,7.42,7.25,7.58,7.33,7.5,82.5
+Arabica,Guatemala,oriente,"waelti schoenfeld exportadores de cafe, s.a.",2012,7.67,7.5,10,10,10,7.83,7.5,7.33,7.33,7.33,82.5
+Arabica,Brazil,carmo de minas,exportadora de cafés carmo de minas ltda,2012,7.67,7.42,10,10,10,7.5,7.5,7.67,7.33,7.42,82.5
+Arabica,Colombia,huila,c.i.racafe & cia s.c.a,2012,7.67,7.58,10,10,10,7.67,7.25,7.5,7.33,7.5,82.5
+Arabica,United States (Hawaii),kona,cqi,2012,7.33,7.58,10,10,10,7.67,7.42,7.75,7.33,7.42,82.5
+Arabica,Honduras,"comayagua, honduras",carrillo cooperativa,2017,7.42,7.5,10,10,10,7.5,7.58,7.58,7.17,7.67,82.42
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2017,7.58,7.42,10,10,10,7.5,7.33,7.75,7.33,7.5,82.42
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2016,7.67,7.5,10,10,10,7.33,7.42,7.67,7.25,7.58,82.42
+Arabica,Guatemala,el progreso,"unex guatemala, s.a.",2017,7.58,7.42,10,10,10,7.5,7.5,7.67,7.25,7.5,82.42
+Arabica,Guatemala,santa rosa,asociación nacional del café - anacafe -,2017,7.5,7.5,10,10,10,7.5,7.67,7.75,7.08,7.42,82.42
+Arabica,Colombia,guayata,racafe & cia s.c.a,2016,5.08,8.08,10,10,10,8.08,7.83,7.75,7.83,7.75,82.42
+Arabica,China,yunnan,yunnan coffee exchange,2015,7.67,7.58,10,10,10,7.42,7.42,7.5,7.42,7.42,82.42
+Arabica,Brazil,campos altos - cerrado,bourbon specialty coffees,2016,7.42,8,10,10,10,7.42,7.25,7.5,7.33,7.5,82.42
+Arabica,Tanzania,arusha meru,tawoca,2016,7.67,7.58,10,10,10,7.42,7.67,7.42,7.42,7.25,82.42
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.17,7.42,10,10,10,7.42,7.75,7.5,7.33,7.83,82.42
+Arabica,Guatemala,atitlan,the coffee source inc.,2013,7.5,7.33,10,10,10,7.5,7.42,7.67,7.5,7.5,82.42
+Arabica,Mexico,la yerba,productos y servicios chilindron s.a. de c.v.,2014,7.42,7.58,10,10,10,7.5,7.42,7.58,7.42,7.5,82.42
+Arabica,Brazil,south of minas,nucoffee,2012,7.58,7.42,10,10,10,7.42,7.5,7.5,7.33,7.67,82.42
+Arabica,Peru,peru,sustainable harvest,2013,7.58,7.5,10,10,9.33,7.58,7.5,7.75,7.58,7.58,82.42
+Arabica,Brazil,south of minas,ipanema coffees,2013,7.25,8.17,10,10,10,7.5,7.42,7.5,7.25,7.33,82.42
+Arabica,Mexico,veracruz,,2013,7.5,7.5,10,10,9.33,7.67,7.42,7.92,7.5,7.58,82.42
+Arabica,Honduras,,s&d coffee and tea,2012,7.25,7.67,10,10,10,7.5,7.75,7.17,7.42,7.67,82.42
+Arabica,Colombia,huila,racafe & cia s.c.a,2013,7.67,7.42,10,10,10,7.5,7.58,7.5,7.33,7.42,82.42
+Arabica,Mexico,chiapas,cesmach s.c.,2013,7.5,7.42,10,10,10,7.58,7.42,7.67,7.42,7.42,82.42
+Arabica,Mexico,san pedro cotzilnam,carajillo café sa de cv,2012,7.42,7.42,10,10,10,7.5,7.58,7.42,7.5,7.58,82.42
+Arabica,Mexico,coatepec,,2012,7.42,7.5,10,10,10,7.5,7.5,7.58,7.33,7.58,82.42
+Arabica,Mexico,xalapa,finca los barreales,2012,7.75,7.58,10,10,10,7.33,7.58,7.58,7.25,7.33,82.42
+Arabica,Mexico,zihuatanejo de azueta,,2012,7.5,7.5,10,10,10,7.5,7.5,7.5,7.33,7.58,82.42
+Arabica,Mexico,veracruz,,2012,7.58,7.58,10,10,10,7.5,7.5,7.5,7.17,7.58,82.42
+Arabica,Mexico,xicotepec de juarez,,2012,7.58,7.58,10,10,10,7.5,7.5,7.58,7.33,7.33,82.42
+Arabica,Mexico,progreso santa rosa teocelo,,2012,7.67,7.5,10,10,10,7.33,7.58,7.42,7.33,7.58,82.42
+Arabica,Mexico,fln mirador,finca las nieves,2012,7.83,7.5,10,10,10,7.33,7.17,7.67,7.42,7.5,82.42
+Arabica,Colombia,huila,carcafe ltda,2012,7.67,7.58,10,10,10,7.67,7.5,7.42,7.25,7.33,82.42
+Arabica,Brazil,south of minas,nucoffee,2012,7.75,7.42,10,10,10,7.42,7.5,7.42,7.42,7.5,82.42
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2011,7.33,7.75,10,10,10,7.58,7.42,7.58,7.17,7.58,82.42
+Arabica,Colombia,huila,,2011,7.58,7.5,10,10,10,7.83,7.58,7.25,7.42,7.25,82.42
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2017,7.5,7.58,10,10,10,7.42,7.42,7.5,7.33,7.58,82.33
+Arabica,Brazil,cerrado,olam,2016,7.33,7.67,10,10,10,7.5,7.5,7.33,7.5,7.5,82.33
+Arabica,Brazil,cerrado,volcafe ltda.,2017,7.42,7.5,10,10,10,7.58,7.5,7.5,7.42,7.42,82.33
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.5,7.5,10,10,10,7.5,7.42,7.5,7.42,7.5,82.33
+Arabica,Costa Rica,tarrazu,"ceca,s.a.",2015,7.75,7.5,10,10,10,7.67,7.42,7.25,7.25,7.5,82.33
+Arabica,Costa Rica,tarrazu,panamerican coffee trading,2015,7.75,7.33,10,10,10,7.58,7.33,7.5,7.5,7.33,82.33
+Arabica,China,xishuangbanna prefecture,yunnan coffee exchange,2015,7.5,7.5,10,10,10,7.42,7.42,7.5,7.42,7.58,82.33
+Arabica,Brazil,south of minas,ipanema coffees,2016,8.25,7.75,10,6.67,10,8.08,8.17,8.33,7.25,7.83,82.33
+Arabica,Brazil,chapadão de ferro (cerrado mineiro),bourbon specialty coffees,2015,7.42,7.42,10,10,10,7.58,7.5,7.42,7.5,7.5,82.33
+Arabica,Guatemala,huehuetenango,exportcafe,2015,7.5,7.42,10,10,10,7.5,7.5,7.83,7.17,7.42,82.33
+Arabica,Malawi,mzuzu,mzuzu coffee planters coop union,2014,7.33,7.58,10,10,10,7.5,7.33,7.58,7.42,7.58,82.33
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.75,8,6.67,10,10,8,8.08,8.08,7.67,8.08,82.33
+Arabica,Guatemala,jalapa,"armajaro guatemala, s. a.",2014,7.58,7.42,10,10,9.33,7.5,7.75,7.58,7.5,7.67,82.33
+Arabica,Mexico,veracruz,sustainable harvest,2014,7.33,7.5,10,10,10,7.5,7.5,7.5,7.42,7.58,82.33
+Arabica,Colombia,antioquia,the coffee source inc.,2013,7.42,7.5,10,10,10,8.33,7.08,7.17,7.5,7.33,82.33
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,blossom valley宸嶧國際,2013,7.5,7.33,10,10,10,7.5,7.5,7.5,7.5,7.5,82.33
+Arabica,Taiwan,taichung xinshe 台中市新社區,blossom valley宸嶧國際,2013,7.5,7.33,10,10,10,7.5,7.5,7.5,7.5,7.5,82.33
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.5,7.25,10,10,10,7.58,7.5,7.5,7.58,7.42,82.33
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.5,7.33,10,10,10,7.58,7.5,7.5,7.5,7.42,82.33
+Arabica,Mexico,"la concordia, chiapas",ecomtrading,2013,7.67,7.42,10,10,10,7.42,7.42,7.5,7.42,7.5,82.33
+Arabica,Costa Rica,central valley,"f. gaviña & sons, inc.",2012,7.92,7.67,10,9.33,9.33,7.58,7.92,7.75,7.25,7.58,82.33
+Arabica,Guatemala,jalapa,finca el morito,2012,7.67,7.33,10,10,10,7.33,7.5,7.67,7.33,7.5,82.33
+Arabica,Mexico,"jaltocan, hidalgo",,2012,7.58,7.58,10,10,10,7.58,7,7.33,7.58,7.67,82.33
+Arabica,Mexico,veracruz,finca los barreales,2012,7.67,7,10,10,10,7.5,7.5,7.58,7.5,7.58,82.33
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.5,7.5,10,10,10,7.5,7.33,7.5,7.33,7.67,82.33
+Arabica,Brazil,grama valley,nucoffee,2012,7.58,7.42,10,10,10,7.42,7.5,7.5,7.42,7.5,82.33
+Arabica,Mexico,santa catarina juquila,eczcafe fino s.a. de c.v.,2012,8,7.83,10,10,9.33,7.67,7.08,7.33,7.33,7.75,82.33
+Arabica,Brazil,south of minas,nucoffee,2012,7.58,7.42,10,10,10,7.5,7.42,7.58,7.25,7.58,82.33
+Arabica,Colombia,huila,carcafe ltda,2012,7.83,7.33,10,10,10,7.42,7.58,7.25,7.33,7.58,82.33
+Arabica,Taiwan,,宸嶧國際,2017,7,10,10,10,10,7,7,7.17,7,7.08,82.25
+Arabica,Guatemala,nuevo oriente,mercon guatemala s.a.,2016,7.67,7.33,10,10,10,7.42,7.42,7.67,7.25,7.5,82.25
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.42,7.67,10,10,10,7.42,7.5,7.08,7.5,7.67,82.25
+Arabica,El Salvador,apaneca,consejo salvadoreño del café,2014,7.58,7.58,9.33,9.33,9.33,8.42,7.83,7.67,7.5,7.67,82.25
+Arabica,Honduras,marcala,cadexsa,2015,7.58,7.33,10,10,10,7.42,7.42,7.58,7.42,7.5,82.25
+Arabica,Malawi,mzuzu,mzuzu coffee planters coop union,2014,7.58,7.42,10,10,10,7.5,7.58,7.42,7.33,7.42,82.25
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.75,7.42,10,10,10,7.33,7.33,7.42,7.42,7.58,82.25
+Arabica,Taiwan,nantou,blossom valley宸嶧國際,2013,7.5,7.25,10,10,10,7.5,7.5,7.5,7.5,7.5,82.25
+Arabica,Mexico,veracruz,,2013,7.58,7.42,10,10,10,7.42,7.42,7.42,7.42,7.58,82.25
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.33,7.42,10,10,10,7.42,7.5,7.67,7.5,7.42,82.25
+Arabica,Mexico,"calnali, hidalgo",,2012,7.58,7.58,10,10,10,7.42,7.42,7.17,7.5,7.58,82.25
+Arabica,Guatemala,antigua,"siembras vision, s.a. / ing. jorge bolaños",2012,7.5,7.33,10,10,10,7.33,7.67,7.58,7.33,7.5,82.25
+Arabica,Mexico,veracruz,finca los barreales,2012,7.5,7.33,10,10,10,7.42,7.33,7.67,7.42,7.58,82.25
+Arabica,Mexico,juquila,,2012,7.67,7.33,10,10,10,7.42,7.42,7.5,7.33,7.58,82.25
+Arabica,El Salvador,,atlantic specialty coffee,2012,7.75,7.33,10,10,10,7.5,7.5,7.5,7.33,7.33,82.25
+Arabica,Mexico,veracruz,,2012,7.33,7.42,10,10,10,7.5,7.33,7.67,7.42,7.58,82.25
+Arabica,Mexico,canoas,organizaciones de productores de cafe colimense sa de cv,2012,7.42,7.42,10,10,10,7.5,7.42,7.58,7.42,7.5,82.25
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2012,7.5,7.42,10,10,10,7.33,7.58,7.33,7.67,7.42,82.25
+Arabica,Colombia,huila,c.i.racafe & cia s.c.a,2012,7.67,7.58,10,10,10,7.5,7.5,7.33,7.33,7.33,82.25
+Arabica,Brazil,,nucoffee,2012,7.67,7.5,10,10,10,7.58,7.5,7,7.42,7.58,82.25
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.42,7.5,10,10,10,7.5,7.42,7.42,7.5,7.42,82.17
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2015,7.5,7.58,10,10,10,7.5,7.5,7.42,7.17,7.5,82.17
+Arabica,Tanzania,ruvuma,tawoca,2015,7.58,7.5,10,10,10,7.42,7.5,7.33,7.42,7.42,82.17
+Arabica,Tanzania,northern,ibero tanzania,2016,7.42,7.58,10,10,10,7.33,7.5,7.5,7.42,7.42,82.17
+Arabica,Brazil,south of minas,ipanema coffees,2016,6.92,7.58,10,10,10,7.5,7.83,7.33,7.42,7.58,82.17
+Arabica,Thailand,thailand,doi tung development project,2014,7.42,7.5,10,10,10,7.67,7.25,7.75,7.17,7.42,82.17
+Arabica,Honduras,marcala,cadexsa,2015,7.67,7.33,10,10,10,7.42,7.58,7.42,7.25,7.5,82.17
+Arabica,Guatemala,atitlan,essence coffee,2014,7.42,7.42,10,10,10,7.5,7.42,7.5,7.5,7.42,82.17
+Arabica,Brazil,cerrado,bourbon specialty coffees,2014,7.58,7.5,10,10,10,7.42,7.5,7.25,7.42,7.5,82.17
+Arabica,Tanzania,"ilomba vilage, mbozi",tembo coffee company ltd,2014,7.75,7.25,10,10,10,7.42,7.33,7.58,7.42,7.42,82.17
+Arabica,Mexico,veracruz,"café andrade, s.a. de c.v.",2013,7.42,7.33,10,10,10,8.17,7.33,7.42,7.17,7.33,82.17
+Arabica,Mexico,"la concordia, chiapas",lusso coffee lab,2013,7.5,7.5,10,10,10,7.42,7.5,7.42,7.33,7.5,82.17
+Arabica,Taiwan,yunlin 雲林縣石壁,blossom valley宸嶧國際,2013,7.5,7.17,10,10,10,7.5,7.5,7.5,7.5,7.5,82.17
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區","red on tree co., ltd.",2012,7.67,7.58,10,10,10,7.58,7.17,7.17,7.5,7.5,82.17
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2013,7.33,7.5,10,10,10,7.5,7.75,7.58,7.25,7.25,82.17
+Arabica,Mexico,san bartolo tutotepec,,2012,7.5,7.67,10,10,10,7.5,7.33,7.5,7,7.67,82.17
+Arabica,Guatemala,oriente,the coffee source inc.,2012,7.25,7.17,9.33,10,10,7.75,8.17,7.75,7,7.75,82.17
+Arabica,Mexico,altotonga,,2012,7.5,7.5,10,10,10,7.33,7.5,7.5,7.25,7.58,82.17
+Arabica,Mexico,colima,organizaciones de productores de cafe colimense sa de cv,2012,7,7.58,10,10,10,7.5,7.42,7.5,7.5,7.67,82.17
+Arabica,Indonesia,aceh gayo,pt. shriya artha nusantara,2017,7.5,7.33,10,10,10,7.42,7.5,7.42,7.42,7.5,82.08
+Arabica,Colombia,huila,skn caribecafe ltda,2016,7.75,7.58,10,9.33,9.33,7.58,7.83,7.67,7.42,7.58,82.08
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.42,7.5,10,10,10,7.25,7.42,7.5,7.42,7.58,82.08
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.25,7.25,10,10,10,7.92,7.25,7.58,7.58,7.25,82.08
+Arabica,Costa Rica,tres rios,"cafetalera internacional cafinter, s.a.",2015,7.75,7.67,10,10,10,7.42,7.17,7.25,7.42,7.42,82.08
+Arabica,Tanzania,kilimanjaro,volcafe/taylorwinch tanzania ltd,2014,7.42,7.42,10,10,10,7.58,7.5,7.42,7.42,7.33,82.08
+Arabica,Tanzania,ngorogoro,ngorogoro convenant estate,2014,7.42,7.5,10,10,10,7.5,7.33,7.33,7.5,7.5,82.08
+Arabica,Colombia,,cafe politico,2013,7.5,7.25,10,10,10,7.42,7.67,7.42,7.42,7.42,82.08
+Arabica,Costa Rica,turrialba,"ceca,s.a.",2013,7.58,7.33,10,10,10,7.67,7.5,7.33,7.33,7.33,82.08
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.25,7.5,10,10,10,7.42,7.5,7.25,7.58,7.58,82.08
+Arabica,Mexico,coatepec,,2012,7.42,7.42,10,10,10,7.42,7.42,7.33,7.5,7.58,82.08
+Arabica,Mexico,tapachula,indigenas de la sierra madre de motozintla san isidro labrador s. de s.s.,2012,7.5,7.5,10,10,10,7.5,7.25,7.5,7.42,7.42,82.08
+Arabica,Mexico,coatepec,,2012,7.67,7.33,10,10,10,7.33,7.42,7.58,7.25,7.5,82.08
+Arabica,Vietnam,don duong,royal base corporation,2012,7.67,7.42,10,10,10,7.08,7.67,7.08,7.17,8,82.08
+Arabica,Mexico,veracruz,,2012,7.58,7.33,10,10,10,7.42,7.33,7.75,7.25,7.42,82.08
+Arabica,United States (Hawaii),kona,cqi,2012,7.33,7.42,10,10,10,7.83,7.08,7.58,7.33,7.5,82.08
+Arabica,Colombia,cauca,,2011,7.67,7.17,10,10,10,7.58,7.25,7.33,7.67,7.42,82.08
+Arabica,Honduras,el paraíso,cigrah s.a de c.v,2017,7.5,7.42,10,10,10,7.42,7.5,7.5,7.17,7.5,82
+Arabica,Honduras,guinope el paraíso,cigrah s.a de c.v,2016,7.5,7.5,10,10,10,7.5,7.42,7.33,7.25,7.5,82
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.5,7.5,10,10,10,7.42,7.33,7.5,7.42,7.33,82
+Arabica,Tanzania,kilimanjaro,tawoca,2015,7.67,7.42,10,10,10,7.42,7.42,7.42,7.33,7.33,82
+Arabica,Laos,lao p.d.r.,kettles coffee roasters,2015,7.42,7.5,10,10,10,7.5,7.5,7.33,7.25,7.5,82
+Arabica,Tanzania,meru,finca estate,2014,7.42,7.5,10,10,10,7.42,7.33,7.58,7.33,7.42,82
+Arabica,Malawi,mzuzu,mzuzu coffee planters coop union,2014,7.5,7.33,10,10,10,7.5,7.33,7.58,7.33,7.42,82
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區","red on tree co., ltd.",2013,7.33,7.75,10,10,10,7.33,7.5,7.42,7.17,7.5,82
+Arabica,Thailand,thailand,doi tung development project,2013,7.58,7.33,10,10,10,7.42,7.33,7.42,7.42,7.5,82
+Arabica,Costa Rica,central valley,coricafe s.a.,2013,7.5,7.33,10,10,10,7.5,7.75,7.33,7.33,7.25,82
+Arabica,Honduras,occidental,beneficio santa rosa s.a.,2014,7.33,7.17,10,10,10,7.83,7.5,7.5,7.33,7.33,82
+Arabica,Colombia,huila,racafe & cia s.c.a,2013,7.33,7.17,10,10,10,7.58,7.5,7.5,7.58,7.33,82
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區","red on tree co., ltd.",2012,7.42,7.42,10,10,9.33,7.5,8,7.42,7.33,7.58,82
+Arabica,Brazil,"minas gerais, br",café do paraíso,2012,7.33,7.67,10,10,10,7.42,7.33,7.17,7.42,7.67,82
+Arabica,Mexico,coscomatepec,,2012,7.67,7.42,10,10,10,7.42,7.42,7.5,7.25,7.33,82
+Arabica,Brazil,south of minas,nucoffee,2012,7.42,7.42,10,10,10,7.5,7.33,7.5,7.33,7.5,82
+Arabica,Brazil,cerrado,nucoffee,2012,7.42,7.42,10,10,10,7.42,7.5,7.5,7.25,7.5,82
+Arabica,Guatemala,san marcos,"elfasa, s.a.",2012,7.33,7.17,10,10,10,7.67,7.67,7.5,7.33,7.33,82
+Arabica,Brazil,south of minas,nucoffee,2012,7.58,7.33,10,10,10,7.42,7.5,7.5,7.17,7.5,82
+Arabica,Guatemala,oriente,coffee resources inc.,2012,7.75,7.42,9.33,10,10,7.67,7.75,7.42,7.33,7.33,82
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2017,7.58,7.58,10,10,9.33,7.5,7.58,7.58,7.25,7.5,81.92
+Arabica,Guatemala,santa rosa,"unex guatemala, s.a.",2017,7.5,7.42,10,10,10,7.42,7.42,7.42,7.25,7.5,81.92
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2017,7.58,7.33,10,10,10,7.5,7.42,7.33,7.25,7.5,81.92
+Arabica,Brazil,monte carmelo,volcafe ltda.,2017,7.42,7.5,10,10,10,7.33,7.5,7.5,7.33,7.33,81.92
+Arabica,El Salvador,"el balsamo, quezaltepec",consejo salvadoreño del café,2014,7.67,7.33,9.33,10,10,7.67,7.5,7.5,7.33,7.58,81.92
+Arabica,Guatemala,nuevo oriente,asociación nacional del café - anacafe -,2015,7.58,7.25,10,10,10,7.33,7.17,7.83,7.17,7.58,81.92
+Arabica,Tanzania,mbeya,mcomafa co. ltd,2014,7.33,7.42,10,10,10,7.58,7.5,7.42,7.33,7.33,81.92
+Arabica,Nicaragua,,volcafe specialty coffee,2013,7.58,7.33,10,10,10,7.67,7.5,7.17,7.25,7.42,81.92
+Arabica,Zambia,mubuyu estate,lusso coffee lab,2014,7.67,7.25,10,10,10,7.42,7.75,7.33,7.42,7.08,81.92
+Arabica,Honduras,,thrive farmers,2012,7.42,7.42,10,10,10,7.5,7.33,7.58,7.33,7.33,81.92
+Arabica,Taiwan,taichung xinshe 台中市新社區,blossom valley宸嶧國際,2012,7.5,7.25,10,10,10,7.5,7.5,7.25,7.42,7.5,81.92
+Arabica,Mexico,chiapas,"finca triunfo verde, s.c.",2013,7.58,7.25,10,10,10,7.25,7.5,7.58,7.25,7.5,81.92
+Arabica,Mexico,"chapulhuacan, hidalgo",,2012,7.5,7.42,10,10,10,7.5,7.5,7.25,7.25,7.5,81.92
+Arabica,Mexico,"huazalingo, hidalgo",,2012,7.5,7.58,10,10,10,7.33,7.33,7.5,7.25,7.42,81.92
+Arabica,Mexico,veracruz,,2012,7.33,7.5,10,10,10,7.33,7.42,7.58,7.17,7.58,81.92
+Arabica,Mexico,fortín de las flores,,2012,7.67,7.33,10,10,9.33,7.5,7.5,7.83,7.33,7.42,81.92
+Arabica,Brazil,grama valley,nucoffee,2012,7.42,7.33,10,10,10,7.5,7.33,7.5,7.25,7.58,81.92
+Arabica,Colombia,cundinamarca,,2010,7.67,7.33,10,10,10,7.33,7.33,7.58,7.33,7.33,81.92
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2017,7.42,7.42,10,10,10,7.42,7.33,7.5,7.25,7.5,81.83
+Arabica,Costa Rica,tarrazu,bold coast coffee,2016,7.25,7.33,10,10,10,7.42,7.67,7.33,7.5,7.33,81.83
+Arabica,Brazil,monte carmelo,volcafe ltda.,2016,7.42,7.33,10,10,10,7.25,7.42,7.5,7.42,7.5,81.83
+Arabica,Indonesia,bali,pt. olam indonesia,2015,7.75,5.17,10,10,10,7.83,7.92,7.75,7.58,7.83,81.83
+Arabica,Guatemala,norte,"unex guatemala, s.a.",2015,7.58,7.17,10,10,10,7.25,7.58,7.42,7.33,7.5,81.83
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.17,7.75,10,10,10,7.25,7.75,7.5,6.83,7.58,81.83
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.58,8.25,10,10,10,7.5,7.67,6.92,6.92,7,81.83
+Arabica,Myanmar,ywar ngan,,2015,7.33,7.33,10,10,10,7.33,7.33,7.42,7.5,7.58,81.83
+Arabica,Mexico,chiapas,agroindustrias unidas de mexico sa de cv,2015,7.58,7.42,10,10,10,7.33,7.17,7.5,7.33,7.5,81.83
+Arabica,Honduras,marcala,cadexsa,2015,7.5,7.33,10,10,10,7.25,7.42,7.5,7.33,7.5,81.83
+Arabica,Costa Rica,tres rios,"cafetalera internacional cafinter, s.a.",2015,7.67,7.42,10,10,10,7.42,7.08,7.25,7.5,7.5,81.83
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",taiwan coffee laboratory,2014,7.67,7.33,10,10,10,7.33,7.75,7.25,7.17,7.33,81.83
+Arabica,Indonesia,lington nihuta,essence coffee,2014,7.42,7.42,10,10,10,7.42,7.42,7.33,7.42,7.42,81.83
+Arabica,Malawi,kakoma,mzuzu coffee planters coop union,2014,7.58,7.42,10,10,10,7.42,7.33,7.33,7.33,7.42,81.83
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.33,7.33,10,10,10,7.33,7.83,7.17,7.25,7.58,81.83
+Arabica,Honduras,comayagua,cigrah,2014,7.5,7.5,10,10,10,7.33,7.33,7.33,7.33,7.5,81.83
+Arabica,Mexico,"siltepec el triunfo, chiapas, mexico",globus coffee,2014,7.42,7.5,10,10,10,7.42,7.33,7.5,7.25,7.42,81.83
+Arabica,Colombia,huila,racafe & cia s.c.a,2013,7.5,7.33,10,10,10,7.58,7.5,7.42,7,7.5,81.83
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.83,8,10,6.67,10,7.83,7.83,8,7.83,7.83,81.83
+Arabica,Brazil,sul de minas,exportadora de cafés carmo de minas ltda,2012,7.75,7.83,9.33,9.33,9.33,7.75,7.83,7.42,7.5,7.75,81.83
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.83,7.5,9.33,10,9.33,7.83,7.67,7.33,7.33,7.67,81.83
+Arabica,Mexico,veracruz,,2012,7.83,7.25,10,10,10,7.33,7.25,7.58,7.25,7.33,81.83
+Arabica,Mexico,coatepec,,2012,7.33,7.42,10,10,10,7.5,7.5,7.5,7.25,7.33,81.83
+Arabica,Brazil,cerrado,,2011,7.33,7.33,10,10,10,7.25,7.5,7.5,7.25,7.67,81.83
+Arabica,Colombia,huila,,2011,7.58,7.33,10,10,10,7.33,7.33,7.58,7.17,7.5,81.83
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2017,7.5,7.33,10,10,10,7.33,7.42,7.42,7.25,7.5,81.75
+Arabica,Vietnam,vietnam,"sunvirtue co., ltd.",2014,7,8,10,10,10,7.33,7.5,7.5,7.33,7.08,81.75
+Arabica,Tanzania,ngorogoro,ngorogoro convenant estate,2014,7.42,7.42,10,10,10,7.33,7.33,7.42,7.42,7.42,81.75
+Arabica,Brazil,,cafe politico,2013,7.17,7.25,10,10,10,8.25,7.42,7.25,7.17,7.25,81.75
+Arabica,Mexico,"tenango de doria, hidalgo",,2012,7.5,7.5,10,10,10,7.25,7.25,7.42,7.33,7.5,81.75
+Arabica,Mexico,tepictla,,2012,7.42,7.25,10,10,10,7.42,7.33,7.67,7.17,7.5,81.75
+Arabica,Mexico,oaxaca,,2012,7.42,7.25,10,10,10,7.33,7.33,7.58,7.33,7.5,81.75
+Arabica,Mexico,la concordia,beneficio custepec s.a. de c.v.,2012,7.33,7.33,10,10,10,7.25,7.42,7.67,7.33,7.42,81.75
+Arabica,Mexico,la concordia,finca las nubes,2012,7.5,7.33,10,10,10,7.25,7.67,7.33,7.25,7.42,81.75
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2011,7.33,7.17,10,10,10,7.67,7.5,7.33,7.33,7.42,81.75
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.42,7.25,10,10,10,7.25,7.5,7.5,7.25,7.5,81.67
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2017,7.42,7.58,10,10,10,7.42,7.33,7.42,7.08,7.42,81.67
+Arabica,Guatemala,santa rosa,"unex guatemala, s.a.",2017,7.42,7.33,10,10,10,7.42,7.33,7.67,7.17,7.33,81.67
+Arabica,Honduras,marcala,cadexsa,2016,7.58,7.25,10,10,10,7.25,7.42,7.33,7.33,7.5,81.67
+Arabica,Tanzania,mbinga,volcafe/taylorwinch tanzania ltd,2016,7.17,7.58,10,10,10,7.33,7.5,7.42,7.33,7.33,81.67
+Arabica,Colombia,la plata,racafe & cia s.c.a,2016,7.75,7.67,10,10,10,7.83,5.25,7.67,7.75,7.75,81.67
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.25,7.25,10,10,10,7.58,7.5,7.42,6.92,7.75,81.67
+Arabica,Tanzania,mbinga,dae ltd company,2014,7.42,7.33,10,10,10,7.42,7.5,7.42,7.25,7.33,81.67
+Arabica,Tanzania,"ilomba vilage, mbozi",tembo coffee company ltd,2013,7.33,7.5,10,10,10,7.33,7.42,7.25,7.5,7.33,81.67
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.25,7.33,10,10,10,7.42,7.5,7.5,7.25,7.42,81.67
+Arabica,Indonesia,bener meriah,volcafe specialty coffee,2013,7.17,7.58,10,10,10,7.42,7.33,7.42,7.33,7.42,81.67
+Arabica,Honduras,comayagua,cigrah,2014,7.5,7.5,10,10,10,7.17,7.17,7.5,7.5,7.33,81.67
+Arabica,Costa Rica,tarrazu,"ceca,s.a.",2013,7.5,8.08,10,10,10,7.08,7.5,7.17,7.17,7.17,81.67
+Arabica,Mexico,veracruz,sustainable harvest,2014,7.42,7.42,10,9.33,9.33,7.5,7.58,8,7.67,7.42,81.67
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,blossom valley宸嶧國際,2013,7.5,7.25,10,10,10,7.25,7.42,7.25,7.5,7.5,81.67
+Arabica,Taiwan,nantou,blossom valley宸嶧國際,2013,7.58,7.25,10,10,10,7.33,7.33,7.42,7.33,7.42,81.67
+Arabica,Mexico,"la concordia, chiapas",union ramal santa cruz spr de ri,2013,7.5,7.42,10,10,10,7.33,7.33,7.58,7.08,7.42,81.67
+Arabica,Guatemala,jalapa,finca el morito,2012,7.5,7.17,10,10,10,7.33,7.33,7.33,7.33,7.67,81.67
+Arabica,Mexico,tuxtla gutierrez,"productora agricola y ganadera finca la suiza, s.p.r. de r.l. de c.v.",2012,7.25,7.58,10,10,8.67,7.58,7.67,7.67,7.58,7.67,81.67
+Arabica,Mexico,yajalon,,2012,7.67,7.08,10,10,10,7.25,7.5,7.75,7.17,7.25,81.67
+Arabica,Mexico,veracruz,,2012,7.5,7.17,10,10,10,7.42,7.42,7.42,7.33,7.42,81.67
+Arabica,Mexico,"la concordia, chiapas",ecomtrading,2012,7.58,7.42,10,10,10,7.17,7.25,7.58,7.25,7.42,81.67
+Arabica,Mexico,"sacún palma, municipio de chilón, chiapas","estrategias constructivas corzu, s.a. de c.v.",2012,7.75,7.67,10,10,9.33,7.33,7.58,7.17,7.25,7.58,81.67
+Arabica,United States (Hawaii),kona,cqi,2012,7.42,7.25,10,10,10,7.83,7.17,7.33,7.33,7.33,81.67
+Arabica,Guatemala,huehuetenango,"unex guatemala, s.a.",2017,7.42,7.42,10,10,10,7.33,7.42,7.5,7.08,7.42,81.58
+Arabica,Taiwan,natou county,taiwan coffee laboratory,2016,7.42,7.25,10,10,10,7.25,7.33,7.67,7.25,7.42,81.58
+Arabica,Costa Rica,turrialba,"ceca,s.a.",2015,7.58,7.25,10,10,10,7.58,7.08,7.17,7.5,7.42,81.58
+Arabica,Tanzania,"oldeani , mongola",acacia hills ltd,2014,7.42,7.25,10,10,10,7.33,7.42,7.42,7.33,7.42,81.58
+Arabica,Malawi,mzuzu,mzuzu coffee planters coop union,2014,7.42,7.33,10,10,10,7.33,7.33,7.58,7.17,7.42,81.58
+Arabica,Taiwan,natou county,"red on tree co., ltd.",2014,7.33,7,9.33,10,10,8.25,8.33,7.08,7.08,7.17,81.58
+Arabica,Brazil,south of minas,ipanema coffees,2013,7.42,7.33,10,10,10,7.25,7.5,7.33,7.33,7.42,81.58
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.42,7.17,10,10,10,7.5,7.42,7.58,7.17,7.33,81.58
+Arabica,Mexico,"la concordia, chiapas",union ramal santa cruz spr de ri,2013,7.67,7.33,10,10,10,7.42,6.75,7.5,7.42,7.5,81.58
+Arabica,Mexico,la concordia,finca santa cruz,2012,7.33,7.33,10,10,10,7.17,7.5,7.5,7.25,7.5,81.58
+Arabica,Mexico,la concordia,finca santa cruz,2012,7.67,7.67,8.67,10,10,7.42,7.58,7.58,7.42,7.58,81.58
+Arabica,Thailand,"doi chaang village, chiang rai, thialand",,2011,7.08,7.33,10,10,10,7.5,7.17,7.58,7.58,7.33,81.58
+Arabica,Thailand,,,2011,7.33,7.33,10,10,10,7.33,7.58,7.5,7.17,7.33,81.58
+Arabica,Guatemala,santa rosa,"unex guatemala, s.a.",2017,7.67,7.58,10,10,9.33,7.42,7.33,7.42,7.17,7.58,81.5
+Arabica,Nicaragua,jalapa,exportadora atlantic s.a,2017,7.5,7.33,10,10,10,7.33,7.25,7.33,7.33,7.42,81.5
+Arabica,Honduras,comayagua,cigrah,2017,7.5,7.33,10,10,10,7.25,7.17,7.42,7.33,7.5,81.5
+Arabica,Guatemala,santa rosa,"unex guatemala, s.a.",2017,7.5,7.33,10,10,10,7.25,7.5,7.25,7.25,7.42,81.5
+Arabica,Taiwan,古坑鄉荷包村尖山坑60號,宸嶧國際,2015,7.5,7.33,10,10,10,7.25,7.58,7.08,7.33,7.42,81.5
+Arabica,Myanmar,ywar ngan township,"aung nay lin htun co., ltd",2015,7.25,7.42,10,10,10,7.33,7.33,7.5,7.25,7.42,81.5
+Arabica,Costa Rica,occidental,santa laura exportadora de cafe s.l.e.c. s.a.,2014,7.83,7.33,10,10,10,7.5,7.33,7.08,7.08,7.33,81.5
+Arabica,Malawi,mzuzu,mzuzu coffee planters coop union,2014,7.67,7.33,10,10,10,7.17,7.5,7.5,6.92,7.42,81.5
+Arabica,Guatemala,oriente,outspan guatemala s.a.,2014,7.5,7.17,10,10,10,7.42,7.25,7.58,7.17,7.42,81.5
+Arabica,Taiwan,natou county,"red on tree co., ltd.",2014,7.42,7.5,9.33,10,10,7.5,7.42,7.33,7.67,7.33,81.5
+Arabica,Brazil,sul de minas,exportadora de cafés carmo de minas ltda,2014,7.58,7.75,9.33,9.33,9.33,7.83,7.67,7.67,7.5,7.5,81.5
+Arabica,Haiti,"dondon, haiti",haiti coffee,2013,7.42,7.33,10,10,10,7.33,7.42,7.42,7.25,7.33,81.5
+Arabica,Taiwan,taichung xinshe 台中市新社區,blossom valley宸嶧國際,2013,7.5,7.42,10,10,10,7.33,7.33,7.25,7.25,7.42,81.5
+Arabica,Mexico,"la concordia, chiapas",ecomtrading,2013,7.33,7.25,10,10,10,7.5,7.5,7.42,7.17,7.33,81.5
+Arabica,Mexico,amatenango de la frontera,ecomtrading,2012,7.58,7.17,10,10,10,7.33,7.33,7.42,7.25,7.42,81.5
+Arabica,Mexico,temaxcalapa,,2012,7.42,7.08,10,10,10,8,7.17,7.42,7.17,7.25,81.5
+Arabica,Mexico,manzanillo,,2012,7.33,7.25,10,10,10,7.42,7.33,7.33,7.33,7.5,81.5
+Arabica,Mexico,tapachula,,2012,7.42,7.5,10,10,10,7.42,7.25,7.17,7.33,7.42,81.5
+Arabica,Mexico,atoyac de alvarez,,2012,7.5,7.42,10,10,9.33,7.58,7.42,7.5,7.25,7.5,81.5
+Arabica,Indonesia,ijen,scai,2012,7.75,7.17,10,10,10,7.33,7.58,7.33,7.17,7.17,81.5
+Arabica,Brazil,sul de minas,exportadora de cafés carmo de minas ltda,2012,7.5,7.17,10,10,10,7.33,7.5,7.42,7.17,7.42,81.5
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.33,7.42,10,10,10,7.33,7.17,7.42,7.33,7.5,81.5
+Arabica,Mexico,veracruz,cafes tomari sa de cv,2017,7.58,7.25,10,10,10,7.33,7.5,7.33,7.08,7.33,81.42
+Arabica,Guatemala,san marcos,"agricola nueva granada, s.a.",2016,7.42,7.42,10,10,10,7.25,7.33,7.58,7.08,7.33,81.42
+Arabica,Brazil,cerrado,cafebras comercio de cafés do brasil sa,2016,7.33,7.5,10,10,10,7.42,6.83,7.33,7.5,7.5,81.42
+Arabica,Honduras,marcala,cadexsa,2015,7.5,7.25,10,10,10,7.42,7.5,7.25,7.17,7.33,81.42
+Arabica,Taiwan,苗栗三灣,宸嶧國際,2014,7.83,7.08,10,10,10,7.08,7.08,7.17,7.42,7.75,81.42
+Arabica,Malawi,mzuzu,mzuzu coffee planters coop union,2014,7.58,7.42,10,10,10,7.42,7.08,7.42,7.33,7.17,81.42
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.25,7.42,10,10,10,7.33,7.33,7.17,7.42,7.5,81.42
+Arabica,Guatemala,"san lucas toliman, solola",cafcom,2014,7.42,7.08,10,10,10,7.42,7.42,7.42,7.17,7.5,81.42
+Arabica,Mexico,siltepec el triunfo,globus coffee,2014,7.67,7.33,10,10,10,7.42,7.25,7.17,7.25,7.33,81.42
+Arabica,Peru,puno,sustainable harvest,2013,7.42,7.25,10,10,10,7.42,7.42,7.33,7.17,7.42,81.42
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.42,7.08,10,10,10,7.5,7.42,7.42,7.25,7.33,81.42
+Arabica,Mexico,"huazalingo, hidalgo",,2012,7.42,7.58,10,10,10,7.42,7.25,7.17,7.25,7.33,81.42
+Arabica,Mexico,"coatepec, coatepec",grupo cafetalero los brujos,2012,7.42,7.25,10,10,10,7.33,7.5,7.25,7.25,7.42,81.42
+Arabica,Colombia,huila,exportadora de cafe condor s.a,2011,7.5,7.17,10,10,10,7.75,7.17,7.17,7.25,7.42,81.42
+Arabica,Colombia,cauca,,2010,7.75,7.33,10,10,10,7.25,7.33,7,7.42,7.33,81.42
+Arabica,Colombia,huila,racafe & cia s.c.a,2016,7.5,7.25,10,10,10,7.42,7.33,7.17,7.33,7.33,81.33
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2017,7.5,7.33,10,10,10,7.33,7.5,7.17,7,7.5,81.33
+Arabica,Mexico,veracruz,ac la laja sa de cv,2016,7.67,7.17,10,10,10,7.08,7.58,7.42,7,7.42,81.33
+Arabica,Brazil,cerrado,cafebras comercio de cafés do brasil sa,2016,7.25,7.33,10,10,10,7.42,7.33,7.33,7.33,7.33,81.33
+Arabica,Honduras,marcala,cadexsa,2015,7.58,7.42,10,10,10,7.17,7.17,7.42,7.17,7.42,81.33
+Arabica,Brazil,mantiqueira de minas,exportadora de cafés carmo de minas ltda,2015,7.17,7.42,10,10,10,7.33,7.42,7.25,7.42,7.33,81.33
+Arabica,Philippines,"davao city, region 11",s3v international importing,2014,7.08,7.33,10,10,10,7.5,7.33,7.33,7.42,7.33,81.33
+Arabica,Malawi,mzuzu,mzuzu coffee planters coop union,2014,7.75,7.25,10,10,10,7.25,7.33,7.33,7.08,7.33,81.33
+Arabica,Honduras,san marcos,"olam honduras, s.a.",2014,7.33,7.33,10,10,10,7.33,7.5,7.33,7.17,7.33,81.33
+Arabica,Mexico,tapachula,indigenas de la sierra madre de motozintla san isidro labrador s. de s.s.,2012,7.58,7.25,10,10,10,7.25,7.25,7.33,7.25,7.42,81.33
+Arabica,Mexico,veracruz,,2012,7.33,7.25,10,10,10,7.33,7.58,7.42,7.17,7.25,81.33
+Arabica,Taiwan,"dongshan dist., tainan city 台南市東山區",taiwan coffee laboratory,2015,7.83,5.25,10,10,9.33,7.75,7.83,7.83,7.67,7.75,81.25
+Arabica,Brazil,south of minas,ipanema coffees,2016,7.17,7.33,10,10,10,8.17,6.92,7.08,7.17,7.42,81.25
+Arabica,Nicaragua,jinotega,"comercial internacional exportadora, s.a.",2015,7.08,7.5,10,10,10,7.25,7.42,7.17,7.33,7.5,81.25
+Arabica,Honduras,marcala,cadexsa,2015,7.42,7.42,10,10,10,7.25,7.33,7.5,7.17,7.17,81.25
+Arabica,Guatemala,huehuetenango,essence coffee,2014,7.33,7.33,10,10,10,7.33,7.42,7.25,7.17,7.42,81.25
+Arabica,Tanzania,karatu ngorogoro,shangrilla estate ltd,2014,7.33,7.42,10,10,10,7.42,7.25,7.5,7.17,7.17,81.25
+Arabica,Taiwan,nantou,blossom valley宸嶧國際,2013,7.5,7.25,10,10,10,7.25,7.25,7.25,7.25,7.5,81.25
+Arabica,Guatemala,"sacatepequez, guatemala","siembras vision, s.a.",2013,7.5,7.08,10,10,10,7.25,7,7.58,7.5,7.33,81.25
+Arabica,Mexico,motozintla,ecomtrading,2012,7.42,7.5,10,10,9.33,7.42,7.5,7.33,7.33,7.42,81.25
+Arabica,Nicaragua,"dipilto, nueva segovia",exportadora atlantic s.a,2016,7.33,7.25,10,10,10,7.17,7.58,7.17,7.17,7.5,81.17
+Arabica,Tanzania,"ruvuma, mbinga",mviwambi coffee farm,2016,7.67,7.17,10,10,10,7.17,7.5,7.33,7.17,7.17,81.17
+Arabica,Mexico,"chiapas, jaltenango",exportadora café california,2015,7.75,7.17,10,10,10,7.25,7.08,7.25,7.08,7.58,81.17
+Arabica,Costa Rica,tres rios,"cafetalera internacional cafinter, s.a.",2015,7.5,7.42,10,10,10,7.17,7.08,7.17,7.33,7.5,81.17
+Arabica,Honduras,central region,cigrah,2015,7.42,7.33,10,10,10,7.33,7.33,7.42,7,7.33,81.17
+Arabica,Thailand,chiangrai,"coffeas co., ltd",2014,6.83,7.42,10,10,10,7.42,7.5,7.17,7.42,7.42,81.17
+Arabica,Philippines,corillera administrative,s3v international importing,2014,7.25,7.25,10,10,10,7.5,7.58,7.08,7.25,7.25,81.17
+Arabica,Tanzania,mbinga,taylor winch (t) ltd,2014,7.58,7.33,10,10,10,7.25,7.33,7.33,7.17,7.17,81.17
+Arabica,Malawi,southern- zomba,r.w.j wallace ltd,2014,7.58,7.25,10,10,10,7.33,7.33,7.08,7.33,7.25,81.17
+Arabica,Costa Rica,central valley,coricafe s.a.,2014,7.33,7.25,10,10,10,7.58,7.33,7.25,7.33,7.08,81.17
+Arabica,Brazil,monte carmelo,bourbon specialty coffees,2013,7.42,7.17,10,10,10,7.25,7.33,7.42,7.17,7.42,81.17
+Arabica,Mexico,tapachula,indigenas de la sierra madre de motozintla san isidro labrador s. de s.s.,2012,7.42,7.08,10,10,10,7.17,7.42,7.75,7.08,7.25,81.17
+Arabica,Guatemala,oriente,the coffee source inc.,2012,7.42,7.25,10,10,10,7.42,7.25,7.25,7.33,7.25,81.17
+Arabica,Brazil,south of minas,nucoffee,2012,7.42,7.08,10,10,10,7.17,7.5,7.42,7.25,7.33,81.17
+Arabica,Ethiopia,sidamo,kerchanshe trading plc,2016,7.42,7.25,10,10,10,7.17,7.42,7.33,7.17,7.33,81.08
+Arabica,Brazil,alta paulista (sao paulo),garca armazens,2016,7.58,7.33,9.33,10,9.33,7.58,7.75,7.25,7.5,7.42,81.08
+Arabica,Nicaragua,jinotega,"comercial internacional exportadora, s.a.",2015,7.33,7,10,10,10,7.33,7.33,7.42,7.33,7.33,81.08
+Arabica,United States,central america,conscious bean coffee,2014,7.42,7.17,10,10,10,7.33,7.25,7.42,7.33,7.17,81.08
+Arabica,Tanzania,"iwala village, mbeya rural",taylor winch (t) ltd,2014,7.42,7.17,10,10,10,7.33,7.25,7.25,7.33,7.33,81.08
+Arabica,Costa Rica,naranjo,the coffee source inc.,2014,7.42,7.17,10,10,10,7.58,7.25,7.25,7.17,7.25,81.08
+Arabica,United States (Puerto Rico),yauco region,"hacienda alto grande, llc.",2013,7.67,8.5,10,10,6.67,7.67,7.58,7.58,7.67,7.75,81.08
+Arabica,Mexico,san fernando,cafetera el grande s.a. de c.v.,2012,7.25,7.25,10,10,10,7.33,7.17,7.33,7.33,7.42,81.08
+Arabica,Mexico,santo reyes nopala,,2012,7.33,7.08,10,10,10,7.42,7.25,7.42,7.33,7.25,81.08
+Arabica,Mexico,santa maria sitepec,comercializadora profesional mexicana s.a. de c.v.,2012,7.33,7.25,10,10,10,7.25,7.25,7.42,7.25,7.33,81.08
+Arabica,Mexico,talpa de allende,,2012,7.42,7.25,10,10,10,7.25,7.17,7.42,7.25,7.33,81.08
+Arabica,United States (Hawaii),,kpfc,2012,7.42,7.33,10,10,10,7.17,6.92,7.58,7.25,7.42,81.08
+Arabica,El Salvador,apaneca,soc. coop. cuzcachapa de r.l.,2017,7.42,7.25,10,10,10,7.58,7.25,7.33,7.08,7.08,81
+Arabica,Brazil,grama valley,bourbon specialty coffees,2017,7.33,7.17,10,10,10,7.17,7.33,7.67,7.17,7.17,81
+Arabica,Guatemala,norte,"unex guatemala, s.a.",2016,7.42,7.25,10,10,10,7.17,7.25,7.5,7.17,7.25,81
+Arabica,Colombia,guayata,racafe & cia s.c.a,2016,7.67,7.75,10,10,10,7.75,7.67,5.25,7.42,7.5,81
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2015,7.5,7.25,10,10,10,7.25,7.5,7.25,7,7.25,81
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",taiwan coffee laboratory,2015,7.25,7.33,10,10,10,7.33,7.5,7.25,7.17,7.17,81
+Arabica,Honduras,san marcos,"olam honduras, s.a.",2014,7.42,7.33,10,10,10,7.17,7.25,7.33,7.25,7.25,81
+Arabica,Brazil,cerrado,bourbon specialty coffees,2014,7.67,7.75,10,6.67,10,7.75,7.83,7.75,7.83,7.75,81
+Arabica,Tanzania,arusha,mlimani ngarashi,2014,7.33,7.33,10,10,10,7.33,7.17,7.42,7.08,7.33,81
+Arabica,Uganda,eastern,kyagalanyi coffee ltd,2013,7.33,7.42,10,10,10,7.42,7.42,7.33,7.17,6.92,81
+Arabica,Taiwan,nantou,blossom valley宸嶧國際,2013,7.5,7.25,10,10,10,7.33,7.33,7.33,7.33,6.92,81
+Arabica,Thailand,thailand,doi tung development project,2012,7.33,7.17,10,10,10,7.17,7.25,7.42,7.25,7.42,81
+Arabica,Mexico,"motozintla, chiapas",industrializadora de kaffee andes s.a. de c.v.,2012,7.08,7.25,10,10,10,7.25,7.42,7.33,7.33,7.33,81
+Arabica,Mexico,adolfo lopez mateos,organizaciones de productores de cafe colimense sa de cv,2012,7.58,7.5,10,10,8,7.5,7.58,7.67,7.5,7.67,81
+Arabica,Taiwan,taiwan,八杞莊園,2017,7.33,7.25,10,10,10,7.25,7.33,7.33,7.25,7.17,80.92
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2017,7.67,7.5,9.33,9.33,9.33,7.5,7.67,7.58,7.33,7.67,80.92
+Arabica,Kenya,kiambu,c dorman ltd,2017,7.17,5.42,10,10,10,7.75,8,7.5,7.5,7.58,80.92
+Arabica,Mexico,veracruz,grupo santab s.a. de c.v.,2017,7.5,7.33,10,10,9.33,7.33,7.5,7.42,7.17,7.33,80.92
+Arabica,Myanmar,pyinoolwin,"sithar coffee co., ltd.",2015,7.17,7.42,10,10,10,7,7.33,7.58,7,7.42,80.92
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.42,7.25,10,10,10,7.25,7.58,7.17,7.17,7.08,80.92
+Arabica,Tanzania,"manyara, karatu",karatu estate,2014,7.33,7.25,10,10,10,7.33,7.42,7.25,7.17,7.17,80.92
+Arabica,Brazil,mantiqueira de minas,exportadora de cafés carmo de minas ltda,2015,7.25,7.25,10,10,10,7.33,7.25,7.25,7.25,7.33,80.92
+Arabica,Taiwan,台中新社,宸嶧國際,2014,7.92,6.75,10,10,10,7.08,7.08,7.08,7.33,7.67,80.92
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.17,7.33,10,10,10,7.33,7.25,7.25,7.17,7.42,80.92
+Arabica,Nicaragua,matagalpa,volcafe specialty coffee,2013,7.33,7.33,10,10,10,7.42,7.5,7,7.25,7.08,80.92
+Arabica,Guatemala,jalapa,"armajaro guatemala, s. a.",2014,7.58,7.08,10,10,10,7.17,7.25,7.5,6.92,7.42,80.92
+Arabica,Taiwan,taichung taiping 台中市太平區,blossom valley宸嶧國際,2013,7.42,7.25,10,10,10,7.25,7.25,7.25,7.25,7.25,80.92
+Arabica,Taiwan,nantou,blossom valley宸嶧國際,2013,7.25,7.17,10,10,10,8.08,7.08,7.08,7.08,7.17,80.92
+Arabica,Taiwan,new taipei zhonghe 新北市中和區,blossom valley宸嶧國際,2013,7.42,7.25,10,10,10,7.25,7.25,7.25,7.25,7.25,80.92
+Arabica,Mexico,ixhuatlan del cafe,,2012,7.58,7,10,10,10,7.25,7.17,7.5,7.08,7.33,80.92
+Arabica,Laos,"paksong,laos",宸嶧國際,2016,7.42,7.33,10,10,10,7.25,7.17,7.17,7.17,7.33,80.83
+Arabica,Guatemala,orient,the coffee source inc.,2013,7.67,7.08,10,10,10,7.25,7.17,7.33,7.08,7.25,80.83
+Arabica,Mexico,motozintla,productora rural la victoria s.p.r. de r.l.,2012,7.17,7.33,10,10,10,7.33,7.25,7.42,7.25,7.08,80.83
+Arabica,Mexico,oaxaca,café san blas,2012,7.33,7.17,10,10,10,7.17,7.25,7.33,7.33,7.25,80.83
+Arabica,Mexico,veracruz,,2012,7.5,7.25,10,10,10,7.17,7.17,7.25,7.33,7.17,80.83
+Arabica,United States (Hawaii),kona,cqi,2012,7.42,7,10,10,10,7.5,7.33,7.25,7,7.33,80.83
+Arabica,Colombia,huila,,2010,7.33,7.33,10,10,10,7.67,7.33,6.83,7,7.33,80.83
+Arabica,Brazil,monte carmelo,bourbon specialty coffees,2016,7.17,7.25,10,10,10,7.58,7.25,7.17,7.08,7.25,80.75
+Arabica,Myanmar,ywar ngan,,2015,6.92,7.17,10,10,10,7.08,7.5,7.58,7,7.5,80.75
+Arabica,Guatemala,huehuetenango,exportcafe,2015,7.5,7.17,10,10,10,7.17,7.17,7.42,7,7.33,80.75
+Arabica,Nicaragua,jinotega,"comercial internacional exportadora, s.a.",2015,7.25,7.25,10,10,10,7.25,7.33,7.25,7.17,7.25,80.75
+Arabica,Honduras,"siguatepeque, comayagua",cigrah s.a de c.v,2015,7.5,7.08,10,10,10,7.17,7.25,7.42,7,7.33,80.75
+Arabica,Panama,boquete,essence coffee,2014,7.25,7.17,10,10,10,7.17,7.33,7.33,7.17,7.33,80.75
+Arabica,Honduras,marcala,cadexsa,2015,7.42,7.17,10,10,10,7.25,7.25,7.42,7.08,7.17,80.75
+Arabica,Honduras,central region,cigrah,2015,7.25,7,10,10,10,7.33,7.25,7.5,7.08,7.33,80.75
+Arabica,Costa Rica,san ramon,the coffee source inc.,2014,7.33,7.25,10,10,10,7.17,7.17,7.25,7.25,7.33,80.75
+Arabica,Mexico,oaxaca,,2012,7.58,7.5,10,9.33,9.33,7.5,7.5,7.25,7.42,7.33,80.75
+Arabica,Haiti,haiti,haiti coffee,2012,7.42,7.25,10,10,10,7.33,7.08,7.25,7.42,7,80.75
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2011,7.08,6.92,10,10,10,7.67,7.33,7.25,7.17,7.33,80.75
+Arabica,Taiwan,taiwan,宸嶧國際,2016,7.33,7.33,10,10,10,7.33,7.42,7.08,7.08,7.08,80.67
+Arabica,Indonesia,sumatra brastagi,pt. olam indonesia,2015,7.58,7.33,10,9.33,9.33,7.5,7.5,7.67,7,7.42,80.67
+Arabica,Guatemala,antigua,"siembras vision, s.a.",2016,7.67,7,10,10,10,7.17,7.42,7.17,6.83,7.42,80.67
+Arabica,Costa Rica,tarrazu,"ceca,s.a.",2015,7.83,8,10,10,6.67,7.5,7.83,7.67,7.67,7.5,80.67
+Arabica,Malawi,southern- zomba,r.w.j wallace ltd,2014,7.5,7.17,10,10,10,7.17,7.25,7.17,7.17,7.25,80.67
+Arabica,Mexico,"el desmoronado, talpan de allende jalisco",cafe don balbino s.c. de r.l. de c.v.,2014,7.25,7.25,10,10,10,7.42,7.17,7.25,7.17,7.17,80.67
+Arabica,Colombia,santander,ecom cca sa,2014,7.67,8.5,6.67,10,10,7.75,7.5,7.67,7.42,7.5,80.67
+Arabica,Guatemala,"san lucas toliman, solola","finca santo tomas pachuj, guatemala",2013,7.67,7.33,10,10,10,7,7,7.5,7,7.17,80.67
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7,7.17,10,10,10,7.33,7,7.33,7.5,7.33,80.67
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7,7.33,10,10,10,7.17,7.17,7.17,7.33,7.5,80.67
+Arabica,Brazil,monte carmelo,bourbon specialty coffees,2016,7.33,7.42,10,10,9.33,7.25,7.58,7.08,7.33,7.25,80.58
+Arabica,Nicaragua,nueva segovia,exportadora atlantic s.a,2016,7.08,7.33,10,10,10,7,7.42,7.25,7,7.5,80.58
+Arabica,Tanzania,arusha,burka coffee estate,2014,7.25,7.25,10,10,10,7.25,7.33,7.33,7.08,7.08,80.58
+Arabica,Brazil,south of minas,ipanema coffees,2015,7.42,7.25,10,10,10,7.25,7.08,7,7.33,7.25,80.58
+Arabica,Honduras,occidental,beneficio santa rosa s.a.,2014,7.5,7.17,10,10,10,7,7.33,7.42,7,7.17,80.58
+Arabica,Guatemala,huehuetenango,exportcafe,2014,7.17,7.25,10,10,10,7.25,7.17,7.5,6.83,7.42,80.58
+Arabica,Taiwan,taiwan,王秋金,2017,7.17,7.17,10,10,10,7.25,7.17,7.42,7.17,7.17,80.5
+Arabica,Guatemala,santa rosa,"peter schoelfeld, s.a",2017,7.33,7.25,10,10,10,7.17,7.25,7.17,7.08,7.25,80.5
+Arabica,Honduras,ocotepeque,coffee planet corporation s.a,2017,7.58,7,10,10,10,7.08,7.33,7.17,7,7.33,80.5
+Arabica,Mauritius,chamarel (south west),compagnie sucrière de bel ombre ltd,2016,7.25,7.25,10,10,10,7.17,7.25,7.17,7.17,7.25,80.5
+Arabica,Brazil,vale da grama,bourbon specialty coffees,2016,7.25,7.33,10,10,9.33,7.25,7.33,7.5,7.17,7.33,80.5
+Arabica,Myanmar,pyin oo lwin,shwe yin mar coffee,2015,7.17,7.08,10,10,10,7.08,7.25,7.42,7.17,7.33,80.5
+Arabica,Guatemala,oriente,outspan guatemala s.a.,2014,7.5,7.17,10,10,10,7.17,7.17,7.5,6.83,7.17,80.5
+Arabica,Brazil,mantiqueira de minas,exportadora de cafés carmo de minas ltda,2013,7.42,7.42,10,9.33,9.33,7.5,7.67,7.33,7.08,7.42,80.5
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.42,7.17,10,10,8.67,7.42,7.58,7.58,7.33,7.33,80.5
+Arabica,Guatemala,huehuetenango,exportcafe,2013,7.5,6.67,10,10,10,7,7.17,7.67,7,7.5,80.5
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.25,7.17,10,10,10,7.17,7.25,7.33,7.08,7.25,80.5
+Arabica,Honduras,marcala,cadexsa,2016,7.25,7,10,10,10,7,7.33,7.42,7,7.42,80.42
+Arabica,Taiwan,南投國姓,宸嶧國際,2014,7.58,7,10,10,10,7.17,7.17,7.17,7.17,7.17,80.42
+Arabica,El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain",lusso coffee lab,2013,7.33,7.25,10,10,10,7.17,7.33,7.08,7.08,7.17,80.42
+Arabica,China,yunnan,yunnan new century tech inc.,2013,7.25,7.17,10,10,10,7.17,7.33,7.17,7.25,7.08,80.42
+Arabica,Taiwan,nantou,blossom valley宸嶧國際,2013,7.25,7,10,10,10,7.25,7.25,7.25,7.17,7.25,80.42
+Arabica,Mexico,pochutla,ecomtrading,2012,6.92,7.25,10,10,10,7.17,7.33,7.5,7.08,7.17,80.42
+Arabica,Mexico,la concordia,beneficio custepec s.a. de c.v.,2012,7.42,7.08,10,10,10,7.17,7.25,7.33,7.08,7.08,80.42
+Arabica,Burundi,mumirwa,sangana commodities k limited,2016,7.08,7.33,10,10,10,7.08,7.08,7.33,7.17,7.25,80.33
+Arabica,Tanzania,mkuu rombo,delfina farm,2016,7.25,7.17,10,10,10,7.08,7.42,7.25,7,7.17,80.33
+Arabica,Tanzania,arusha,kongoni estate,2014,7.25,7.08,10,10,10,7.08,7.25,7.25,7.25,7.17,80.33
+Arabica,Taiwan,taichung xinshe 台中市新社區,blossom valley宸嶧國際,2013,7.25,7,10,10,10,7.25,7.25,7.25,7.08,7.25,80.33
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.33,7.17,10,10,10,7.17,7,7.5,6.83,7.33,80.33
+Arabica,Mexico,chilón,estrategias constructivas corzu s.a. de c.v.,2012,7.25,7.08,10,10,10,7.17,7.33,7.33,7.08,7.08,80.33
+Arabica,United States (Hawaii),kona,cqi,2012,7.17,7.08,10,10,9.33,7.33,7.67,7.33,6.92,7.5,80.33
+Arabica,Ethiopia,kelem welega,,2010,7.25,7.08,10,9.33,9.33,8,7.5,7.33,7.25,7.25,80.33
+Arabica,Brazil,cerrado - monte carmelo - minas gerais,volcafe ltda.,2017,7.17,7.25,10,10,10,7,7,7.08,7.42,7.33,80.25
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2016,7.25,7.33,10,10,10,7,7.42,7,7,7.25,80.25
+Arabica,Mexico,sierra madre occidental,cafe don balbino s.c. de r.l. de c.v.,2016,7.25,7.17,10,10,10,7,7.33,7.33,7,7.17,80.25
+Arabica,Myanmar,"yauk sauk, shan state","waylead industrial co, ltd.",2015,8,6.83,10,10,10,6.92,7.08,7.33,7,7.08,80.25
+Arabica,Myanmar,ywar ngan,,2014,7.42,7.25,10,10,10,7.33,7.17,7,7.08,7,80.25
+Arabica,Nicaragua,matagalpa,zeas escobar y compañía limitada,2015,7.08,7.25,10,10,10,7.25,7.5,7.25,7,6.92,80.25
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.5,7.33,9.33,9.33,9.33,7.58,7.42,7.67,7.67,7.08,80.25
+Arabica,Colombia,,costco wholesale industries,2012,7.42,7.58,8.67,8.67,8.67,7.58,8.08,7.75,7.83,8,80.25
+Arabica,Taiwan,chiayi fanlu嘉義縣番路鄉,blossom valley宸嶧國際,2013,7.25,7,10,10,10,7.25,7.17,7.25,7.25,7.08,80.25
+Arabica,Guatemala,oriente,the coffee source inc.,2012,7,7.25,10,10,10,7.17,7,7.33,7.33,7.17,80.25
+Arabica,Mexico,"calnali, hidalgo",,2012,7.58,7.17,10,10,10,7,6.75,7.25,7.17,7.33,80.25
+Arabica,Vietnam,dala,"sunvirtue co., ltd.",2017,7.42,7.25,10,10,8.67,7.33,7.42,7.58,7.25,7.25,80.17
+Arabica,Nicaragua,jinotega,exportadora atlantic s.a,2015,7.17,7.17,10,10,10,7.08,7.25,7.33,7.08,7.08,80.17
+Arabica,Honduras,marcala,cadexsa,2015,7.25,7.33,10,10,10,7.08,7.08,7.17,7,7.25,80.17
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.33,7,10,10,10,7.17,7.17,7.17,7,7.33,80.17
+Arabica,Mexico,coatepec,café katsina,2012,7.33,7.08,10,10,10,7.08,7.25,7.42,6.92,7.08,80.17
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.58,7.42,10,10,8.67,7.17,7.08,7.5,7.33,7.42,80.17
+Arabica,Mexico,veracruz,cafes de naranjal s.a. de c.v,2012,7.33,7,10,10,10,7,7.25,7.08,7.17,7.33,80.17
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.33,7.17,10,10,10,7,7,7.33,7,7.33,80.17
+Arabica,Brazil,mantiqueira de minas,carmo coffees,2017,7.17,7.08,10,10,10,7.25,7.25,7.17,7,7.17,80.08
+Arabica,Taiwan,苗栗泰安,宸嶧國際,2014,7.42,7,10,10,10,7,7,7.17,7.25,7.25,80.08
+Arabica,Nicaragua,,costco wholesale industries,2013,7.25,7.08,10,10,10,7.25,7.17,7.25,6.92,7.17,80.08
+Arabica,Taiwan,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,blossom valley宸嶧國際,2013,7.25,7,10,10,10,7,7.08,7.25,7.25,7.25,80.08
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,blossom valley宸嶧國際,2013,7.25,7,10,10,10,7.08,7.25,7,7.25,7.25,80.08
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,blossom valley宸嶧國際,2013,7.25,7,10,10,10,7.08,7.17,7.08,7.25,7.25,80.08
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.33,7.08,10,10,10,7.08,7.08,7.08,7.25,7.17,80.08
+Arabica,Mexico,escuitla,,2012,7.25,7.08,10,10,10,7.17,7.33,7.17,7,7.08,80.08
+Arabica,Nicaragua,jinotega,"comercial internacional exportadora, s.a.",2017,7.33,7,10,10,10,7.17,7.42,7.08,6.92,7.08,80
+Arabica,Myanmar,"doe kwin, pyin oo lwin",ngu shwe li coffee estate,2015,7.17,6.92,10,10,10,7,7.17,7.42,7,7.33,80
+Arabica,Mexico,"sierra fraylesca, chiapas",globus coffee,2014,7.58,7.42,10,8.67,8.67,7.5,7.5,7.5,7.42,7.75,80
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,blossom valley宸嶧國際,2013,7.25,7,10,10,10,7,7.25,7,7.25,7.25,80
+Arabica,Thailand,thailand,doi tung development project,2012,7.33,7,10,10,10,7.08,7.42,7.42,7.08,6.67,80
+Arabica,Mexico,coatepec,,2012,7.25,7.25,10,10,9.33,7.33,7.33,7.17,7.08,7.25,80
+Arabica,Mexico,san miguel del puerto,,2012,7.08,7.17,10,10,10,7,7.08,7.33,7,7.33,80
+Arabica,Ethiopia,limu,,2010,7.42,7.75,8.67,9.33,8.67,7.58,7.75,7.92,7.5,7.42,80
+Arabica,Colombia,huila,federacion nacional de cafeteros,2015,7.83,7.42,10,10,6.67,7.17,7.83,7.75,7.58,7.67,79.92
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.5,7,10,10,10,7.17,7.33,6.92,7,7,79.92
+Arabica,Mexico,chiapas,"finca triunfo verde, s.c.",2013,7.33,7.17,10,10,9.33,7.17,7.42,7.33,7.08,7.08,79.92
+Arabica,Mexico,"motozintla, chiapas",industrializadora de kaffee andes s.a. de c.v.,2012,7.17,7,10,10,10,7.08,7.33,7.25,6.92,7.17,79.92
+Arabica,Mexico,veracruz,,2012,7.5,6.75,10,10,10,7.08,7.25,7.17,7,7.17,79.92
+Arabica,Mexico,jaltenango,,2012,7.17,7.33,10,10,9.33,7.33,7.5,7.08,7.08,7.08,79.92
+Arabica,Mexico,coatepec,,2012,7.33,7.25,10,10,9.33,7.17,7.17,7.42,7,7.25,79.92
+Arabica,Mexico,veracruz,cafetalera la asunción s.a. de c.v.,2012,7.17,7,10,9.33,10,7.08,7.33,7.58,7.08,7.33,79.92
+Arabica,Kenya,kiambu,taylor winch (coffee) ltd,2017,7,7.08,10,10,10,7.25,7.25,7.17,7,7.08,79.83
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2017,7.33,7.08,10,10,9.33,7.33,7.25,7.33,6.92,7.25,79.83
+Arabica,Nicaragua,jinotega,asociación aldea global jinotega,2014,6.83,7.17,10,10,10,7.08,7.5,6.92,7.17,7.17,79.83
+Arabica,Mexico,veracruz,,2012,7.17,6.83,10,10,10,7,7.5,7.25,7,7.08,79.83
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.58,7.17,10,10,9.33,7.17,7.5,7.17,6.83,7.08,79.83
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2016,7.5,7.25,9.33,9.33,9.33,7.42,7.33,7.58,7.25,7.42,79.75
+Arabica,Taiwan,"taiwu township , pingtung county 屏東縣泰武鄉","red on tree co., ltd.",2014,7.75,7.33,8.67,9.33,9.33,7.83,7.67,7.33,7.17,7.33,79.75
+Arabica,Taiwan,"baihe dist., tainan city 臺南市白河區","red on tree co., ltd.",2013,7.08,7,10,10,10,7.17,7.17,7,7.25,7.08,79.75
+Arabica,Thailand,thailand,doi tung development project,2013,7.25,7,10,10,10,6.92,7.08,7.5,6.92,7.08,79.75
+Arabica,Peru,huanuco,sustainable harvest,2013,7,7.17,10,10,9.33,7.42,7.5,7.25,7,7.08,79.75
+Arabica,Costa Rica,brunca,the coffee source inc.,2013,7.58,8,10,8,8,7.58,7.67,7.75,7.67,7.5,79.75
+Arabica,Mexico,"la concordia, chiapas",union ramal santa cruz spr de ri,2013,7.58,6.67,10,10,10,6.92,7.5,7,7,7.08,79.75
+Arabica,Mexico,chiapas,comon yaj noptic s. de ss,2013,7.58,6.83,10,9.33,10,6.92,7.5,7.58,6.92,7.08,79.75
+Arabica,Mexico,chiapas,"finca triunfo verde, s.c.",2013,7.25,7,10,10,10,7.08,7.17,7.17,7,7.08,79.75
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.25,6.92,10,10,10,7,7.17,7.08,7.17,7.17,79.75
+Arabica,Mexico,pochutla,ecomtrading,2012,7.33,7,10,10,10,7,7.08,7.08,7,7.25,79.75
+Arabica,Guatemala,antigua,lusso coffee lab,2012,7.58,7.67,9.33,9.33,9.33,7.33,7,7.33,7.5,7.33,79.75
+Arabica,Mexico,tuxtla gutierrez,cafe montegrande,2012,7.25,7.33,10,10,10,7.08,7.25,7.08,6.92,6.83,79.75
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2016,7.42,7.25,9.33,9.33,9.33,7.33,7.42,7.58,7.25,7.42,79.67
+Arabica,El Salvador,cacahuatique,consejo salvadoreño del café,2016,7.25,7,10,10,10,7.17,7.33,6.83,7,7.08,79.67
+Arabica,Thailand,thailand,doi tung development project,2013,6.92,7.08,10,10,10,7.08,7.17,7.42,6.83,7.17,79.67
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.5,7,10,10,10,7.17,7.08,7.08,6.83,7,79.67
+Arabica,Mexico,"la concordia, chiapas",union ramal santa cruz spr de ri,2013,7.42,6.83,10,10,10,6.58,7.17,7.58,6.83,7.25,79.67
+Arabica,Mexico,"tenango de doria, hidalgo",,2012,7.33,7.33,10,10,10,7,7.08,6.75,7,7.17,79.67
+Arabica,Mexico,"coatepec, coatepec",ecomtrading,2012,6.92,7.08,10,10,10,7.08,7.08,7.17,7.17,7.17,79.67
+Arabica,Mexico,tepetzingo,cafetera el grande s.a. de c.v.,2012,7.08,6.92,10,10,10,7.08,7.25,7.33,6.92,7,79.58
+Arabica,Mexico,la concordia,beneficio custepec s.a. de c.v.,2012,7.25,6.92,10,10,10,7,7.25,7.33,6.92,6.92,79.58
+Arabica,Guatemala,"chuva, san marcos",,2010,7.08,7.08,10,10,10,7,7.25,7.33,6.83,7,79.58
+Arabica,Nicaragua,jinotega,cooperativa el gorrion r.l,2015,6.92,7,10,10,10,7,7.25,7.42,7,6.92,79.5
+Arabica,Taiwan,nantou,blossom valley宸嶧國際,2014,6.92,7,10,10,10,7,7.42,7,7.17,7,79.5
+Arabica,Colombia,cundinamarca,exportadora de cafe condor s.a,2013,7.83,7.5,10,6.67,10,7.5,7.67,7.42,7.42,7.5,79.5
+Arabica,Mexico,la concordia,beneficio custepec s.a. de c.v.,2012,7.25,7,10,10,9.33,7.08,7.58,7.25,6.92,7.08,79.5
+Arabica,Mexico,"coatepec, coatepec",,2012,7.25,7,10,10,9.33,7.17,7.17,7.25,7,7.33,79.5
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.08,7.42,9.33,9.33,9.33,7.42,7.33,7.58,7.25,7.33,79.42
+Arabica,Guatemala,oriente,outspan guatemala s.a.,2014,7.25,6.83,10,10,10,7.17,7,7,6.83,7.33,79.42
+Arabica,Mexico,xicotepec de juarez,cafessisimo compañia s.a. de c.v.,2012,7,6.83,10,10,10,7.17,7.33,7.42,6.83,6.83,79.42
+Arabica,Colombia,pereira,the coffee source inc.,2013,7.42,7.33,10,9.33,9.33,7.25,7.42,7.25,6.75,7.25,79.33
+Arabica,Mexico,zentla,,2012,7,6.83,10,10,10,6.92,7.42,7.33,6.83,7,79.33
+Arabica,Mexico,zentla,,2012,7.42,7,10,10,9.33,7.08,7.08,7.17,7.08,7.17,79.33
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.17,7.17,10,10,10,7.33,7.58,7.25,6.33,6.5,79.33
+Arabica,Taiwan,natou county,"red on tree co., ltd.",2014,7.08,6.75,10,10,10,7.08,7.42,7.25,6.83,6.83,79.25
+Arabica,Mexico,veracruz,cafes de naranjal s.a. de c.v,2012,7,6.92,10,10,10,7.08,7.17,7.17,6.92,7,79.25
+Arabica,Guatemala,santa rosa,"unex guatemala, s.a.",2017,7.33,7.42,9.33,9.33,8.67,7.42,7.5,7.42,7.33,7.42,79.17
+Arabica,Honduras,ocotepeque,coffee planet corporation s.a,2017,7.58,7,10,10,10,6.92,7,6.92,6.75,7,79.17
+Arabica,Guatemala,occidente,"unex guatemala, s.a.",2016,7.08,6.83,10,10,10,6.92,7,7.42,6.92,7,79.17
+Arabica,Guatemala,nuevo oriente,mercon guatemala s.a.,2015,7.25,6.83,10,10,10,6.92,7,7.25,6.75,7.17,79.17
+Arabica,Costa Rica,san rafael,s&d coffee and tea,2012,7.17,7.33,6.67,10,10,7.83,7.25,8,7.5,7.42,79.17
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.25,7.17,10,10,9.33,7.17,7.17,7.08,6.92,7.08,79.17
+Arabica,Mexico,yajalon,,2012,7.17,6.92,10,10,10,7,7.17,7.08,6.92,6.92,79.17
+Arabica,Guatemala,san marcos,"unex guatemala, s.a.",2017,7.58,7.67,8.67,8.67,8.67,7.67,7.67,7.42,7.42,7.67,79.08
+Arabica,United States (Puerto Rico),yauco region,"hacienda alto grande, llc.",2013,7.42,6.92,10,9.33,10,6.92,7.33,7.33,6.75,7.08,79.08
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.33,6.83,10,10,9.33,7.08,7.33,7.25,6.92,7,79.08
+Arabica,Mexico,tlacuilotepec,productores e industrializadores de café orgánico la fe s.c. de r.l.,2012,7.25,6.92,10,10,9.33,7,7.42,7.33,6.75,7.08,79.08
+Arabica,Mexico,talpa de allende,,2012,7.17,7.25,10,9.33,9.33,7.08,7.25,7.17,7.25,7.25,79.08
+Arabica,Guatemala,oriente,outspan guatemala s.a.,2014,7.33,6.58,10,10,10,6.83,7.08,7.42,6.58,7.17,79
+Arabica,Honduras,intibuca,cafes finos de exportacion s de r.l.,2014,7,7,10,10,10,7,7,7,7,7,79
+Arabica,Peru,san ignacio,sustainable harvest,2012,7.67,7,9.33,9.33,8.67,7.5,8,7.25,7.08,7.17,79
+Arabica,Mexico,"iliatenco, guerrero",café monteabuelo s.a. de c.v.,2012,6.75,7,10,10,10,7.08,7.17,7.25,6.67,7.08,79
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.5,7,10,10,8.67,7,7.25,7.5,6.92,7.17,79
+Arabica,Mexico,amatenango de la frontera,café pico de loro,2012,7.17,6.83,10,10,10,6.92,7.17,7.25,6.83,6.83,79
+Arabica,Mexico,"la concordia, chiapas",ecomtrading,2013,7.33,7,10,10,9.33,7.25,7.17,7.08,6.75,7,78.92
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.5,6.75,10,10,10,6.75,6.92,7.08,6.92,7,78.92
+Arabica,Nicaragua,jalapa,exportadora atlantic s.a,2016,7.17,6.75,10,10,10,7,7,7,6.92,7,78.83
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.5,7.17,9.33,9.33,9.33,7.42,7.58,7.25,6.92,6.92,78.75
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.33,6.75,10,10,10,7,7,7.25,6.33,7.08,78.75
+Arabica,Mexico,veracruz,empagri s.p.r. de r.l. de c.v.,2012,7.25,6.67,10,10,10,7,7.17,7,6.83,6.83,78.75
+Arabica,Mexico,veracruz,,2012,7.25,7,10,10,8.67,7,7.08,7.25,7.17,7.33,78.75
+Arabica,Mexico,"ohuapan, tlaltetela",,2012,7.67,7,8.67,10,9.33,7.17,7.58,7.33,6.83,7.17,78.75
+Arabica,China,yunnan,yunnan louis herbs r& d center,2013,7,7.08,9.33,10,10,7.17,7.17,7.17,6.83,6.92,78.67
+Arabica,Mexico,yecuatla,,2012,6.92,6.83,10,10,10,6.92,7.17,7.25,6.67,6.92,78.67
+Arabica,Nicaragua,nueva segovia,exportadora atlantic s.a,2016,7.08,6.92,10,10,10,6.92,7.08,6.83,6.75,7,78.58
+Arabica,Nicaragua,,exportadora atlantic s.a,2014,6.83,6.67,10,10,10,7.08,7.25,6.75,6.92,7.08,78.58
+Arabica,Guatemala,oriente,outspan guatemala s.a.,2014,7.33,7.17,10,9.33,8.67,7.17,7.25,7.58,6.92,7.17,78.58
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區","red on tree co., ltd.",2013,6.83,6.67,10,10,10,6.92,7,7.25,7.17,6.75,78.58
+Arabica,Mexico,tapachula,ecomtrading,2012,7,6.67,10,10,10,6.92,6.92,7.33,6.75,7,78.58
+Arabica,Mexico,cofradia de suchitlan,organizaciones de productores de cafe colimense sa de cv,2012,7.92,7.5,10,6.67,8,7.5,7.92,7.92,7.58,7.58,78.58
+Arabica,Mexico,"sierra, chiapas",unión de ejidos san fernando,2014,7.25,7.17,10,9.33,9.33,7.58,7.25,6.92,6.92,6.75,78.5
+Arabica,Mexico,villa talea de castro,villa talea café,2012,7.08,6.83,10,10,10,6.92,7,7,6.83,6.83,78.5
+Arabica,Mexico,los angeles,,2012,7.25,6.92,10,10,8.67,7.08,7.58,6.83,7,7.17,78.5
+Arabica,Brazil,monte carmelo,bourbon specialty coffees,2015,6.83,6.83,10,10,10,6.83,6.92,7.08,6.92,7,78.42
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.58,7.17,10,10,8,7,7.33,7.17,7,7.17,78.42
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.5,7.83,8.67,8,7.33,7.92,7.92,7.83,7.58,7.75,78.33
+Arabica,Guatemala,oriente,outspan guatemala s.a.,2014,7.17,6.67,10,10,10,7.17,7.17,7,6.67,6.5,78.33
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.17,6.5,10,10,10,6.83,7,7.17,6.5,7.17,78.33
+Arabica,Mexico,"xochitonalco, huautla        ",asociación agricola local de productores de café de huautla de jimenez        ,2012,7.25,7.75,10,9.33,8,7.42,7.33,7.5,7,7.25,78.33
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.17,7,10,10,10,7.33,7.33,7.25,6.17,6.08,78.33
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.5,7.42,8.67,8.67,8.67,7.42,7.5,7.58,7.33,7.5,78.25
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.42,7.25,9.33,8.67,8,7.75,7.67,7.5,7.33,7.33,78.25
+Arabica,Indonesia,ijen,pt. shriya artha nusantara,2016,6.92,6.83,10,10,10,6.83,6.92,6.92,6.92,6.83,78.17
+Arabica,Mexico,cordoba,,2012,7.08,6.75,10,9.33,10,6.92,7.25,7.25,6.67,6.83,78.08
+Arabica,Taiwan,"台南市東山區( dongshan dist., tainan city)",taiwan coffee laboratory,2016,7.5,7.25,10,10,6.67,7.5,7.5,7.17,7.33,7.08,78
+Arabica,Honduras,intibuca,cafes finos de exportacion s de r.l.,2014,6.83,6.67,10,10,10,6.83,7,7,6.67,7,78
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.58,7.33,9.33,8.67,8,7.33,7.5,7.42,7.5,7.33,78
+Arabica,Guatemala,oriente,outspan guatemala s.a.,2014,7.42,7.25,9.33,9.33,9.33,6.92,7,7.33,6.83,7.25,78
+Arabica,China,yunnan,greenhouse coffee china,2013,7.33,7.17,9.33,9.33,9.33,7,7.33,7.08,6.92,7.17,78
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7,6.67,10,10,10,6.83,6.67,7.17,6.83,6.83,78
+Arabica,Mexico,"motozintla, chiapas",industrializadora de kaffee andes s.a. de c.v.,2012,7.25,7.08,8,10,10,7.08,7.25,7,7,7.33,78
+Arabica,Costa Rica,occidental,santa laura exportadora de cafe s.l.e.c. s.a.,2014,7.5,6.83,10,9.33,8.67,6.83,7.08,7,7.42,7.25,77.92
+Arabica,Mexico,petatlan,,2012,7.42,6.92,10,10,8,7.08,7.25,7,7,7.25,77.92
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.17,7.17,10,10,10,6.83,7.33,7.08,6.17,6.17,77.92
+Arabica,Nicaragua,jinotega,"beneficiadora norteña de cafe, s. a. (bencafe)",2016,7.42,7.17,10,8.67,9.33,7,7.08,7.17,7,7,77.83
+Arabica,Brazil,,green mountain coffee,2014,7,6.67,10,10,10,6.83,7.08,6.83,6.67,6.75,77.83
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7,6.5,10,10,10,6.83,6.83,7.17,6.67,6.83,77.83
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區","red on tree co., ltd.",2012,7.17,6.67,10,9.33,9.33,7.17,7.33,7.33,6.58,6.75,77.67
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.58,7.58,6,9.33,9.33,7.42,7.42,7.67,7.58,7.67,77.58
+Arabica,Mexico,coatepec,,2012,7.17,6.67,10,10,10,6.75,6.83,6.75,6.58,6.75,77.5
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,7.08,6.17,10,10,10,7,6.92,7,6.33,6.92,77.42
+Arabica,Brazil,south of minas,ipanema coffees,2017,7.5,7,10,8,8,6.92,7.58,7.58,7.42,7.33,77.33
+Arabica,Guatemala,oriente,outspan guatemala s.a.,2014,7.33,6.67,9.33,9.33,9.33,7.17,7.17,7.17,6.83,7,77.33
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.33,6.83,10,9.33,9.33,6.92,6.92,7,6.67,7,77.33
+Arabica,Haiti,"dondon, haiti",haiti coffee,2013,6.83,6.83,10,10,9.33,6.92,6.92,6.75,6.83,6.83,77.25
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.08,6.75,10,9.33,8.67,7.42,7.58,6.67,6.83,6.92,77.25
+Arabica,Mexico,"motozintla, chiapas",industrializadora de kaffee andes s.a. de c.v.,2012,7.08,6.92,10,8.67,8.67,7.25,7.33,7.25,7,7,77.17
+Arabica,Peru,san ignacio,"tony's coffee and teas, inc.",2014,7.42,7.67,9.33,5.33,8.67,7.83,7.92,7.67,7.42,7.75,77
+Arabica,India,chickmangalore,olam japan,2016,7.67,7.42,6.67,10,9.33,7.42,7.17,6.67,7.17,7.33,76.83
+Arabica,Guatemala,oriente,asociación nacional del café - anacafe -,2012,6.42,6.5,10,10,10,6.92,6.33,7.33,6.5,6.5,76.5
+Arabica,Mexico,coatepec,exportadora moretto s.a. de c.v.,2012,7.17,6.58,10,9.33,9.33,6.58,7.25,7,6.58,6.58,76.42
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.5,7,8.67,8.67,8.67,7.33,7.17,7.5,6.83,7,76.33
+Arabica,Guatemala,oriente,eduardo ambrocio,2012,6.17,6.17,10,10,10,6.83,7,7.17,6.5,6.5,76.33
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.25,7.08,9.33,8.67,8.67,6.83,7.33,7.17,6.83,7.08,76.25
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2013,7.5,7.5,8,8,8,7.25,7.67,7.58,7.33,7.33,76.17
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.42,6.75,10,10,7.33,6.83,6.92,7.08,6.83,7,76.17
+Arabica,Indonesia,indonesia,,2011,7.33,6.67,9.33,10,9.33,6.33,7.58,6.08,6.5,7,76.17
+Arabica,Mexico,tepictla,el mejor café,2012,7.08,6.58,10,7.33,10,7.08,7.17,7.17,6.83,6.83,76.08
+Arabica,Honduras,intibuca,cafes finos de exportacion s de r.l.,2014,6.83,7,10,8.67,9.33,6.83,7,6.83,6.67,6.83,76
+Arabica,Philippines,"benguet, mountain province",prime3,2012,6.83,6.67,9.33,10,9.33,7,6.75,6.92,6.5,6.5,75.83
+Arabica,Brazil,monte carmelo,volcafe ltda.,2017,7.17,7,10,8,8,7,7.17,7.5,6.83,7,75.67
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,7.92,6.83,8,8,8,7.17,7.33,7.58,7.17,7.58,75.58
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,6.67,6.5,10,10,8.67,6.75,7.17,7,6.33,6.5,75.58
+Arabica,Mexico,tlacuilotepec,productores e industrializadores de café orgánico la fe s.c. de r.l.,2012,7.5,6.83,10,8,8,6.83,7.17,7,6.92,7.25,75.5
+Arabica,Mexico,ocosingo,sposel s. de s.s.,2012,7.17,6.58,10,6,10,7.75,7.25,6.83,6.67,6.92,75.17
+Arabica,Mexico,,cafe montegrande,2012,7.25,6.67,10,6.67,10,6.83,7.17,7.08,6.67,6.83,75.17
+Arabica,Mexico,huautla de jimenez,union regional de cafeticultores de la mazateca alta,2012,7.17,6.75,10,7.33,8.67,6.67,7.42,7.17,6.83,7.17,75.17
+Arabica,Mexico,menglian,grupo juvenil magtayani ac,2012,7,6.75,10,6.67,10,6.83,7.17,6.92,6.75,6.92,75
+Arabica,Mexico,zaragoza itundujia,cafeorganico.mx,2012,7.08,6.42,10,8.67,8.67,6.75,7,7,6.58,6.75,74.92
+Arabica,Mexico,coatepec,,2012,7.33,7,10,5.33,10,7,7.5,7.25,6.67,6.75,74.83
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,6.75,6.33,10,10,8,6.75,7.25,7,6.17,6.5,74.75
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2012,6.75,6.42,10,10,8,6.58,7,7.17,6.17,6.67,74.75
+Arabica,Mexico,chiapas,cesmach s.c.,2013,7.08,6.75,10,7.33,8,6.83,7.33,7.5,6.83,7,74.67
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,7.5,7.33,6.67,8.67,8,7.33,7.42,7.25,7,7.25,74.42
+Arabica,Guatemala,oriente,"unex guatemala, s.a.",2013,6.5,6,8.67,10,8.67,6.83,7.33,7.5,6.5,6.33,74.33
+Arabica,Mexico,"chocaman, veracruz",,2012,7,6.67,10,6.67,10,6.83,7.08,6.83,6.67,6.58,74.33
+Arabica,Mexico,xalapa,,2012,6.92,6.5,10,6.67,10,6.75,7.25,7.33,6.17,6.42,74
+Arabica,Mexico,coatepec,,2012,7.67,7.08,10,2.67,10,7.33,7.33,7.58,7.17,7,73.83
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2012,7.17,7.33,6.67,6.67,9.33,6.92,7.67,7.58,7.17,7.17,73.67
+Arabica,Brazil,campos altos - cerrado,bourbon specialty coffees,2016,7.25,6.67,10,8,8,6.42,7,7,6.58,6.58,73.5
+Arabica,Honduras,intibuca,cafes finos de exportacion s de r.l.,2014,7,7.08,8,8,8,7.17,7,7.17,6.83,7.17,73.42
+Arabica,Mexico,sierra alta mixe y zapoteca,upctiz zapoteca s.p.r. de r.l.,2014,7.08,6.92,8,8,8,6.92,6.92,7.08,6.92,7.08,72.92
+Arabica,Colombia,,costco wholesale industries,2013,8,7.33,6.67,6.67,6.67,7.67,7.42,7.33,7.75,7.33,72.83
+Arabica,United States (Hawaii),kona,kona pacific farmers cooperative,2014,6.92,6.92,9.33,6.67,6.67,7.17,7.58,7.5,6.92,6.92,72.58
+Arabica,Haiti,marmelade,,2010,6.92,6.42,8.67,5.33,10,6.67,7.33,7.17,7.08,6.75,72.33
+Arabica,Costa Rica,occidental,santa laura exportadora de cafe s.l.e.c. s.a.,2014,6.33,6.25,10,6.67,10,6.5,6.33,6.83,6.33,6.5,71.75
+Arabica,Mexico,tlatlauquitepec,cafe colonial de tlatlauquitepec,2012,6.92,6.58,10,2.67,10,7,7.17,6.92,6.92,6.92,71.08
+Arabica,Mexico,veracruz,,2012,6.5,6.42,10,6,8,6.5,7.33,7.17,6.42,6.67,71
+Arabica,Mexico,"sierra norte yajalon, chiapas",globus coffee,2014,6.92,6.75,10,6,6,6.92,7.42,6.92,6.83,7,70.75
+Arabica,Brazil,cerrado,volcafe ltda.,2017,7,6.67,10,6,6,6.83,7.33,7,6.83,7,70.67
+Arabica,Honduras,marcala,cadexsa,2014,6.67,6.33,8,8,8,6.17,6.83,6.67,6.17,6.5,69.33
+Arabica,Honduras,marcala,cadexsa,2014,7,6.5,8,8,8,6.17,6.5,6.67,6.17,6.17,69.17
+Arabica,Honduras,marcala,cadexsa,2014,7,6.33,8,8,8,6.17,6.67,6.5,6.17,6.33,69.17
+Arabica,Mexico,juchique de ferrer,terra mia,2012,7.08,6.75,10,0,10,6.75,7.25,7.42,6.25,6.83,68.33
+Arabica,Haiti,"department d'artibonite , haiti",haiti coffee,2012,6.75,6.42,6,6,9.33,6.67,7.08,6.67,6.42,6.58,67.92
+Arabica,Nicaragua,jalapa,exportadora atlantic s.a,2016,7.25,6.17,6,6,6,6.08,6.42,6.25,6.33,6.58,63.08
+Arabica,Guatemala,nuevo oriente,unicafe,2012,7.5,6.67,1.33,1.33,8,6.67,7.33,7.67,6.67,6.67,59.83
+Arabica,Honduras,comayagua,cigrah s.a de c.v,2017,0,0,0,0,0,0,0,0,0,0,0
+Robusta,Uganda,sheema south western,ankole coffee producers coop,2013,7.83,8,8,10,10,7.92,8.25,7.92,7.75,8.08,83.75
+Robusta,India,chikmagalur karnataka indua,kaapi royale,2017,8,8,8,10,10,7.92,7.92,8,7.92,7.75,83.5
+Robusta,India,chikmagalur,sethuraman estate,2015,7.92,8,7.83,10,10,7.92,7.83,8,7.92,7.83,83.25
+Robusta,Uganda,central,ugacof ltd,2013,8,8.08,7.75,10,10,7.75,7.83,7.75,7.92,7.92,83
+Robusta,Uganda,luwero central region,katuka development trust ltd,2013,8.33,7.67,7.58,10,10,7.75,8.25,7.75,7.83,7.83,83
+Robusta,India,chikmagalur,"cafemakers, llc",2012,8,7.75,7.75,10,10,7.92,7.75,8,7.67,7.92,82.75
+Robusta,India,chikmagalur,cafemakers,2014,7.67,7.83,8,10,10,7.75,7.92,7.83,7.83,7.75,82.58
+Robusta,India,chikmagalur karnataka india,kaapi royale,2017,7.67,7.92,7.92,10,10,7.83,7.92,7.67,7.83,7.75,82.5
+Robusta,India,chikmagalur karnataka,kaapi royale,2015,7.67,7.92,7.92,10,10,8,7.83,7.83,7.58,7.75,82.5
+Robusta,Uganda,western,ugacof ltd,2014,7.67,7.83,7.75,10,10,7.75,7.92,7.83,7.83,7.83,82.42
+Robusta,Uganda,iganga namadrope eastern,ugacof ltd,2014,7.58,7.83,7.67,10,10,7.67,7.5,7.83,7.75,7.92,81.75
+Robusta,India,chikmagalur karnataka,kaapi royale,2015,7.67,7.75,7.75,10,10,7.58,7.75,7.5,7.75,7.83,81.58
+Robusta,India,chikmagalur,cafemakers,2014,7.58,8.33,7.5,10,10,7.67,7.67,7.58,7.67,7.58,81.58
+Robusta,Uganda,eastern,kasozi coffee farmers association,2013,8,7.67,7.58,10,10,7.5,7.67,7.58,7.75,7.75,81.5
+Robusta,Uganda,south western,ankole coffee producers coop,2014,8,7.75,7.58,10,10,7.58,7.67,7.5,7.75,7.67,81.5
+Robusta,India,chikmagalur,sethuraman estate,2015,7.75,7.83,7.58,10,10,7.58,7.58,7.67,7.67,7.75,81.42
+Robusta,India,chikmagalur,"cafemakers, llc",2013,7.5,7.83,7.83,10,10,7.83,7.67,7.83,7.25,7.5,81.25
+Robusta,Uganda,western,kawacom uganda ltd,2013,7.33,7.58,7.75,10,10,7.67,7.75,7.75,7.5,7.58,80.92
+Robusta,Uganda,western,nitubaasa ltd,2013,7.83,7.42,7.75,10,10,7.5,7.5,7.67,7.33,7.58,80.58
+Robusta,Uganda,southern,mannya coffee project,2013,7.75,7.5,7.67,10,10,7.58,7.67,7.58,7.33,7.42,80.5
+Robusta,India,chikmagalur,cafemakers,2014,7.67,7.5,7.42,10,10,7.5,7.58,7.33,7.5,7.67,80.17
+Robusta,India,chikmagalur,"cafemakers, llc",2013,7.58,7.58,7.42,10,10,7.5,7.42,7.83,7.42,7.42,80.17
+Robusta,United States,chikmagalur,"cafemakers, llc",2012,7.92,7.33,7.58,10,9.33,7.42,7.42,7.42,7.42,7.5,79.33
+Robusta,Ecuador,"san juan, playas",robustasa,2016,7.75,7.83,7.75,10,10,7.83,5.08,7.58,7.33,7.58,78.75
+Robusta,Ecuador,"san juan, playas",robustasa,2016,7.5,8.58,8.42,10,10,5.25,5.17,7.75,7.75,7.67,78.08
+Robusta,United States,"kwanza norte province, angola",global opportunity fund,2014,7.33,7.17,7.42,9.33,9.33,7.17,7.5,7.42,7.17,7.33,77.17
+Robusta,India,,cafe politico,2013,7.42,6.92,7.08,9.33,9.33,7,7.25,7.17,6.75,6.83,75.08
+Robusta,Vietnam,,cafe politico,2013,6.75,7.92,6.67,9.33,9.33,6.83,6.92,6.83,6.5,6.67,73.75
