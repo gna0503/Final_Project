@@ -3,7 +3,8 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import numpy as np
-import plotly.graph_objects as go
+# import plotly.graph_objects as go
+from plotly import graph_objs as go
 import plotly.express as px
 from sklearn.model_selection import train_test_split
 from sklearn import linear_model, tree, neighbors
@@ -11,13 +12,11 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 import dash_bootstrap_components as dbc
 
+
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE])
 server = app.server
 
 # ---------- Import and clean data (importing csv into pandas)
-# df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Other/Dash_Introduction/intro_bees.csv")
-# url = "https://raw.githubusercontent.com/gna0503/Final_Project/data_clean/cleaned_data/coffeequality.csv"
-# dfr = pd.read_csv(url)
 
 dfr = pd.read_csv('coffeequality.csv')
 
